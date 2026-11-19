@@ -1,0 +1,379 @@
+colaborador_id;data_desligamento;tipo;motivo;aviso_previo
+E0070;25/01/2023;voluntario;Mudança de cidade;Trabalhado
+E0107;26/01/2023;Voluntario;Salário;Trabalhado
+E0126;04/01/2023;Voluntario;Relação com a gestão;Trabalhado
+E0127;06/01/2023;Voluntario;Carga de trabalho;Trabalhado
+E0346;24/01/2023;Voluntario;Salário;Indenizado
+E0064;14/02/2023;Involuntario;Performance;Trabalhado
+E0353;19/02/2023;Involuntario;Performance;Trabalhado
+E0395;20/02/2023;Voluntario;Mudança de cidade;Trabalhado
+E0407;02/02/2023;Involuntario;Reestruturação;Trabalhado
+E0432;25/02/2023;Voluntario;Motivos pessoais;Trabalhado
+E0457;07/02/2023;Voluntario;Salário;Trabalhado
+E0473;09/02/2023;Voluntario;Carga de trabalho;Indenizado
+E0577;09/02/2023;Involuntario;Reestruturação;Trabalhado
+E0622;17/02/2023;Involuntario;Reestruturação;Trabalhado
+E0003;16/03/2023;Involuntario;Performance;Trabalhado
+E0004;06/03/2023;Voluntario;Salário;Trabalhado
+E0201;17/03/2023;Voluntario;Falta de perspectiva de carreira;Trabalhado
+E0296;26/03/2023;voluntario;Motivos pessoais;Trabalhado
+E0388;18/03/2023;Voluntario;Motivos pessoais;Trabalhado
+E0508;08/03/2023;Voluntario;Salário;Indenizado
+E0085;09/04/2023;Voluntario;Salário;Trabalhado
+E0135;01/04/2023;Involuntario;Performance;Trabalhado
+E0273;06/04/2023;voluntario;Salário;Indenizado
+E0305;11/04/2023;Voluntario;Motivos pessoais;Indenizado
+E0325;27/04/2023;Voluntario;Salário;Trabalhado
+E0504;10/04/2023;Involuntario;Reestruturação;Indenizado
+E0561;16/04/2023;Voluntario;Salário;Trabalhado
+E0589;05/04/2023;voluntario;Motivos pessoais;Trabalhado
+E0639;16/04/2023;Voluntario;Relação com a gestão;Trabalhado
+E0644;06/04/2023;Involuntario;Performance;Indenizado
+E0271;02/05/2023;Voluntario;Falta de perspectiva de carreira;Indenizado
+E0288;16/05/2023;Voluntario;Salário;Trabalhado
+E0604;02/05/2023;Involuntario;Performance;Trabalhado
+E0619;07/05/2023;Voluntario;Salário;Trabalhado
+E0620;05/05/2023;Voluntario;Motivos pessoais;Trabalhado
+E0672;01/05/2023;Involuntario;Performance;Trabalhado
+E0043;17/06/2023;Voluntario;Salário;Indenizado
+E0044;22/06/2023;Voluntario;Proposta de outra empresa;Trabalhado
+E0267;10/06/2023;involuntario;Performance;Trabalhado
+E0301;09/06/2023;Voluntario;Salário;Indenizado
+E0307;08/06/2023;Voluntario;Salário;Trabalhado
+E0347;24/06/2023;Voluntario;Mudança de cidade;Trabalhado
+E0412;10/06/2023;Voluntario;Falta de perspectiva de carreira;Indenizado
+E0438;20/06/2023;involuntario;Performance;Indenizado
+E0486;21/06/2023;Voluntario;Mudança de cidade;Trabalhado
+E0558;11/06/2023;Voluntario;Salário;Trabalhado
+E0580;17/06/2023;Voluntario;Proposta de outra empresa;Trabalhado
+E0018;27/07/2023;Involuntario;Reestruturação;Indenizado
+E0088;18/07/2023;Voluntario;Salário;Indenizado
+E0097;11/07/2023;Voluntario;Mudança de cidade;Trabalhado
+E0225;25/07/2023;voluntario;Proposta de outra empresa;Indenizado
+E0251;18/07/2023;Voluntario;Salário;Trabalhado
+E0321;11/07/2023;Voluntario;Proposta de outra empresa;Trabalhado
+E0348;24/07/2023;Voluntario;Salário;Trabalhado
+E0386;26/07/2023;Voluntario;Falta de perspectiva de carreira;Indenizado
+E0514;11/07/2023;Voluntario;Mudança de cidade;Trabalhado
+E0535;16/07/2023;Voluntario;Proposta de outra empresa;Trabalhado
+E0617;16/07/2023;Voluntario;Relação com a gestão;Indenizado
+E0674;08/07/2023;Voluntario;Relação com a gestão;Trabalhado
+E0698;19/07/2023;Voluntario;Relação com a gestão;Indenizado
+E0210;21/08/2023;Voluntario;Proposta de outra empresa;Trabalhado
+E0243;17/08/2023;Voluntario;Salário;Trabalhado
+E0295;26/08/2023;voluntario;Clima / cultura;Indenizado
+E0384;27/08/2023;Involuntario;Performance;Trabalhado
+E0507;15/08/2023;Voluntario;Salário;Trabalhado
+E0531;22/08/2023;voluntario;Salário;Trabalhado
+E0579;01/08/2023;Involuntario;Reestruturação;Trabalhado
+E0613;18/08/2023;Voluntario;Salário;Trabalhado
+E0677;01/08/2023;Voluntario;Motivos pessoais;Trabalhado
+E0682;14/08/2023;Voluntario;Relação com a gestão;Trabalhado
+E0108;24/09/2023;Voluntario;Salário;Indenizado
+E0331;14/09/2023;Voluntario;Proposta de outra empresa;Indenizado
+E0456;26/09/2023;Voluntario;Salário;Trabalhado
+E0475;20/09/2023;Voluntario;Motivos pessoais;Indenizado
+E0482;03/09/2023;Voluntario;Mudança de cidade;Indenizado
+E0542;13/09/2023;Voluntario;Falta de perspectiva de carreira;Trabalhado
+E0582;25/09/2023;voluntario;Salário;Indenizado
+E0055;24/10/2023;Voluntario;Mudança de cidade;Trabalhado
+E0155;06/10/2023;Voluntario;Salário;Trabalhado
+E0158;12/10/2023;Voluntario;Salário;Indenizado
+E0163;16/10/2023;Voluntario;Falta de perspectiva de carreira;Trabalhado
+E0197;25/10/2023;Involuntario;Performance;Indenizado
+E0202;08/10/2023;Involuntario;Performance;Indenizado
+E0280;23/10/2023;Voluntario;Falta de perspectiva de carreira;Trabalhado
+E0441;10/10/2023;Voluntario;Motivos pessoais;Indenizado
+E0450;25/10/2023;Voluntario;Falta de perspectiva de carreira;Indenizado
+E0462;06/10/2023;involuntario;Performance;Indenizado
+E0513;23/10/2023;Voluntario;Salário;Trabalhado
+E0681;05/10/2023;Involuntario;Reestruturação;Indenizado
+E0726;17/10/2023;Voluntario;Motivos pessoais;Indenizado
+E0742;27/10/2023;Voluntario;Relação com a gestão;Trabalhado
+E0117;01/11/2023;Involuntario;Performance;Indenizado
+E0178;08/11/2023;Involuntario;Reestruturação;Indenizado
+E0306;22/11/2023;Voluntario;Salário;Trabalhado
+E0385;05/11/2023;Voluntario;Clima / cultura;Indenizado
+E0398;16/11/2023;Voluntario;Mudança de cidade;Trabalhado
+E0464;08/11/2023;voluntario;Proposta de outra empresa;Trabalhado
+E0506;09/11/2023;Voluntario;Salário;Indenizado
+E0552;09/11/2023;Voluntario;Relação com a gestão;Indenizado
+E0568;19/11/2023;Voluntario;Falta de perspectiva de carreira;Trabalhado
+E0653;20/11/2023;Voluntario;Clima / cultura;Indenizado
+E0655;01/11/2023;Voluntario;Motivos pessoais;Trabalhado
+E0769;08/11/2023;voluntario;Carga de trabalho;Trabalhado
+E0013;22/12/2023;Involuntario;Performance;Indenizado
+E0200;10/12/2023;Voluntario;Falta de perspectiva de carreira;Trabalhado
+E0203;23/12/2023;Voluntario;Salário;Indenizado
+E0230;22/12/2023;Voluntario;Salário;Indenizado
+E0286;22/12/2023;Voluntario;Falta de perspectiva de carreira;Indenizado
+E0471;25/12/2023;Voluntario;Salário;Indenizado
+E0528;25/12/2023;voluntario;Proposta de outra empresa;Indenizado
+E0543;20/12/2023;Voluntario;Relação com a gestão;Indenizado
+E0701;10/12/2023;Voluntario;Carga de trabalho;Indenizado
+E0002;22/01/2024;Voluntario;Salário;Indenizado
+E0084;22/01/2024;Voluntario;Mudança de cidade;Indenizado
+E0096;15/01/2024;Voluntario;Motivos pessoais;Trabalhado
+E0141;19/01/2024;Voluntario;Salário;Indenizado
+E0159;21/01/2024;Involuntario;Reestruturação;Indenizado
+E0170;20/01/2024;Voluntario;Salário;Trabalhado
+E0369;21/01/2024;Voluntario;Relação com a gestão;Trabalhado
+E0423;10/01/2024;Involuntario;Performance;Trabalhado
+E0446;16/01/2024;Voluntario;Salário;Trabalhado
+E0483;21/01/2024;involuntario;Performance;Indenizado
+E0565;15/01/2024;Voluntario;Falta de perspectiva de carreira;Trabalhado
+E0799;25/01/2024;Voluntario;Proposta de outra empresa;Indenizado
+E0046;04/02/2024;Voluntario;Clima / cultura;Indenizado
+E0109;24/02/2024;Involuntario;Reestruturação;Trabalhado
+E0160;01/02/2024;Voluntario;Proposta de outra empresa;Trabalhado
+E0209;22/02/2024;Voluntario;Falta de perspectiva de carreira;Indenizado
+E0224;07/02/2024;Voluntario;Motivos pessoais;Trabalhado
+E0262;01/02/2024;Voluntario;Salário;Trabalhado
+E0285;21/02/2024;Voluntario;Falta de perspectiva de carreira;Indenizado
+E0300;20/02/2024;Involuntario;Performance;Trabalhado
+E0328;15/02/2024;Voluntario;Clima / cultura;Indenizado
+E0338;01/02/2024;voluntario;Salário;Trabalhado
+E0399;08/02/2024;Voluntario;Salário;Indenizado
+E0460;15/02/2024;Voluntario;Relação com a gestão;Trabalhado
+E0493;08/02/2024;Involuntario;Performance;Indenizado
+E0607;17/02/2024;Voluntario;Relação com a gestão;Indenizado
+E0609;26/02/2024;Voluntario;Mudança de cidade;Trabalhado
+E0612;20/02/2024;Involuntario;Performance;Indenizado
+E0650;06/02/2024;Voluntario;Proposta de outra empresa;Trabalhado
+E0265;03/03/2024;Voluntario;Salário;Trabalhado
+E0292;26/03/2024;Voluntario;Mudança de cidade;Indenizado
+E0461;23/03/2024;Voluntario;Salário;Indenizado
+E0548;09/03/2024;Voluntario;Clima / cultura;Trabalhado
+E0560;10/03/2024;Voluntario;Proposta de outra empresa;Trabalhado
+E0689;12/03/2024;voluntario;Clima / cultura;Indenizado
+E0790;10/03/2024;Involuntario;Performance;Trabalhado
+E0801;16/03/2024;Involuntario;Performance;Trabalhado
+E0166;04/04/2024;Involuntario;Performance;Indenizado
+E0168;10/04/2024;Involuntario;Reestruturação;Indenizado
+E0241;16/04/2024;Voluntario;Falta de perspectiva de carreira;Trabalhado
+E0268;21/04/2024;Voluntario;Salário;Trabalhado
+E0287;11/04/2024;involuntario;Performance;Trabalhado
+E0317;12/04/2024;Involuntario;Reestruturação;Trabalhado
+E0340;16/04/2024;Voluntario;Falta de perspectiva de carreira;Trabalhado
+E0447;19/04/2024;voluntario;Clima / cultura;Trabalhado
+E0515;18/04/2024;Voluntario;Motivos pessoais;Indenizado
+E0640;19/04/2024;Voluntario;Proposta de outra empresa;Trabalhado
+E0765;08/04/2024;Voluntario;Clima / cultura;Trabalhado
+E0190;02/05/2024;Voluntario;Clima / cultura;Trabalhado
+E0235;11/05/2024;Voluntario;Relação com a gestão;Trabalhado
+E0252;17/05/2024;Voluntario;Salário;Trabalhado
+E0253;21/05/2024;Voluntario;Clima / cultura;Trabalhado
+E0263;12/05/2024;Voluntario;Relação com a gestão;Trabalhado
+E0315;24/05/2024;Voluntario;Salário;Trabalhado
+E0537;18/05/2024;Voluntario;Salário;Indenizado
+E0563;19/05/2024;Involuntario;Performance;Indenizado
+E0616;04/05/2024;Voluntario;Relação com a gestão;Trabalhado
+E0630;05/05/2024;Involuntario;Performance;Trabalhado
+E0678;02/05/2024;Voluntario;Proposta de outra empresa;Trabalhado
+E0695;10/05/2024;Voluntario;Salário;Trabalhado
+E0737;24/05/2024;Involuntario;Performance;Trabalhado
+E0810;18/05/2024;Involuntario;Performance;Indenizado
+E0848;05/05/2024;Voluntario;Motivos pessoais;Trabalhado
+E0093;05/06/2024;Voluntario;Salário;Trabalhado
+E0120;04/06/2024;Voluntario;Salário;Indenizado
+E0255;23/06/2024;Involuntario;Reestruturação;Trabalhado
+E0345;25/06/2024;Voluntario;Motivos pessoais;Indenizado
+E0349;25/06/2024;Voluntario;Falta de perspectiva de carreira;Trabalhado
+E0360;04/06/2024;Involuntario;Performance;Trabalhado
+E0421;02/06/2024;Voluntario;Motivos pessoais;Indenizado
+E0430;15/06/2024;Voluntario;Motivos pessoais;Trabalhado
+E0431;05/06/2024;Voluntario;Motivos pessoais;Indenizado
+E0470;19/06/2024;Involuntario;Performance;Trabalhado
+E0571;19/06/2024;Voluntario;Clima / cultura;Trabalhado
+E0606;02/06/2024;Voluntario;Motivos pessoais;Trabalhado
+E0631;09/06/2024;Voluntario;Clima / cultura;Trabalhado
+E0731;06/06/2024;Voluntario;Relação com a gestão;Trabalhado
+E0759;21/06/2024;Voluntario;Salário;Trabalhado
+E0016;15/07/2024;Voluntario;Clima / cultura;Trabalhado
+E0143;20/07/2024;Voluntario;Falta de perspectiva de carreira;Indenizado
+E0149;19/07/2024;voluntario;Clima / cultura;Indenizado
+E0162;25/07/2024;Voluntario;Clima / cultura;Trabalhado
+E0188;19/07/2024;Voluntario;Relação com a gestão;Indenizado
+E0309;16/07/2024;Voluntario;Mudança de cidade;Indenizado
+E0371;18/07/2024;Voluntario;Proposta de outra empresa;Trabalhado
+E0459;27/07/2024;Voluntario;Salário;Trabalhado
+E0488;02/07/2024;Voluntario;Falta de perspectiva de carreira;Trabalhado
+E0842;19/07/2024;Voluntario;Motivos pessoais;Trabalhado
+E0862;10/07/2024;Voluntario;Proposta de outra empresa;Indenizado
+E0870;19/07/2024;Voluntario;Motivos pessoais;Trabalhado
+E0026;19/08/2024;Voluntario;Relação com a gestão;Indenizado
+E0040;10/08/2024;Voluntario;Proposta de outra empresa;Trabalhado
+E0136;07/08/2024;Voluntario;Relação com a gestão;Indenizado
+E0234;07/08/2024;Voluntario;Mudança de cidade;Trabalhado
+E0260;26/08/2024;Voluntario;Clima / cultura;Trabalhado
+E0602;10/08/2024;Voluntario;Proposta de outra empresa;Trabalhado
+E0763;26/08/2024;Voluntario;Relação com a gestão;Trabalhado
+E0883;12/08/2024;voluntario;Mudança de cidade;Indenizado
+E0889;11/08/2024;Voluntario;Clima / cultura;Indenizado
+E0029;09/09/2024;Voluntario;Relação com a gestão;Trabalhado
+E0031;22/09/2024;voluntario;Relação com a gestão;Trabalhado
+E0116;23/09/2024;voluntario;Proposta de outra empresa;Trabalhado
+E0154;14/09/2024;Voluntario;Clima / cultura;Trabalhado
+E0187;10/09/2024;Voluntario;Carga de trabalho;Indenizado
+E0217;18/09/2024;Voluntario;Falta de perspectiva de carreira;Trabalhado
+E0458;20/09/2024;Involuntario;Reestruturação;Indenizado
+E0581;19/09/2024;Voluntario;Salário;Indenizado
+E0694;21/09/2024;Voluntario;Relação com a gestão;Trabalhado
+E0904;24/09/2024;Voluntario;Mudança de cidade;Trabalhado
+E0219;17/10/2024;Voluntario;Falta de perspectiva de carreira;Trabalhado
+E0250;06/10/2024;involuntario;Performance;Trabalhado
+E0341;13/10/2024;Voluntario;Mudança de cidade;Trabalhado
+E0666;20/10/2024;voluntario;Relação com a gestão;Trabalhado
+E0713;24/10/2024;Voluntario;Motivos pessoais;Indenizado
+E0722;10/10/2024;Voluntario;Motivos pessoais;Trabalhado
+E0762;03/10/2024;Voluntario;Salário;Indenizado
+E0829;27/10/2024;Voluntario;Relação com a gestão;Trabalhado
+E0720;01/11/2024;Involuntario;Performance;Indenizado
+E0752;22/11/2024;Involuntario;Performance;Trabalhado
+E0813;17/11/2024;Involuntario;Performance;Trabalhado
+E0824;22/11/2024;Voluntario;Motivos pessoais;Indenizado
+E0892;14/11/2024;Voluntario;Clima / cultura;Trabalhado
+E0934;09/11/2024;Voluntario;Proposta de outra empresa;Indenizado
+E0955;03/11/2024;Involuntario;Performance;Trabalhado
+E0027;25/12/2024;Voluntario;Salário;Indenizado
+E0087;11/12/2024;Voluntario;Motivos pessoais;Trabalhado
+E0213;16/12/2024;Voluntario;Mudança de cidade;Trabalhado
+E0324;02/12/2024;Voluntario;Proposta de outra empresa;Indenizado
+E0467;27/12/2024;voluntario;Carga de trabalho;Indenizado
+E0740;06/12/2024;voluntario;Proposta de outra empresa;Trabalhado
+E0781;22/12/2024;Involuntario;Performance;Trabalhado
+E0856;20/12/2024;voluntario;Motivos pessoais;Indenizado
+E0025;24/01/2025;Voluntario;Clima / cultura;Trabalhado
+E0048;07/01/2025;Voluntario;Salário;Indenizado
+E0098;07/01/2025;Involuntario;Reestruturação;Trabalhado
+E0102;09/01/2025;Voluntario;Falta de perspectiva de carreira;Trabalhado
+E0165;19/01/2025;Voluntario;Salário;Indenizado
+E0248;18/01/2025;involuntario;Performance;Trabalhado
+E0359;15/01/2025;Voluntario;Carga de trabalho;Indenizado
+E0402;12/01/2025;Voluntario;Falta de perspectiva de carreira;Trabalhado
+E0529;19/01/2025;Voluntario;Salário;Indenizado
+E0595;09/01/2025;Involuntario;Performance;Trabalhado
+E0615;23/01/2025;Voluntario;Proposta de outra empresa;Indenizado
+E0732;09/01/2025;Voluntario;Motivos pessoais;Trabalhado
+E0775;01/01/2025;Involuntario;Reestruturação;Trabalhado
+E0789;03/01/2025;Voluntario;Clima / cultura;Trabalhado
+E0835;01/01/2025;Involuntario;Performance;Trabalhado
+E0922;16/01/2025;Voluntario;Carga de trabalho;Indenizado
+E1001;19/01/2025;Voluntario;Salário;Trabalhado
+E0090;08/02/2025;voluntario;Falta de perspectiva de carreira;Trabalhado
+E0144;15/02/2025;Voluntario;Carga de trabalho;Trabalhado
+E0220;03/02/2025;Voluntario;Clima / cultura;Indenizado
+E0222;23/02/2025;Involuntario;Reestruturação;Trabalhado
+E0269;05/02/2025;Voluntario;Falta de perspectiva de carreira;Trabalhado
+E0434;03/02/2025;Voluntario;Clima / cultura;Trabalhado
+E0445;14/02/2025;Voluntario;Falta de perspectiva de carreira;Trabalhado
+E0605;17/02/2025;Voluntario;Mudança de cidade;Indenizado
+E0663;10/02/2025;Involuntario;Performance;Trabalhado
+E0766;01/02/2025;Voluntario;Proposta de outra empresa;Trabalhado
+E0779;20/02/2025;Voluntario;Motivos pessoais;Indenizado
+E0944;12/02/2025;Voluntario;Motivos pessoais;Trabalhado
+E0080;22/03/2025;Voluntario;Falta de perspectiva de carreira;Trabalhado
+E0111;15/03/2025;Voluntario;Salário;Trabalhado
+E0258;17/03/2025;Voluntario;Salário;Trabalhado
+E0259;12/03/2025;Voluntario;Clima / cultura;Trabalhado
+E0676;26/03/2025;Voluntario;Salário;Trabalhado
+E0872;09/03/2025;Voluntario;Motivos pessoais;Trabalhado
+E0900;24/03/2025;Voluntario;Proposta de outra empresa;Trabalhado
+E0909;19/03/2025;Voluntario;Mudança de cidade;Trabalhado
+E0022;17/04/2025;Involuntario;Performance;Indenizado
+E0083;21/04/2025;Voluntario;Mudança de cidade;Indenizado
+E0314;15/04/2025;Voluntario;Proposta de outra empresa;Trabalhado
+E0344;17/04/2025;voluntario;Falta de perspectiva de carreira;Trabalhado
+E0489;14/04/2025;Voluntario;Salário;Indenizado
+E0594;24/04/2025;Voluntario;Motivos pessoais;Trabalhado
+E0596;27/04/2025;Voluntario;Salário;Indenizado
+E0861;13/04/2025;Voluntario;Carga de trabalho;Indenizado
+E0907;25/04/2025;Voluntario;Mudança de cidade;Indenizado
+E0983;13/04/2025;Voluntario;Mudança de cidade;Indenizado
+E1059;06/04/2025;voluntario;Carga de trabalho;Trabalhado
+E1060;19/04/2025;Voluntario;Motivos pessoais;Indenizado
+E0001;06/05/2025;Voluntario;Falta de perspectiva de carreira;Indenizado
+E0099;13/05/2025;Involuntario;Performance;Indenizado
+E0110;06/05/2025;Voluntario;Falta de perspectiva de carreira;Indenizado
+E0236;16/05/2025;Voluntario;Salário;Trabalhado
+E0247;11/05/2025;Voluntario;Relação com a gestão;Trabalhado
+E0279;17/05/2025;Involuntario;Performance;Trabalhado
+E0532;21/05/2025;Voluntario;Falta de perspectiva de carreira;Trabalhado
+E0618;11/05/2025;Voluntario;Falta de perspectiva de carreira;Trabalhado
+E0798;24/05/2025;Voluntario;Clima / cultura;Trabalhado
+E0948;10/05/2025;Voluntario;Carga de trabalho;Indenizado
+E1009;21/05/2025;Voluntario;Mudança de cidade;Trabalhado
+E0132;20/06/2025;Voluntario;Falta de perspectiva de carreira;Indenizado
+E0343;22/06/2025;Voluntario;Motivos pessoais;Trabalhado
+E0382;04/06/2025;Voluntario;Falta de perspectiva de carreira;Indenizado
+E0414;18/06/2025;voluntario;Salário;Trabalhado
+E0469;26/06/2025;Involuntario;Reestruturação;Indenizado
+E0795;02/06/2025;involuntario;Reestruturação;Trabalhado
+E0850;17/06/2025;Voluntario;Motivos pessoais;Indenizado
+E0905;18/06/2025;involuntario;Reestruturação;Trabalhado
+E0931;26/06/2025;Voluntario;Mudança de cidade;Trabalhado
+E0946;24/06/2025;involuntario;Reestruturação;Trabalhado
+E1061;14/06/2025;Voluntario;Proposta de outra empresa;Indenizado
+E1079;26/06/2025;Voluntario;Salário;Indenizado
+E1089;26/06/2025;voluntario;Clima / cultura;Trabalhado
+E0336;25/07/2025;Voluntario;Proposta de outra empresa;Indenizado
+E0539;26/07/2025;Voluntario;Salário;Trabalhado
+E0811;14/07/2025;Involuntario;Performance;Indenizado
+E0866;23/07/2025;Voluntario;Mudança de cidade;Indenizado
+E0896;16/07/2025;Involuntario;Reestruturação;Trabalhado
+E0990;13/07/2025;Involuntario;Reestruturação;Trabalhado
+E0174;04/08/2025;Voluntario;Salário;Indenizado
+E0303;12/08/2025;involuntario;Reestruturação;Indenizado
+E0463;10/08/2025;voluntario;Salário;Indenizado
+E0495;24/08/2025;Voluntario;Proposta de outra empresa;Trabalhado
+E0551;08/08/2025;Involuntario;Reestruturação;Indenizado
+E0614;20/08/2025;voluntario;Falta de perspectiva de carreira;Indenizado
+E0635;16/08/2025;Voluntario;Motivos pessoais;Trabalhado
+E0805;02/08/2025;Involuntario;Performance;Indenizado
+E0924;06/08/2025;Voluntario;Mudança de cidade;Indenizado
+E0964;23/08/2025;Voluntario;Motivos pessoais;Trabalhado
+E1083;08/08/2025;Voluntario;Relação com a gestão;Indenizado
+E0035;18/09/2025;Voluntario;Falta de perspectiva de carreira;Trabalhado
+E0123;27/09/2025;Voluntario;Mudança de cidade;Indenizado
+E0320;22/09/2025;voluntario;Carga de trabalho;Indenizado
+E0387;08/09/2025;Involuntario;Performance;Indenizado
+E0400;03/09/2025;Involuntario;Performance;Trabalhado
+E0501;12/09/2025;Voluntario;Falta de perspectiva de carreira;Trabalhado
+E0658;23/09/2025;Voluntario;Proposta de outra empresa;Trabalhado
+E0717;07/09/2025;Voluntario;Salário;Trabalhado
+E0761;24/09/2025;Voluntario;Mudança de cidade;Indenizado
+E0822;19/09/2025;Voluntario;Proposta de outra empresa;Trabalhado
+E1028;03/09/2025;voluntario;Carga de trabalho;Indenizado
+E1052;25/09/2025;Voluntario;Mudança de cidade;Indenizado
+E1066;12/09/2025;Involuntario;Reestruturação;Trabalhado
+E1094;19/09/2025;Voluntario;Proposta de outra empresa;Trabalhado
+E0036;08/10/2025;Voluntario;Clima / cultura;Trabalhado
+E0151;09/10/2025;Voluntario;Falta de perspectiva de carreira;Indenizado
+E0172;11/10/2025;Voluntario;Salário;Trabalhado
+E0408;26/10/2025;Voluntario;Salário;Trabalhado
+E0502;10/10/2025;Voluntario;Salário;Trabalhado
+E0716;15/10/2025;Voluntario;Proposta de outra empresa;Indenizado
+E0933;09/10/2025;Voluntario;Salário;Trabalhado
+E0958;10/10/2025;Voluntario;Relação com a gestão;Trabalhado
+E1121;14/10/2025;Voluntario;Salário;Trabalhado
+E1139;23/10/2025;Voluntario;Motivos pessoais;Trabalhado
+E1159;04/10/2025;voluntario;Relação com a gestão;Trabalhado
+E0054;21/11/2025;Voluntario;Falta de perspectiva de carreira;Indenizado
+E0335;17/11/2025;Voluntario;Carga de trabalho;Trabalhado
+E0452;18/11/2025;Voluntario;Salário;Trabalhado
+E0597;23/11/2025;Voluntario;Proposta de outra empresa;Indenizado
+E0928;07/11/2025;Voluntario;Motivos pessoais;Trabalhado
+E0996;16/11/2025;Voluntario;Proposta de outra empresa;Indenizado
+E1031;09/11/2025;Voluntario;Relação com a gestão;Indenizado
+E1126;08/11/2025;Involuntario;Reestruturação;Trabalhado
+E0005;13/12/2025;Involuntario;Reestruturação;Trabalhado
+E0152;07/12/2025;Voluntario;Salário;Trabalhado
+E0249;20/12/2025;Involuntario;Reestruturação;Trabalhado
+E0478;15/12/2025;Involuntario;Reestruturação;Indenizado
+E0503;27/12/2025;Voluntario;Clima / cultura;Indenizado
+E0851;19/12/2025;Voluntario;Salário;Indenizado
+E0888;27/12/2025;Voluntario;Proposta de outra empresa;Trabalhado
+E1015;14/12/2025;Voluntario;Motivos pessoais;Trabalhado
+E1044;14/12/2025;Involuntario;Reestruturação;Indenizado
+E1160;12/12/2025;Voluntario;Clima / cultura;Trabalhado
+E1186;21/12/2025;Voluntario;Proposta de outra empresa;Trabalhado

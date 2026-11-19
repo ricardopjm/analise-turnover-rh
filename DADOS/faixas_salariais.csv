@@ -1,0 +1,10 @@
+cargo;nivel;faixa_min;faixa_media;faixa_max
+Estagiario;Unico;1600;1900;2200
+Assistente;Junior;2200;2600;3100
+Assistente;Pleno;2800;3200;3700
+Analista;Junior;3500;4100;4800
+Analista;Pleno;4800;5900;7000
+Analista;Senior;7000;8600;10500
+Especialista;Unico;10000;12500;15000
+Coordenador;Unico;12000;15000;18000
+Gerente;Unico;18000;23000;28000

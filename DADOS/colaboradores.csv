@@ -1,0 +1,1231 @@
+colaborador_id;nome;area;cargo;nivel;gestor_id;gestor;data_admissao;data_desligamento;salario;modalidade;cidade;uf;data_nascimento;data_ultima_promocao
+E0592;Helena Souza;Logistica;ESTAGIARIO;Unico;G033;Henrique Ribeiro;17/11/2013;;R$ 2.044,13;Presencial;Sao Paulo;SP;16/02/1988;11/03/2018
+E0517;Vitor Barbosa;Comercial;Analista;Junior;G022;Otavio Nascimento;11/04/2019;;R$ 4.104,48;Híbrido;Curitiba;PR;16/11/1970;25/04/2021
+E0039;Henrique Teixeira;Operacoes;Estagiario;Unico;;;24/12/2019;;1534.37;Hibrido;Sao Paulo;SP;17/07/1984;26/09/2021
+E0195;Priscila Costa;T.I.;Assistente;Junior;G027;Natalia Barbosa;20/05/2021;;2509.82;Remoto;Porto Alegre;RS;23/11/1982;04/10/2022
+E1145;Tatiana Carvalho;Comercial;ANALISTA;Senior;G025;Amanda Oliveira;07/09/2025;;9947.88;PRESENCIAL;Belo Horizonte;MG;09/09/1977;07/09/2025
+E0567;Igor Costa;Marketing;Analista;Pleno;G038;Tatiana Martins;20/08/2020;;5870.36;HIBRIDO;Belo Horizonte;MG;12/10/1967;24/11/2022
+E0760;Fernanda Cardoso;Operacoes;Especialista;Unico;G013;Isabela Carvalho;18/10/2023;;14420.15;PRESENCIAL;Recife;PE;24/02/1973;18/10/2023
+E0646;Karina Moreira;Logistica;Assistente;Junior;G035;Otavio Rodrigues;08/03/2023;;2743.48;Hibrido;Sao Paulo;SP;02/07/2004;08/03/2023
+E1044;Bruno Ferreira;Comercial;Analista ;Senior;G026;Thiago Teixeira;25/03/2025;14/12/2025;8515.25;Hibrido;Sao Paulo;SP;14/01/1974;25/03/2025
+E1002;Larissa Santos;Operacoes;Analista;Senior;G015;Beatriz Ferreira;10/12/2024;;R$ 7.140,00;presencial;Curitiba;PR;24/05/1970;01/02/2025
+E0152;Thiago Almeida;Atendimento;Assistente;Pleno;G012;Felipe Silva;18/08/2021;07/12/2025;2856.0;Presencial;Rio de Janeiro;RJ;02/06/1989;01/03/2025
+E1143;Tiago Ribeiro;Logistica;Estagiario;Unico;G034;Karina Silva;17/09/2025;;2088.87;Presencial;Belo Horizonte;MG;08/06/1994;17/09/2025
+E0471;Joao Carvalho;Atendimento;Coordenador;Unico;G005;Natalia Martins;29/04/2020;25/12/2023;10950.53;Presencial;Salvador;BA;03/10/1991;17/08/2021
+E0619;Mariana Ferreira;Atendimento;Estagiario;Unico;G002;Joao Ribeiro;09/06/2021;07/05/2023;1508.78;Remoto;Rio de Janeiro;RJ;04/03/1973;26/06/2021
+E0268;Caio Carvalho;Comercial;Coordenador;Unico;G023;Bruno Ferreira;28/03/2022;21/04/2024;11206.16;Remoto;Sao Paulo;SP;15/04/1996;20/09/2022
+E0960;Felipe Araujo;Comercial;Analista;Junior;G023;Bruno Ferreira;25/09/2024;;4686.59;Presencial;Belo Horizonte;MG;22/05/1985;25/09/2024
+E0462;Thiago Araujo;Logistica;Assistente;Junior;G032;Vitor Teixeira;20/05/2019;06/10/2023;2040.06;Presencial;Sao Paulo;SP;08/02/2000;05/04/2021
+E0352;Gustavo Martins;Comercial;Especialista;Unico;G021;Gabriela Pereira;01/09/2020;;10035.21;Híbrido;Recife;PE;18/10/1993;27/12/2020
+E0863;Larissa Souza;Tecnologia;Especialista;Unico;G028;Igor Martins;07/04/2024;;12695.31;Hibrido;Belo Horizonte;MG;16/08/1990;07/04/2024
+E0641;Beatriz Silva;Atendimento;Assistente;Junior;G010;Gustavo Santos;17/02/2023;;R$ 2.666,19;presencial;Sao Paulo;SP;14/11/1966;17/02/2023
+E0108;Caio Teixeira;Logistica;Assistente;Junior;G035;Otavio Rodrigues;24/04/2021;24/09/2023;2111.97;Presencial;Sao Paulo;SP;04/01/1998;21/04/2022
+E0321;Juliana Cardoso;T.I.;GERENTE;Unico;G028;Igor Martins;13/11/2021;11/07/2023;17942.38;Hibrido;Sao Paulo;SP;05/09/1982;23/06/2022
+E0969;Fernanda Pereira;RH;Assistente;Junior;G040;Henrique Rodrigues;21/10/2024;;3027.2;Presencial;Sao Paulo;SP;20/04/1977;21/10/2024
+E0312;Karina Ribeiro;Operacoes;Analista;Senior;G016;Patricia Gomes;16/04/2021;;6614.07;presencial;Campinas;SP;06/07/1982;16/05/2021
+E1041;Patricia Martins;Logistica;Assistente;Junior;G032;Vitor Teixeira;11/02/2025;;2899.69;presencial;Rio de Janeiro;RJ;05/02/1973;11/02/2025
+E0218;Beatriz Moreira;Marketing;Analista;Pleno;G039;Henrique Pereira;29/05/2020;;5300.77;HIBRIDO;Sao Paulo;SP;05/11/1988;08/06/2022
+E0061;Amanda Moreira;Operacoes;Especialista;Unico;G013;Isabela Carvalho;20/05/2019;;12570.73;Presencial;Sao Paulo;SP;18/03/1981;08/10/2022
+E0626;Gabriela Moreira;Operacoes;Analista;Senior;G016;Patricia Gomes;23/01/2023;;9574.82;presencial;Sao Paulo;SP;09/01/2004;23/01/2023
+E0506;Felipe Moreira;Atendimento;Assistente;Junior;G006;Otavio Cardoso;12/06/2021;09/11/2023;2461.57;Presencial;Salvador;BA;27/09/1989;27/03/2022
+E0952;Caio Almeida;Comercial;Analista;Junior;G024;Renato Araujo;18/09/2024;;4638.16;Hibrido;Rio de Janeiro;RJ;17/06/1996;18/09/2024
+E0860;Vanessa Pereira;Atendimento;Analista;Junior;G006;Otavio Cardoso;27/04/2024;;4209.2;Presencial;Belo Horizonte;MG;18/10/1988;27/04/2024
+E0345;Joao Souza;Logistica;Assistente;Pleno;G035;Otavio Rodrigues;23/04/2018;25/06/2024;3122.49;PRESENCIAL;Fortaleza;CE;02/12/1973;01/06/2023
+E0062;Marcos Araujo;Tecnologia;Especialista;Unico;G028;Igor Martins;06/12/2017;;R$ 11.172,74;Remoto;Fortaleza;CE;02/09/1975;09/05/2021
+E0591;Henrique Ferreira;Financeiro;Gerente;Unico;G037;Karina Santos;14/03/2017;;20939.65;Hibrido;Curitiba;PR;02/01/1966;16/11/2020
+E0822;Sabrina Almeida;TI;Analista;Pleno;G028;Igor Martins;09/02/2024;19/09/2025;6504.82;Hibrido;Salvador;BA;03/12/1972;09/02/2024
+E1171;Tiago Almeida;Atendimento;Assistente;Junior;G004;Rodrigo Moreira;19/10/2025;;2777.45;presencial;Sao Paulo;SP;24/09/1976;19/10/2025
+E0902;Fernanda Lima;Comercial;Analista;Senior;G021;Gabriela Pereira;18/06/2024;;9216.91;HIBRIDO;Fortaleza;CE;07/03/1991;18/06/2024
+E1009;Ana Oliveira;Logistica;Assistente;Junior;G034;Karina Silva;15/01/2025;21/05/2025;2793.08;Remoto;Fortaleza;CE;24/02/1987;15/01/2025
+E0316;Wesley Costa;Operacoes;Analista;Senior;G017;Joao Oliveira;22/09/2013;;7574.83;Presencial;Sao Paulo;SP;16/07/1975;01/04/2023
+E0881;Ana Ferreira;Logistica;Assistente;Junior;G032;Vitor Teixeira;09/05/2024;;2724.72;HIBRIDO;Brasilia;DF;09/11/1968;09/05/2024
+E0238;Sabrina Costa;Operacoes;Analista;Senior;G015;Beatriz Ferreira;18/06/2020;;8627.13;Hibrido;Curitiba;PR;06/08/1966;29/03/2022
+E0364;Sofia Santos;Atendimento;Assistente;Pleno;G005;Natalia Martins;15/05/2021;;2856.0;Presencial;Fortaleza;CE;02/05/1999;01/11/2024
+E0855;Karina Ferreira;Comercial;Analista;Pleno;G024;Renato Araujo;17/03/2024;;6225.7;Híbrido;Campinas;SP;06/05/1980;17/03/2024
+E0078;Rafael Ferreira;Operacoes;Analista;Junior;G017;Joao Oliveira;24/05/2019;;3815.81;hibrido;Curitiba;PR;27/06/1979;08/10/2022
+E0678;Gustavo Nascimento;Comercial;Estagiario;Unico;G025;Amanda Oliveira;07/05/2023;02/05/2024;2083.85;Hibrido;Brasilia;DF;12/10/1997;07/05/2023
+E0375;Gabriela Almeida;Financeiro;Analista ;Senior;G037;Karina Santos;12/10/2019;;8194.91;Hibrido;Sao Paulo;SP;07/03/1968;08/09/2021
+E0824;Thiago Pereira;Atendimento;Assistente;Junior;G006;Otavio Cardoso;14/02/2024;22/11/2024;2759.81;HIBRIDO;Rio de Janeiro;RJ;19/01/2005;14/02/2024
+E1158;Tatiana Carvalho;T.I.;Estagiario;Unico;G029;Joao Moreira;03/09/2025;;2202.51;Presencial;Porto Alegre;RS;07/07/2001;03/09/2025
+E0054;Larissa Nascimento;RH;Analista;Senior;G040;Henrique Rodrigues;15/04/2021;21/11/2025;7376.46;Presencial;Sao Paulo;SP;17/04/1996;07/11/2021
+E0448;Henrique Souza;Comercial;Analista;Pleno;G022;Otavio Nascimento;21/05/2019;;5070.15;Hibrido;Sao Paulo;SP;15/12/1985;03/01/2022
+E0569;Gabriela Moreira;Financeiro;Analista;Pleno;G036;Juliana Souza;26/07/2019;;4772.27;HIBRIDO;Belo Horizonte;MG;24/07/1989;31/10/2020
+E0045;Joao Martins;Operacoes;Analista;Pleno;G013;Isabela Carvalho;01/07/2020;;4896.0;Presencial;Recife;PE;01/08/1963;01/05/2024
+E0192;Sabrina Carvalho;Financeiro;Analista;Junior;G037;Karina Santos;09/04/2021;;3276.64;presencial;Belo Horizonte;MG;16/02/2001;21/06/2022
+E0032;Tatiana Souza;Comercial;Coordenador;Unico;G022;Otavio Nascimento;09/11/2017;;11948.54;Hibrido;Rio de Janeiro;RJ;03/07/1965;30/09/2019
+E0600;Rodrigo Moreira;Comercial;Coordenador;Unico;G026;Thiago Teixeira;12/02/2022;;14084.19;PRESENCIAL;Belo Horizonte;MG;20/07/1966;18/10/2022
+E0293;Carla Barbosa;Logistica;Assistente;Junior;G032;Vitor Teixeira;30/10/2020;;2459.87;PRESENCIAL;Rio de Janeiro;RJ;09/12/1992;09/09/2022
+E0379;Vanessa Ferreira;Atendimento;Assistente;Pleno;G005;Natalia Martins;02/07/2019;;2856.0;Presencial;Recife;PE;16/11/1995;01/04/2025
+E1026;Priscila Moreira;Logistica;Assistente;Pleno;G032;Vitor Teixeira;18/01/2025;;3196.21;hibrido;Campinas;SP;01/09/1984;18/01/2025
+E1144;Helena Nascimento;Marketing;Analista;Pleno;G038;Tatiana Martins;23/09/2025;;6658.41;Hibrido;Rio de Janeiro;RJ;16/08/1998;23/09/2025
+E0909;Tatiana Rodrigues;Operacoes;Assistente;Junior;G014;Tiago Gomes;20/06/2024;19/03/2025;2664.53;hibrido;Belo Horizonte;MG;11/04/1967;20/06/2024
+E0070;Bruno Pereira;Operacoes;ANALISTA;Senior;G020;Debora Nascimento;04/07/2017;25/01/2023;8239.06;HIBRIDO;Belo Horizonte;MG;20/12/1966;15/05/2022
+E0404;Karina Santos;Atendimento;Assistente;Pleno;G005;Natalia Martins;10/10/2019;;3053.7;Hibrido;Rio de Janeiro;RJ;25/02/1986;22/01/2020
+E0786;Gustavo Silva;Operacoes;Analista;Pleno;G018;Marcos Oliveira;06/11/2023;;5991.3;Presencial;Brasilia;DF;10/03/1972;06/11/2023
+E0477;Karina Rodrigues;Atendimento;Analista;Junior;G009;Ana Moreira;28/07/2019;;3371.18;hibrido;Curitiba;PR;11/11/1982;22/09/2019
+E0094;Natalia Teixeira;Marketing;Analista;Junior;G039;Henrique Pereira;05/06/2021;;3671.96;Hibrido;Recife;PE;10/08/1975;07/11/2021
+E0043;Mariana Pereira;Logistica;ASSISTENTE;Junior;G032;Vitor Teixeira;28/04/2020;17/06/2023;2040.42;Presencial;Rio de Janeiro;RJ;05/12/1999;06/09/2022
+E0301;Diego Martins;Operacoes;Analista;Pleno;G014;Tiago Gomes;10/12/2021;09/06/2023;4474.55;presencial;Belo Horizonte;MG;10/08/2002;10/11/2022
+E0483;Gustavo Barbosa;Operações;ANALISTA;Senior;G019;Natalia Cardoso;09/02/2022;21/01/2024;6760.73;Hibrido;Rio de Janeiro;RJ;09/09/1997;02/07/2022
+E0804;Sofia Costa;Operacoes;Especialista;Unico;G020;Debora Nascimento;09/01/2024;;14384.26;PRESENCIAL;Fortaleza;CE;08/11/2002;09/01/2024
+E1062;Fernanda Rodrigues;Atendimento;Analista;Pleno;G002;Joao Ribeiro;13/04/2025;;R$ 6.923,12;Presencial;Fortaleza;CE;24/12/1973;13/04/2025
+E0081;Vitor Nascimento;Operacoes;Analista;Pleno;G020;Debora Nascimento;08/06/2017;;4896.0;Hibrido;Fortaleza;CE;27/11/1982;01/08/2025
+E0484;Vitor Teixeira;Tecnologia;Assistente;Junior;G027;Natalia Barbosa;13/04/2013;;2790.54;Hibrido;Recife;PE;11/03/1971;17/12/2018
+E0450;Mariana Oliveira;Atendimento;Assistente;Pleno;G001;Igor Carvalho;10/04/2020;25/10/2023;2404.16;Presencial;Curitiba;PR;25/02/1972;20/09/2020
+E0124;Tiago Moreira;Operacoes;Analista;Junior;G018;Marcos Oliveira;12/11/2017;;3262.67;Presencial;Belo Horizonte;MG;21/06/1978;14/07/2022
+E0170;Marcos Costa;Operações;Coordenador;Unico;G017;Joao Oliveira;11/11/2018;20/01/2024;11158.28;Presencial;Recife;PE;12/11/1979;17/12/2019
+E0093;Mariana Ferreira;Financeiro;Analista;Pleno;G037;Karina Santos;10/08/2015;05/06/2024;4621.71;Presencial;Rio de Janeiro;RJ;12/02/1970;20/07/2020
+E0260;Ana Almeida;Atendimento;Assistente;Junior;G011;Debora Santos;09/09/2019;26/08/2024;2372.37;Hibrido;Belo Horizonte;MG;21/08/1985;19/09/2019
+E0431;Priscila Oliveira;Atendimento;Assistente;Junior;G009;Ana Moreira;07/10/2020;05/06/2024;2300.2;Presencial;Rio de Janeiro;RJ;04/12/1981;03/04/2022
+E0958;Tiago Santos;Atendimento;Assistente;Junior;G008;Felipe Rodrigues;14/09/2024;10/10/2025;2678.73;Presencial;Recife;PE;18/10/1994;14/09/2024
+E0942;Ana Silva;Comercial;Coordenador ;Unico;G022;Otavio Nascimento;14/08/2024;;17263.8;Presencial;Rio de Janeiro;RJ;01/09/1984;14/08/2024
+E0675;Ana Ferreira;Operacoes;Estagiario;Unico;G018;Marcos Oliveira;16/04/2023;;2229.22;Presencial;Recife;PE;09/09/1974;16/04/2023
+E0920;Debora Almeida;Financeiro;Analista;Junior;G037;Karina Santos;06/07/2024;;4743.15;HIBRIDO;Salvador;BA;25/10/1996;06/07/2024
+E1088;Igor Barbosa;Atendimento;Analista;Junior;G003;Helena Rodrigues;02/05/2025;;4410.3;PRESENCIAL;Porto Alegre;RS;23/07/2000;02/05/2025
+E0040;Juliana Moreira;Comercial;Analista;Pleno;G023;Bruno Ferreira;19/05/2020;10/08/2024;5499.12;PRESENCIAL;Sao Paulo;SP;17/07/1977;10/09/2022
+E0809;Renato Cardoso;Operacoes;Analista;Pleno;G017;Joao Oliveira;10/01/2024;;6019.27;Presencial;Belo Horizonte;MG;12/11/2001;10/01/2024
+E0457;Karina Teixeira;Atendimento;Analista;Junior;G005;Natalia Martins;05/07/2017;07/02/2023;3651.99;Hibrido;Sao Paulo;SP;24/04/1992;27/07/2017
+E0357;Mariana Cardoso;RH;Assistente;Pleno;G040;Henrique Rodrigues;12/06/2018;;2941.68;Presencial;Sao Paulo;SP;07/01/1962;01/01/2024
+E0919;Rodrigo Gomes;Financeiro;Analista;Pleno;G037;Karina Santos;12/07/2024;;6810.4;Home Office;Salvador;BA;23/03/1977;12/07/2024
+E0299;Thiago Nascimento;Operações;Estagiario;Unico;G018;Marcos Oliveira;02/04/2018;;2000.06;hibrido;Belo Horizonte;MG;17/09/1975;04/10/2018
+E0896;Mariana Nascimento;Atendimento;Analista;Pleno;G008;Felipe Rodrigues;08/06/2024;16/07/2025;4909.05;Presencial;Porto Alegre;RS;14/04/2003;01/03/2025
+E0489;Igor Gomes;Operações;Analista;Pleno;G019;Natalia Cardoso;21/12/2018;14/04/2025;5930.83;Presencial;Belo Horizonte;MG;22/04/1992;14/10/2022
+E1130;Sofia Pereira;Atendimento;Assistente;Junior;G001;Igor Carvalho;20/08/2025;;2620.98;Presencial;Sao Paulo;SP;24/02/1995;20/08/2025
+E1179;Karina Lima;Atendimento;Analista;Junior;G008;Felipe Rodrigues;20/10/2025;;4652.81;Remoto;Recife;PE;26/10/1977;20/10/2025
+E0398;Juliana Silva;Tecnologia;Analista;Junior;G029;Joao Moreira;26/09/2019;16/11/2023;3506.76;Remoto;Sao Paulo;SP;23/10/1978;14/05/2021
+E1113;Eduardo Ferreira;Marketing;Coordenador;Unico;G038;Tatiana Martins;04/07/2025;;16803.44;Hibrido;Sao Paulo;SP;20/08/1981;04/07/2025
+E0178;Patricia Ribeiro;Atendimento;Assistente;Junior;G010;Gustavo Santos;23/11/2019;08/11/2023;2322.09;presencial;Sao Paulo;SP;08/10/1962;30/12/2019
+E0516;Felipe Moreira;Operacoes;Estagiario;Unico;G020;Debora Nascimento;04/12/2018;;1678.62;Home Office;Curitiba;PR;13/06/1990;25/03/2020
+E0290;Rodrigo Barbosa;RH;Analista;Pleno;G041;Igor Araujo;25/03/2021;;5042.88;Presencial;Sao Paulo;SP;09/02/1987;01/08/2024
+E0758;Henrique Almeida;Atendimento;Estagiario;Unico;G008;Felipe Rodrigues;17/10/2023;;2228.52;Presencial;Campinas;SP;25/09/1991;17/10/2023
+E0753;Larissa Rodrigues;Operacoes;Estagiario;Unico;G013;Isabela Carvalho;02/10/2023;;2243.04;Presencial;Rio de Janeiro;RJ;21/12/1971;02/10/2023
+E0096;Igor Moreira;Comercial;Analista;Pleno;G024;Renato Araujo;20/11/2020;15/01/2024;5573.43;Hibrido;Brasilia;DF;06/05/1998;01/11/2022
+E0354;Mariana Rodrigues;RH;Gerente;Unico;G041;Igor Araujo;01/08/2019;;23791.27;Presencial;Curitiba;PR;11/08/1978;04/09/2022
+E0737;Marcos Cardoso;Operacoes;Analista;Senior;G013;Isabela Carvalho;26/09/2023;24/05/2024;8582.25;Presencial;Salvador;BA;08/05/1993;26/09/2023
+E0058;Tatiana Lima;Comercial;Analista;Pleno;G024;Renato Araujo;22/03/2019;;4896.0;Híbrido;Sao Paulo;SP;20/07/1991;01/05/2025
+E0289;Patricia Carvalho;Comercial;Analista;Junior;G025;Amanda Oliveira;06/06/2021;;3873.86;Hibrido;Campinas;SP;12/09/1986;07/07/2021
+E0240;Otavio Pereira;Financeiro;Analista;Pleno;G037;Karina Santos;12/11/2019;;5973.02;PRESENCIAL;Sao Paulo;SP;21/08/1979;31/07/2021
+E0615;Karina Araujo;Logistica;Assistente;Pleno;G033;Henrique Ribeiro;17/12/2021;23/01/2025;2466.32;Presencial;Sao Paulo;SP;12/09/1976;11/05/2022
+E1127;Otavio Costa;Marketing;Analista;Pleno;G038;Tatiana Martins;08/07/2025;;6751.4;Presencial;Rio de Janeiro;RJ;14/10/1978;08/07/2025
+E0904;Eduardo Almeida;Financeiro;Analista;Senior;G036;Juliana Souza;22/06/2024;24/09/2024;7140.0;Híbrido;Sao Paulo;SP;21/01/1987;01/07/2024
+E0513;Sabrina Almeida;Comercial;Analista;Pleno;G023;Bruno Ferreira;18/05/2015;23/10/2023;4748.52;Presencial;Sao Paulo;SP;06/06/1987;20/10/2015
+E0435;Vitor Gomes;Operacoes;Analista;Senior;G016;Patricia Gomes;17/05/2022;;8137.12;Presencial;Salvador;BA;25/10/1998;20/06/2022
+E0538;Mariana Martins;Tecnologia;Especialista;Unico;G029;Joao Moreira;01/12/2018;;10216.61;Home Office;Sao Paulo;SP;27/06/1961;01/06/2019
+E0783;Helena Nascimento;Tecnologia;Coordenador;Unico;G031;Karina Almeida;20/11/2023;;17967.95;Hibrido;Rio de Janeiro;RJ;25/08/2000;20/11/2023
+E0165;Henrique Souza;Logistica;Assistente;Pleno;G035;Otavio Rodrigues;17/06/2022;19/01/2025;2856.0;Presencial;Campinas;SP;27/11/1979;01/04/2023
+E1050;Mariana Martins;Operações;Analista;Senior;G018;Marcos Oliveira;15/03/2025;;8862.12;Presencial;Sao Paulo;SP;22/04/1977;15/03/2025
+E1029;Otavio Carvalho;Logistica;Analista ;Junior;G035;Otavio Rodrigues;15/02/2025;;4779.11;hibrido;Rio de Janeiro;RJ;07/12/1977;15/02/2025
+E0084;Henrique Araujo;Atendimento;Estagiario;Unico;;;19/08/2020;22/01/2024;1853.73;presencial;Sao Paulo;SP;17/07/1999;06/06/2022
+E0129;Patricia Souza;Logistica;Assistente;Junior;G034;Karina Silva;20/05/2020;;2119.3;Presencial;Recife;PE;10/01/1974;03/04/2022
+E1108;Diego Costa;Atendimento;ANALISTA;Pleno;G012;Felipe Silva;04/06/2025;;6881.72;HIBRIDO;Fortaleza;CE;04/12/1992;04/06/2025
+E0149;Juliana Lima;Atendimento;Assistente;Junior;G011;Debora Santos;17/10/2020;19/07/2024;2329.2;Hibrido;Belo Horizonte;MG;14/04/1964;18/11/2022
+E0003;Thiago Nascimento;Tecnologia;Estagiario;Unico;G030;Isabela Gomes;06/12/2019;16/03/2023;1608.38;Remoto;Rio de Janeiro;RJ;09/08/1982;07/04/2021
+E0042;Gustavo Martins;Tecnologia;Analista;Pleno;G028;Igor Martins;27/11/2015;;4660.38;Híbrido;Recife;PE;10/01/1959;15/12/2019
+E0273;Natalia Costa;Atendimento;Assistente;Junior;G001;Igor Carvalho;22/06/2020;06/04/2023;1990.27;Presencial;Fortaleza;CE;23/07/1995;19/06/2022
+E0087;Helena Costa;Comercial;Analista;Senior;G022;Otavio Nascimento;27/12/2021;11/12/2024;8084.67;Híbrido;Sao Paulo;SP;16/12/1998;22/10/2022
+E1133;Renato Pereira;Operacoes;Especialista;Unico;G019;Natalia Cardoso;05/08/2025;;14597.27;Presencial;Salvador;BA;10/02/1974;05/08/2025
+E0136;Marcos Costa;Atendimento;Assistente;Pleno;G008;Felipe Rodrigues;02/09/2021;07/08/2024;2599.03;Hibrido;Fortaleza;CE;20/07/1988;16/09/2021
+E0769;Diego Silva;Atendimento;Analista;Junior;G002;Joao Ribeiro;09/10/2023;08/11/2023;4823.74;Presencial;Sao Paulo;SP;24/06/2000;09/10/2023
+E0959;Amanda Barbosa;Financeiro;Analista;Junior;G037;Karina Santos;24/09/2024;;4772.62;presencial;Sao Paulo;SP;17/01/1984;24/09/2024
+E0105;Diego Ferreira;Tecnologia;Coordenador;Unico;G029;Joao Moreira;15/07/2019;;13219.61;Presencial;Sao Paulo;SP;25/02/1982;19/01/2022
+E0726;Carla Ribeiro;Tecnologia;Analista;Senior;G027;Natalia Barbosa;09/08/2023;17/10/2023;9256.92;presencial;Sao Paulo;SP;05/01/1983;09/08/2023
+E0848;Karina Pereira;Comercial;Analista;Junior;G024;Renato Araujo;26/03/2024;05/05/2024;4163.97;Presencial;Rio de Janeiro;RJ;12/06/1993;26/03/2024
+E0733;Amanda Martins;Atendimento;Assistente;Pleno;G004;Rodrigo Moreira;11/08/2023;;3627.87;Presencial;Sao Paulo;SP;13/01/1986;11/08/2023
+E1034;Eduardo Almeida;Operacoes;Analista;Junior;G018;Marcos Oliveira;01/02/2025;;4163.44;Híbrido;Sao Paulo;SP;26/09/1989;01/02/2025
+E0795;Rafael Teixeira;Operacoes;Analista;Senior;G013;Isabela Carvalho;17/12/2023;02/06/2025;7252.47;Presencial;Sao Paulo;SP;15/04/1977;01/01/2024
+E0391;Fernanda Ribeiro;Tecnologia;Analista ;Junior;G031;Karina Almeida;05/10/2021;;3706.47;Remoto;Fortaleza;CE;07/10/1991;29/06/2022
+E0908;Gustavo Rodrigues;Financeiro;Especialista;Unico;G036;Juliana Souza;13/06/2024;;14329.59;Presencial;Brasilia;DF;09/04/1981;13/06/2024
+E0215;Helena Carvalho;RH;Especialista;Unico;G040;Henrique Rodrigues;16/11/2015;;10741.7;HIBRIDO;Curitiba;PR;03/03/1982;16/02/2018
+E0455;Fernanda Cardoso;Comercial;Especialista;Unico;G024;Renato Araujo;19/03/2015;;10319.55;Hibrido;Recife;PE;03/02/1965;11/08/2020
+E0173;Natalia Barbosa;Comercial;Analista;Senior;G025;Amanda Oliveira;13/02/2022;;7354.2;Hibrido;Porto Alegre;RS;08/07/2002;01/02/2023
+E0068;Diego Araujo;Comercial;Analista;Senior;G021;Gabriela Pereira;04/05/2017;;7140.0;Híbrido;Rio de Janeiro;RJ;03/12/1998;01/04/2024
+E1007;Marcos Moreira;Operações;Coordenador;Unico;G020;Debora Nascimento;12/01/2025;;16876.51;Presencial;Recife;PE;02/04/1987;12/01/2025
+E0202;Amanda Ferreira;Atendimento;Assistente;Pleno;G005;Natalia Martins;11/07/2020;08/10/2023;2916.18;Hibrido;Fortaleza;CE;21/04/1995;14/05/2022
+E1188;Wesley Almeida;Operacoes;Especialista;Unico;G015;Beatriz Ferreira;02/11/2025;;13317.57;presencial;Fortaleza;CE;25/03/1987;02/11/2025
+E0682;Gabriela Cardoso;Atendimento;Assistente;Junior;G011;Debora Santos;11/05/2023;14/08/2023;2933.83;Presencial;Salvador;BA;03/11/1984;11/05/2023
+E1025;Diego Nascimento;Operacoes;COORDENADOR;Unico;G015;Beatriz Ferreira;13/01/2025;;16546.11;Presencial;Salvador;BA;21/06/1996;13/01/2025
+E0410;Joao Carvalho;Comercial;Especialista;Unico;G021;Gabriela Pereira;20/10/2021;;11040.12;presencial;Rio de Janeiro;RJ;20/07/1969;02/11/2022
+E0221;Isabela Santos;Operações;Analista;Junior;G015;Beatriz Ferreira;01/09/2019;;4018.82;Presencial;Sao Paulo;SP;04/09/1969;30/04/2020
+E0233;Thiago Carvalho;Marketing;Assistente;Junior;G038;Tatiana Martins;14/01/2022;;2451.94;Presencial;Porto Alegre;RS;25/09/1997;19/06/2022
+E0608;Tatiana Teixeira;Atendimento;Analista;Junior;G009;Ana Moreira;12/05/2019;;3976.7;presencial;Porto Alegre;RS;15/09/1966;05/12/2021
+E0637;Leonardo Souza;Operacoes;Assistente;Pleno;G016;Patricia Gomes;11/02/2023;;3397.04;Presencial;Sao Paulo;SP;16/10/1975;01/11/2025
+E0456;Mariana Cardoso;Atendimento;Analista;Junior;G007;Isabela Teixeira;27/12/2020;26/09/2023;3202.9;presencial;Salvador;BA;09/06/1994;04/10/2022
+E0816;Larissa Almeida;Comercial;Analista;Pleno;G024;Renato Araujo;19/01/2024;;4896.0;Hibrido;Belo Horizonte;MG;08/09/1989;01/03/2025
+E0465;Vitor Gomes;Financeiro;Especialista;Unico;G037;Karina Santos;20/11/2017;;13015.28;Hibrido;Sao Paulo;SP;10/08/1992;16/04/2021
+E1180;Vanessa Rodrigues;Operacoes;Analista;Junior;G016;Patricia Gomes;08/10/2025;;4392.13;Presencial;Fortaleza;CE;18/11/1981;08/10/2025
+E0270;Gabriela Ribeiro;Operacoes;Assistente;Junior;G014;Tiago Gomes;15/07/2019;;2028.84;Presencial;Sao Paulo;SP;04/12/1962;11/08/2020
+E0366;Tatiana Lima;Comercial;Analista;Junior;G021;Gabriela Pereira;24/04/2020;;3509.42;Presencial;Rio de Janeiro;RJ;27/12/1987;06/07/2021
+E0885;Beatriz Santos;TI;Especialista;Unico;G028;Igor Martins;24/05/2024;;14700.67;Remoto;Sao Paulo;SP;15/11/2005;24/05/2024
+E0261;Natalia Almeida;Operacoes;Analista;Senior;G018;Marcos Oliveira;25/08/2019;;7140.0;PRESENCIAL;Brasilia;DF;02/01/1989;01/09/2023
+E0297;Sofia Ferreira;RH;Analista;Junior;G040;Henrique Rodrigues;18/09/2018;;3648.73;PRESENCIAL;Porto Alegre;RS;10/09/1995;04/03/2021
+E1122;Henrique Almeida;Atendimento;Analista;Junior;G006;Otavio Cardoso;14/07/2025;;4177.28;Hibrido;Sao Paulo;SP;16/07/1979;14/07/2025
+E0533;Patricia Araujo;Atendimento;Assistente;Junior;;;04/06/2021;;2362.46;Hibrido;Sao Paulo;SP;12/01/1972;27/07/2022
+E0985;Larissa Barbosa;T.I.;Analista;Senior;G027;Natalia Barbosa;07/11/2024;;9967.16;Remoto;Sao Paulo;SP;06/12/1999;07/11/2024
+E0963;Gustavo Ferreira;Atendimento;Estagiario;Unico;;;04/09/2024;;2024.94;Presencial;Sao Paulo;SP;06/03/1978;04/09/2024
+E0893;Juliana Santos;TI;Gerente;Unico;G029;Joao Moreira;23/05/2024;;23241.73;remoto;Belo Horizonte;MG;22/08/2000;23/05/2024
+E0825;Karina Lima;Operacoes;Gerente;Unico;G013;Isabela Carvalho;23/02/2024;;24213.33;presencial;Curitiba;PR;23/10/1982;23/02/2024
+E0577;Helena Santos;Logistica;Assistente;Pleno;G034;Karina Silva;13/09/2013;09/02/2023;2927.57;PRESENCIAL;Sao Paulo;SP;14/08/1959;15/07/2018
+E0981;Tatiana Lima;TI;ASSISTENTE;Pleno;G030;Isabela Gomes;08/11/2024;;3133.88;Híbrido;Belo Horizonte;MG;20/03/1997;01/01/2025
+E0936;Carla Teixeira;T.I.;Analista;Senior;G028;Igor Martins;06/08/2024;;9604.77;Híbrido;Curitiba;PR;03/11/1990;06/08/2024
+E0256;Karina Costa;TI;Analista;Senior;G030;Isabela Gomes;31/12/2015;;7140.0;Hibrido;Porto Alegre;RS;09/11/1966;01/10/2024
+E0294;Juliana Silva;Comercial;Especialista;Unico;G023;Bruno Ferreira;20/08/2021;;10914.54;Hibrido;Rio de Janeiro;RJ;19/04/1992;07/12/2021
+E0781;Helena Martins;Operacoes;Analista;Senior;G015;Beatriz Ferreira;01/11/2023;22/12/2024;8432.19;Home Office;Belo Horizonte;MG;21/01/1972;01/11/2023
+E0428;Mariana Ribeiro;Operacoes;Analista ;Senior;G014;Tiago Gomes;12/11/2021;;6342.48;Presencial;Sao Paulo;SP;01/12/1985;10/03/2022
+E0562;Henrique Lima;Operacoes;Analista;Pleno;G015;Beatriz Ferreira;06/08/2020;;4896.0;Hibrido;Porto Alegre;RS;02/08/1967;01/05/2025
+E0341;Renato Cardoso;Operacoes;Assistente;Junior;G013;Isabela Carvalho;29/10/2019;13/10/2024;2704.23;Presencial;Rio de Janeiro;RJ;03/11/1967;30/07/2022
+E1080;Gabriela Moreira;Tecnologia;Coordenador;Unico;G030;Isabela Gomes;17/05/2025;;17006.33;PRESENCIAL;Recife;PE;22/04/1978;17/05/2025
+E0690;Debora Cardoso;Tecnologia;Analista;Pleno;G028;Igor Martins;05/06/2023;;6654.57;Híbrido;Salvador;BA;15/06/1993;05/06/2023
+E0627;Sabrina Santos;Atendimento;Assistente;Pleno;G004;Rodrigo Moreira;06/01/2023;;3426.55;Híbrido;Sao Paulo;SP;20/11/1971;06/01/2023
+E0668;Lucas Costa;T.I.;Analista;Pleno;G029;Joao Moreira;06/04/2023;;5235.23;Remoto;Fortaleza;CE;05/02/1993;01/03/2024
+E0083;Larissa Ribeiro;T.I.;Assistente;Junior;G027;Natalia Barbosa;28/05/2021;21/04/2025;2158.17;HIBRIDO;Porto Alegre;RS;09/09/1979;06/12/2021
+E0588;Amanda Oliveira;Operacoes;Analista;Pleno;G019;Natalia Cardoso;04/12/2018;;6070.53;HIBRIDO;Recife;PE;03/03/1981;01/04/2021
+E0426;Bruno Ferreira;Tecnologia;Analista;Pleno;G027;Natalia Barbosa;28/03/2021;;5513.19;PRESENCIAL;Sao Paulo;SP;26/06/1966;17/12/2021
+E0763;Ana Lima;Atendimento;Assistente;Pleno;G008;Felipe Rodrigues;03/10/2023;26/08/2024;3447.95;Presencial;Sao Paulo;SP;07/08/1996;03/10/2023
+E0399;Helena Gomes;Atendimento;Assistente;Junior;G006;Otavio Cardoso;04/03/2022;08/02/2024;1921.78;Presencial;Porto Alegre;RS;16/10/1979;12/09/2022
+E0749;Caio Santos;Tecnologia;Coordenador;Unico;G028;Igor Martins;13/10/2023;;16300.77;HIBRIDO;Recife;PE;11/02/1986;13/10/2023
+E0862;Thiago Carvalho;Comercial;Coordenador;Unico;G022;Otavio Nascimento;17/04/2024;10/07/2024;16820.68;Híbrido;Sao Paulo;SP;25/11/1996;17/04/2024
+E0454;Henrique Almeida;RH;Assistente;Junior;G041;Igor Araujo;26/08/2020;;2089.47;Presencial;Fortaleza;CE;24/07/2000;02/01/2022
+E0634;Gabriela Souza;Comercial;Analista;Senior;G023;Bruno Ferreira;17/02/2023;;7140.0;Presencial;Belo Horizonte;MG;17/02/1975;01/07/2025
+E0640;Sabrina Nascimento;Atendimento;Coordenador;Unico;G012;Felipe Silva;01/02/2023;19/04/2024;17263.95;Presencial;Sao Paulo;SP;10/09/1971;01/02/2023
+E0811;Priscila Moreira;Atendimento;Assistente;Pleno;G001;Igor Carvalho;02/01/2024;14/07/2025;3185.11;Presencial;Fortaleza;CE;01/08/1971;02/01/2024
+E0725;Ana Santos;Tecnologia;Analista;Senior;G031;Karina Almeida;12/08/2023;;7609.43;Remoto;Rio de Janeiro;RJ;17/01/2004;01/12/2025
+E1091;Larissa Barbosa;Operacoes;Gerente;Unico;G018;Marcos Oliveira;07/05/2025;;25029.18;presencial;Recife;PE;07/01/1972;07/05/2025
+E0552;Ana Martins;Atendimento;Assistente;Pleno;G011;Debora Santos;04/12/2018;09/11/2023;R$ 2.731,63;Presencial;Fortaleza;CE;10/03/1962;13/10/2021
+E1203;Isabela Ribeiro;Operacoes;Analista;Pleno;G013;Isabela Carvalho;03/12/2025;;6222.4;Presencial;Campinas;SP;03/02/1976;03/12/2025
+E0873;Fernanda Martins;Comercial;Gerente;Unico;G026;Thiago Teixeira;25/04/2024;;27058.65;Hibrido;Brasilia;DF;27/03/2005;25/04/2024
+E1149;Sabrina Gomes;Atendimento;Assistente;Junior;G004;Rodrigo Moreira;07/09/2025;;3063.33;Presencial;Brasilia;DF;05/08/1970;07/09/2025
+E0653;Carla Pereira;Atendimento;Assistente;Junior;G009;Ana Moreira;05/03/2023;20/11/2023;R$ 3.004,05;Presencial;Brasilia;DF;17/07/2003;05/03/2023
+E0593;Vitor Lima;Comercial;Especialista;Unico;G025;Amanda Oliveira;13/07/2021;;11139.68;Presencial;Recife;PE;11/10/1971;26/04/2022
+E0184;Bruno Cardoso;Operações;Analista ;Senior;G013;Isabela Carvalho;09/05/2022;;7140.0;PRESENCIAL;Rio de Janeiro;RJ;09/08/1986;01/11/2023
+E0723;Tiago Almeida;TI;Gerente;Unico;G031;Karina Almeida;18/08/2023;;25219.48;presencial;Rio de Janeiro;RJ;21/11/1982;18/08/2023
+E0977;Isabela Oliveira;RH;Analista;Senior;G041;Igor Araujo;18/11/2024;;8471.62;presencial;Belo Horizonte;MG;27/02/1971;18/11/2024
+E0047;Karina Costa;Comercial;Analista;Pleno;G025;Amanda Oliveira;04/05/2019;;R$ 5.042,88;Presencial;Rio de Janeiro;RJ;05/01/1976;01/11/2023
+E0026;Felipe Silva;Atendimento;Analista;Pleno;G008;Felipe Rodrigues;10/03/2021;19/08/2024;5379.6;Híbrido;Rio de Janeiro;RJ;27/06/1978;20/04/2021
+E0272;Renato Oliveira;Atendimento;Assistente;Pleno;G007;Isabela Teixeira;08/09/2021;;R$ 2.941,68;Presencial;Fortaleza;CE;13/11/1979;01/01/2023
+E0376;Patricia Barbosa;Logistica;Analista;Pleno;G033;Henrique Ribeiro;05/12/2013;;5187.19;Presencial;Sao Paulo;SP;23/12/1988;11/10/2015
+E0551;Karina Rodrigues;Atendimento;Analista;Pleno;G008;Felipe Rodrigues;05/07/2021;08/08/2025;4457.28;Presencial;Brasilia;DF;15/09/1997;26/05/2022
+E0236;Patricia Ferreira;Tecnologia;Analista;Pleno;G031;Karina Almeida;15/08/2015;16/05/2025;4661.47;Hibrido;Recife;PE;12/12/1972;29/12/2016
+E0027;Gustavo Silva;Operacoes;ESPECIALISTA;Unico;G013;Isabela Carvalho;12/03/2019;25/12/2024;9831.67;Presencial;Belo Horizonte;MG;24/11/1975;19/07/2019
+E0023;Isabela Ferreira;Comercial;Analista;Pleno;G024;Renato Araujo;27/08/2019;;4791.99;remoto;Curitiba;PR;15/02/1984;22/10/2021
+E0408;Gabriela Rodrigues;RH;Analista;Senior;G040;Henrique Rodrigues;20/02/2022;26/10/2025;7576.18;PRESENCIAL;Porto Alegre;RS;13/09/1979;29/03/2022
+E0325;Sofia Pereira;Atendimento;Assistente;Junior;G007;Isabela Teixeira;08/07/2019;27/04/2023;2023.6;Presencial;Belo Horizonte;MG;04/06/1984;23/05/2021
+E0832;Juliana Gomes;Atendimento;Assistente;Junior;G012;Felipe Silva;19/02/2024;;2806.0;Presencial;Fortaleza;CE;20/01/1975;19/02/2024
+E0327;Lucas Pereira;Financeiro;Assistente;Junior;G037;Karina Santos;28/08/2017;;1957.27;PRESENCIAL;Sao Paulo;SP;05/08/1984;19/08/2018
+E0834;Vanessa Araujo;Comercial;Analista;Pleno;G023;Bruno Ferreira;20/02/2024;;6540.51;Hibrido;Porto Alegre;RS;01/04/1975;20/02/2024
+E0122;Carla Gomes;Atendimento;Assistente ;Junior;G012;Felipe Silva;18/01/2022;;2226.58;PRESENCIAL;Salvador;BA;09/11/2000;12/11/2022
+E0922;Rodrigo Nascimento;Atendimento;Analista;Junior;G008;Felipe Rodrigues;15/07/2024;16/01/2025;4749.46;HIBRIDO;Brasilia;DF;02/05/1999;15/07/2024
+E0501;Fernanda Pereira;Atendimento;Assistente;Junior;G006;Otavio Cardoso;18/08/2015;12/09/2025;2103.84;Presencial;Sao Paulo;SP;06/04/1990;20/11/2022
+E1111;Larissa Ribeiro;Operacoes;Analista;Junior;G019;Natalia Cardoso;18/06/2025;;4758.45;Presencial;Brasilia;DF;25/01/1974;18/06/2025
+E0353;Amanda Costa;Atendimento;Assistente;Pleno;G011;Debora Santos;31/07/2017;19/02/2023;2860.69;Presencial;Sao Paulo;SP;17/04/1973;10/02/2022
+E0639;Amanda Almeida;Atendimento;Analista;Junior;G011;Debora Santos;03/02/2023;16/04/2023;4596.37;Presencial;Sao Paulo;SP;18/11/2004;03/02/2023
+E1141;Vitor Almeida;Atendimento;Assistente;Junior;G003;Helena Rodrigues;14/08/2025;;2938.28;Presencial;Rio de Janeiro;RJ;09/02/1985;14/08/2025
+E0656;Lucas Almeida;Atendimento;Estagiario;Unico;G012;Felipe Silva;26/04/2023;;2134.31;Presencial;Porto Alegre;RS;17/04/2002;26/04/2023
+E0190;Joao Santos;Logistica;Assistente;Junior;G032;Vitor Teixeira;09/09/2017;02/05/2024;2488.51;Presencial;Brasilia;DF;18/11/1980;06/04/2021
+E1177;Tatiana Souza;Comercial;Assistente;Junior;G025;Amanda Oliveira;12/10/2025;;2742.57;hibrido;Rio de Janeiro;RJ;19/12/1968;12/10/2025
+E0171;Renato Ferreira;Atendimento;Assistente;Pleno;G007;Isabela Teixeira;22/12/2015;;R$ 2.958,55;Presencial;Fortaleza;CE;12/02/1987;01/05/2024
+E0155;Caio Cardoso;Comercial;Especialista;Unico;G021;Gabriela Pereira;31/05/2021;06/10/2023;R$ 9.498,82;Hibrido;Sao Paulo;SP;10/12/1966;11/10/2021
+E0984;Marcos Gomes;Atendimento;Analista;Pleno;G003;Helena Rodrigues;21/11/2024;;6652.26;presencial;Recife;PE;21/11/1968;21/11/2024
+E1072;Patricia Gomes;TI;Analista;Pleno;G028;Igor Martins;06/04/2025;;6879.28;Hibrido;Recife;PE;25/08/2004;06/04/2025
+E0177;Isabela Silva;Logistica;Estagiario;Unico;G035;Otavio Rodrigues;25/11/2020;;1501.18;Presencial;Brasilia;DF;05/04/2001;22/06/2022
+E0994;Renato Moreira;T.I.;Analista;Senior;G030;Isabela Gomes;20/12/2024;;8803.75;Remoto;Sao Paulo;SP;12/09/1989;20/12/2024
+E0373;Thiago Silva;Logistica;Assistente;Pleno;G033;Henrique Ribeiro;06/10/2020;;2762.42;Presencial;Rio de Janeiro;RJ;27/03/1972;13/07/2021
+E1093;Amanda Silva;Atendimento;Assistente;Pleno;G006;Otavio Cardoso;22/05/2025;;3352.68;PRESENCIAL;Sao Paulo;SP;19/01/1989;22/05/2025
+E0616;Debora Martins;Operacoes;Analista;Senior;G015;Beatriz Ferreira;05/04/2019;04/05/2024;7354.2;presencial;Sao Paulo;SP;01/03/1962;01/03/2024
+E0317;Amanda Ribeiro;Atendimento;Assistente;Junior;G009;Ana Moreira;28/07/2018;12/04/2024;2290.54;Hibrido;Rio de Janeiro;RJ;17/08/1974;23/05/2021
+E1198;Tiago Silva;Operacoes;Analista;Senior;G018;Marcos Oliveira;21/12/2025;;9111.15;Hibrido;Belo Horizonte;MG;18/03/1980;21/12/2025
+E0845;Sabrina Teixeira;Atendimento;Assistente;Junior;G006;Otavio Cardoso;02/03/2024;;2730.93;Presencial;Belo Horizonte;MG;08/11/1995;02/03/2024
+E0947;Joao Pereira;Logistica;Assistente;Pleno;G032;Vitor Teixeira;12/08/2024;;3700.16;HIBRIDO;Belo Horizonte;MG;03/11/1992;12/08/2024
+E0609;Eduardo Rodrigues;Comercial;Analista;Pleno;G021;Gabriela Pereira;21/11/2018;26/02/2024;5113.95;Hibrido;Belo Horizonte;MG;04/03/1999;15/09/2020
+E0603;Vanessa Ferreira;Tecnologia;Coordenador ;Unico;G028;Igor Martins;08/09/2013;;16221.26;Hibrido;Sao Paulo;SP;06/08/1964;16/08/2021
+E1040;Renato Ribeiro;Atendimento;ESTAGIARIO;Unico;G012;Felipe Silva;05/02/2025;;2270.51;remoto;Recife;PE;12/11/2005;05/02/2025
+E0798;Vitor Araujo;Atendimento;Assistente;Pleno;G003;Helena Rodrigues;08/12/2023;24/05/2025;3257.03;Hibrido;Rio de Janeiro;RJ;06/03/1998;08/12/2023
+E0370;Bruno Cardoso;Atendimento;Assistente;Junior;G009;Ana Moreira;20/03/2019;;2368.13;Presencial;Sao Paulo;SP;19/02/1964;09/06/2019
+E0998;Leonardo Nascimento;Operacoes;ANALISTA;Junior;G014;Tiago Gomes;27/12/2024;;4420.39;Hibrido;Brasilia;DF;11/04/1971;27/12/2024
+E0310;Fernanda Cardoso;Comercial;Gerente;Unico;G025;Amanda Oliveira;08/12/2020;;19106.87;Hibrido;Fortaleza;CE;09/06/1969;18/12/2021
+E1058;Isabela Almeida;Operacoes;Analista;Junior;G013;Isabela Carvalho;24/03/2025;;4772.54;presencial;Belo Horizonte;MG;15/02/1987;24/03/2025
+E1132;Mariana Almeida;Logistica;Assistente;Junior;G032;Vitor Teixeira;26/08/2025;;2785.64;Presencial;Curitiba;PR;04/05/1988;26/08/2025
+E0892;Vanessa Ferreira;Operações;Analista;Pleno;G014;Tiago Gomes;15/05/2024;14/11/2024;6394.68;Presencial;Rio de Janeiro;RJ;27/06/1990;15/05/2024
+E1159;Leonardo Rodrigues;Operações;Analista;Senior;G015;Beatriz Ferreira;27/09/2025;04/10/2025;9621.58;Presencial;Sao Paulo;SP;12/08/1969;27/09/2025
+E0701;Leonardo Silva;Logistica;Assistente;Junior;G033;Henrique Ribeiro;04/07/2023;10/12/2023;2944.2;Presencial;Salvador;BA;24/11/1996;04/07/2023
+E0950;Lucas Souza;Marketing;Coordenador;Unico;G038;Tatiana Martins;27/09/2024;;14786.72;presencial;Sao Paulo;SP;15/12/1999;27/09/2024
+E0067;Carla Cardoso;Operacoes;Gerente;Unico;G020;Debora Nascimento;12/06/2019;;18355.96;Hibrido;Brasilia;DF;08/04/2000;09/10/2021
+E1147;Debora Oliveira;Atendimento;Assistente;Junior;G006;Otavio Cardoso;01/09/2025;;3056.95;Hibrido;Belo Horizonte;MG;26/08/2004;01/09/2025
+E0182;Leonardo Almeida;Logistica;Assistente;Junior;G035;Otavio Rodrigues;06/06/2020;;2208.26;PRESENCIAL;Rio de Janeiro;RJ;09/02/1963;03/11/2020
+E1012;Debora Almeida;RH;ANALISTA;Senior;G041;Igor Araujo;05/01/2025;;9693.76;Hibrido;Sao Paulo;SP;12/12/1973;05/01/2025
+E0740;Gustavo Araujo;Atendimento;Assistente;Pleno;G011;Debora Santos;10/09/2023;06/12/2024;3551.09;PRESENCIAL;Rio de Janeiro;RJ;09/08/1969;10/09/2023
+E1124;Caio Costa;Atendimento;Assistente;Junior;G004;Rodrigo Moreira;13/07/2025;;3009.64;Presencial;Fortaleza;CE;19/09/1988;13/07/2025
+E0280;Otavio Martins;Logistica;Assistente;Pleno;G034;Karina Silva;19/09/2017;23/10/2023;2691.25;Presencial;Belo Horizonte;MG;13/01/1973;21/11/2018
+E0912;Bruno Nascimento;Comercial;Estagiario;Unico;G026;Thiago Teixeira;09/06/2024;;2192.03;Hibrido;Sao Paulo;SP;11/05/1987;09/06/2024
+E0955;Caio Martins;Operacoes;Especialista;Unico;G015;Beatriz Ferreira;05/09/2024;03/11/2024;13499.59;Presencial;Rio de Janeiro;RJ;13/10/1998;05/09/2024
+E0817;Leonardo Carvalho;Comercial;Assistente;Junior;G024;Renato Araujo;19/01/2024;;2897.48;Presencial;Sao Paulo;SP;02/05/1969;19/01/2024
+E0244;Felipe Almeida;Atendimento;Assistente;Pleno;G001;Igor Carvalho;31/03/2020;;2941.68;Presencial;Recife;PE;08/11/1994;01/04/2023
+E0655;Bruno Nascimento;Operacoes;Gerente;Unico;G018;Marcos Oliveira;19/03/2023;01/11/2023;25310.4;Hibrido;Belo Horizonte;MG;05/03/1987;19/03/2023
+E0080;Gabriela Barbosa;Atendimento;Gerente;Unico;G006;Otavio Cardoso;06/08/2020;22/03/2025;R$ 18.940,15;Presencial;Fortaleza;CE;08/11/1973;23/10/2020
+E0776;Felipe Souza;Comercial;Analista;Junior;G023;Bruno Ferreira;15/11/2023;;4695.89;Presencial;Sao Paulo;SP;15/08/1988;15/11/2023
+E0332;Caio Cardoso;Logistica;Assistente;Pleno;G034;Karina Silva;17/12/2020;;2856.0;presencial;Rio de Janeiro;RJ;09/04/1971;01/06/2025
+E0671;Helena Costa;RH;Analista;Pleno;G040;Henrique Rodrigues;22/04/2023;;7099.42;Híbrido;Fortaleza;CE;01/04/1991;22/04/2023
+E0118;Helena Cardoso;Operacoes;Analista;Senior;G017;Joao Oliveira;26/06/2017;;8292.22;Presencial;Belo Horizonte;MG;23/04/1977;24/03/2018
+E0605;Gustavo Teixeira;Atendimento;Assistente;Junior;G005;Natalia Martins;08/06/2020;17/02/2025;2366.47;presencial;Sao Paulo;SP;08/10/1972;23/09/2020
+E0369;Sofia Martins;Atendimento;Assistente;Junior;G011;Debora Santos;25/11/2017;21/01/2024;2243.87;Presencial;Campinas;SP;12/11/1982;30/09/2018
+E0924;Gabriela Lima;Logistica;Assistente ;Pleno;G034;Karina Silva;13/07/2024;06/08/2025;3693.74;Hibrido;Porto Alegre;RS;11/04/1969;13/07/2024
+E0372;Debora Ferreira;Comercial;Especialista;Unico;G022;Otavio Nascimento;17/05/2019;;11003.66;Hibrido;Campinas;SP;22/07/1997;06/09/2022
+E1134;Natalia Barbosa;Tecnologia;Analista;Junior;G031;Karina Almeida;27/08/2025;;4273.7;Hibrido;Fortaleza;CE;01/01/1970;27/08/2025
+E0057;Gabriela Teixeira;TI;Analista;Pleno;G030;Isabela Gomes;17/09/2021;;6063.29;Hibrido;Porto Alegre;RS;26/03/1984;20/03/2022
+E0648;Juliana Santos;Atendimento;Assistente;Junior;G004;Rodrigo Moreira;15/03/2023;;2592.76;presencial;Salvador;BA;14/08/1998;15/03/2023
+E0350;Bruno Lima;RH;Analista;Senior;G040;Henrique Rodrigues;13/08/2021;;7544.15;Presencial;Sao Paulo;SP;06/07/1975;19/05/2022
+E0434;Igor Santos;T.I.;Analista;Senior;G029;Joao Moreira;19/12/2019;03/02/2025;7354.2;Presencial;Rio de Janeiro;RJ;07/10/1989;01/01/2023
+E0180;Rafael Oliveira;Logistica;Analista;Junior;G034;Karina Silva;23/04/2013;;3501.95;Hibrido;Fortaleza;CE;04/09/1971;24/06/2018
+E0037;Isabela Pereira;Logistica;Assistente;Pleno;G034;Karina Silva;18/06/2021;;2762.56;Presencial;Salvador;BA;27/04/1966;26/10/2022
+E1024;Joao Moreira;Atendimento;Analista;Pleno;G007;Isabela Teixeira;07/01/2025;;6298.91;Home Office;Curitiba;PR;16/08/2006;07/01/2025
+E0458;Leonardo Rodrigues;Marketing;ANALISTA;Pleno;G038;Tatiana Martins;12/06/2018;20/09/2024;R$ 4.644,91;Híbrido;Sao Paulo;SP;01/01/1981;06/05/2019
+E0558;Bruno Santos;Tecnologia;Analista;Junior;G027;Natalia Barbosa;21/09/2020;11/06/2023;3060.22;Hibrido;Sao Paulo;SP;26/11/1967;30/09/2021
+E0966;Priscila Teixeira;Operacoes;Analista;Pleno;G019;Natalia Cardoso;13/10/2024;;6580.89;Presencial;Curitiba;PR;07/03/1980;13/10/2024
+E1064;Amanda Moreira;Tecnologia;Analista;Junior;G027;Natalia Barbosa;02/04/2025;;4664.66;Hibrido;Sao Paulo;SP;22/11/2002;02/04/2025
+E0106;Rafael Santos;Comercial;Analista;Junior;G023;Bruno Ferreira;20/09/2015;;3891.53;HIBRIDO;Porto Alegre;RS;13/02/1983;03/01/2019
+E0738;Gustavo Costa;Comercial;Especialista;Unico;G025;Amanda Oliveira;02/09/2023;;14123.01;hibrido;Recife;PE;15/04/1979;02/09/2023
+E0573;Eduardo Silva;Comercial;Coordenador;Unico;G026;Thiago Teixeira;09/06/2015;;13435.43;Home Office;Sao Paulo;SP;09/11/1967;05/10/2019
+E0878;Patricia Silva;Atendimento;ASSISTENTE;Pleno;G007;Isabela Teixeira;05/05/2024;;3683.76;Presencial;Sao Paulo;SP;16/10/1972;05/05/2024
+E0715;Natalia Ribeiro;TI;Analista;Pleno;G028;Igor Martins;10/07/2023;;5283.64;Híbrido;Recife;PE;13/05/1987;01/02/2024
+E0295;Henrique Ferreira;Financeiro;ANALISTA;Junior;G036;Juliana Souza;14/03/2018;26/08/2023;3923.34;Remoto;Sao Paulo;SP;02/04/1961;10/07/2020
+E0432;Natalia Lima;Comercial;Analista;Senior;G021;Gabriela Pereira;20/02/2022;25/02/2023;R$ 7.890,15;Remoto;Sao Paulo;SP;04/05/1983;08/12/2022
+E0838;Igor Cardoso;Comercial;Coordenador;Unico;G024;Renato Araujo;13/02/2024;;16752.42;Hibrido;Sao Paulo;SP;03/08/2003;13/02/2024
+E1129;Eduardo Araujo;Atendimento;Assistente;Junior;G007;Isabela Teixeira;27/08/2025;;2865.84;Presencial;Sao Paulo;SP;25/03/1999;27/08/2025
+E1190;Caio Nascimento;Marketing;Analista;Junior;G039;Henrique Pereira;21/11/2025;;4780.92;Hibrido;Rio de Janeiro;RJ;08/10/2004;21/11/2025
+E0785;Patricia Oliveira;Marketing;Analista;Senior;G039;Henrique Pereira;24/11/2023;;9820.56;Hibrido;Sao Paulo;SP;25/05/1969;24/11/2023
+E0041;Joao Nascimento;Operacoes;Estagiario;Unico;G014;Tiago Gomes;28/10/2021;;1783.15;Hibrido;Rio de Janeiro;RJ;10/01/1977;11/09/2022
+E0561;Tatiana Gomes;T.I.;Analista;Junior;G027;Natalia Barbosa;05/12/2020;16/04/2023;3237.55;hibrido;Porto Alegre;RS;01/05/2000;05/10/2022
+E1043;Rafael Cardoso;Logistica;Assistente;Pleno;G034;Karina Silva;07/02/2025;;3585.85;PRESENCIAL;Sao Paulo;SP;15/07/1991;07/02/2025
+E0833;Mariana Ribeiro;Operacoes;Analista;Pleno;;;02/02/2024;;7125.17;Hibrido;Recife;PE;26/10/1971;02/02/2024
+E1152;Renato Pereira;Atendimento;Assistente;Pleno;G010;Gustavo Santos;05/09/2025;;3060.54;Hibrido;Salvador;BA;12/04/1968;01/11/2025
+E1154;Lucas Gomes;Operacoes;Analista;Pleno;G016;Patricia Gomes;18/09/2025;;6151.51;Presencial;Curitiba;PR;12/06/1985;18/09/2025
+E0278;Rodrigo Lima;Operacoes;Estagiario;Unico;G019;Natalia Cardoso;08/04/2018;;1893.63;Hibrido;Porto Alegre;RS;09/09/1963;15/03/2020
+E0269;Bruno Costa;Comercial;Analista;Junior;G025;Amanda Oliveira;11/03/2017;05/02/2025;3428.68;presencial;Sao Paulo;SP;21/12/1995;11/07/2022
+E0318;Karina Pereira;Comercial;Analista;Junior;G025;Amanda Oliveira;29/10/2019;;3401.93;PRESENCIAL;Salvador;BA;25/07/1996;21/09/2020
+E0697;Helena Costa;Operacoes;Especialista;Unico;G019;Natalia Cardoso;13/06/2023;;12732.31;PRESENCIAL;Brasilia;DF;16/11/2000;13/06/2023
+E1005;Gabriela Ribeiro;Atendimento;Analista;Pleno;G007;Isabela Teixeira;22/01/2025;;5882.54;Presencial;Recife;PE;04/05/1992;22/01/2025
+E1055;Gabriela Moreira;Atendimento;Assistente;Pleno;G004;Rodrigo Moreira;21/03/2025;;3456.81;Hibrido;Porto Alegre;RS;03/11/1996;01/11/2025
+E0531;Leonardo Cardoso;Logistica;Assistente;Junior;G032;Vitor Teixeira;14/10/2020;22/08/2023;2313.91;Presencial;Campinas;SP;21/06/1963;11/09/2021
+E0329;Diego Souza;Comercial;Especialista;Unico;G026;Thiago Teixeira;18/01/2022;;11839.07;Hibrido;Belo Horizonte;MG;13/12/1998;27/11/2022
+E1185;Renato Carvalho;Logistica;Analista;Pleno;G032;Vitor Teixeira;01/11/2025;;6587.95;Presencial;Recife;PE;07/09/1980;01/11/2025
+E1176;Marcos Almeida;T.I.;Analista;Pleno;G028;Igor Martins;11/10/2025;;6235.6;Remoto;Sao Paulo;SP;01/10/1984;11/10/2025
+E0628;Renato Martins;Tecnologia;Analista;Senior;G027;Natalia Barbosa;27/01/2023;;8825.64;Híbrido;Sao Paulo;SP;02/11/1980;27/01/2023
+E0514;Felipe Araujo;Comercial;Analista;Senior;G023;Bruno Ferreira;01/08/2015;11/07/2023;R$ 7.290,02;Hibrido;Porto Alegre;RS;02/09/1965;17/11/2022
+E0617;Beatriz Costa;Atendimento;Coordenador;Unico;G011;Debora Santos;02/05/2019;16/07/2023;11502.24;Presencial;Brasilia;DF;15/08/1978;08/07/2022
+E0485;Marcos Ribeiro;Marketing;Especialista;Unico;G039;Henrique Pereira;30/11/2019;;10871.34;Presencial;Curitiba;PR;03/09/1981;23/09/2020
+E0468;Rafael Lima;Logistica;Estagiario;Unico;G032;Vitor Teixeira;03/08/2019;;R$ 1.813,04;Presencial;Sao Paulo;SP;19/06/1983;08/02/2022
+E0334;Gabriela Lima;Operações;Analista;Pleno;G017;Joao Oliveira;15/04/2018;;5875.57;Presencial;Curitiba;PR;16/06/1984;29/09/2019
+E0208;Igor Ribeiro;Comercial;Coordenador;Unico;G023;Bruno Ferreira;07/04/2019;;R$ 12.943,67;Híbrido;Rio de Janeiro;RJ;22/02/1997;08/05/2019
+E0621;Sofia Moreira;T.I.;Estagiario;Unico;G027;Natalia Barbosa;07/01/2023;;1979.07;Remoto;Belo Horizonte;MG;09/05/1976;07/01/2023
+E0978;Renato Silva;Operacoes;Assistente;Junior;G017;Joao Oliveira;08/11/2024;;2848.77;Presencial;Sao Paulo;SP;14/01/1984;08/11/2024
+E1161;Diego Lima;Atendimento;Assistente;Junior;G003;Helena Rodrigues;05/09/2025;;2929.27;Presencial;Sao Paulo;SP;03/11/1988;05/09/2025
+E0144;Amanda Teixeira;Atendimento;Assistente;Pleno;G002;Joao Ribeiro;18/06/2021;15/02/2025;3029.93;Presencial;Rio de Janeiro;RJ;13/01/1988;01/05/2023
+E0251;Thiago Gomes;Atendimento;Assistente;Pleno;G006;Otavio Cardoso;06/06/2020;18/07/2023;3118.85;PRESENCIAL;Recife;PE;03/02/1997;07/08/2021
+E0319;Joao Costa;Logistica;Assistente;Pleno;G033;Henrique Ribeiro;05/05/2013;;3047.83;Presencial;Brasilia;DF;18/12/1992;01/05/2023
+E0524;Larissa Lima;Atendimento;Assistente;Pleno;G012;Felipe Silva;20/08/2017;;2856.0;Presencial;Fortaleza;CE;08/06/1992;01/04/2024
+E0303;Leonardo Nascimento;Logistica;Analista;Junior;G034;Karina Silva;28/03/2019;12/08/2025;3195.52;Hibrido;Brasilia;DF;24/07/1988;28/11/2021
+E0888;Otavio Silva;Logistica;Assistente;Junior;G034;Karina Silva;05/05/2024;27/12/2025;2832.65;Presencial;Brasilia;DF;20/09/1993;05/05/2024
+E1016;Isabela Ferreira;Tecnologia;Analista;Senior;G028;Igor Martins;19/01/2025;;9800.45;Remoto;Brasilia;DF;18/07/1983;19/01/2025
+E1202;Ana Carvalho;Atendimento;ASSISTENTE;Junior;G012;Felipe Silva;04/12/2025;;2822.72;Presencial;Campinas;SP;11/07/1987;04/12/2025
+E0602;Amanda Santos;Atendimento;Assistente;Junior;G012;Felipe Silva;18/03/2021;10/08/2024;2429.69;Presencial;Sao Paulo;SP;19/09/1995;17/09/2022
+E0865;Renato Santos;Financeiro;Gerente;Unico;G036;Juliana Souza;01/04/2024;;26928.12;Hibrido;Porto Alegre;RS;12/04/1976;01/04/2024
+E0164;Ana Rodrigues;Operacoes;Especialista;Unico;G018;Marcos Oliveira;28/10/2021;;10197.01;PRESENCIAL;Fortaleza;CE;05/12/1982;20/05/2022
+E0536;Carla Moreira;Financeiro;Analista;Pleno;G037;Karina Santos;18/08/2017;;5166.33;Híbrido;Belo Horizonte;MG;03/01/1962;12/02/2021
+E0264;Vitor Barbosa;Operações;Coordenador;Unico;G014;Tiago Gomes;07/04/2021;;13147.51;Presencial;Curitiba;PR;16/02/1975;30/11/2021
+E0082;Gabriela Lima;Atendimento;ESTAGIARIO;Unico;G003;Helena Rodrigues;27/04/2013;;1970.86;Presencial;Fortaleza;CE;26/11/1989;10/06/2014
+E1184;Lucas Araujo;Tecnologia;Analista;Pleno;G030;Isabela Gomes;19/11/2025;;6333.55;Remoto;Brasilia;DF;03/03/1972;19/11/2025
+E0642;Tiago Costa;Marketing;Analista;Senior;G038;Tatiana Martins;19/02/2023;;9007.75;Hibrido;Sao Paulo;SP;17/09/1985;19/02/2023
+E1121;Felipe Oliveira;Atendimento;Assistente;Junior;G006;Otavio Cardoso;12/07/2025;14/10/2025;2915.74;Presencial;Sao Paulo;SP;17/11/1993;12/07/2025
+E0131;Debora Carvalho;RH;GERENTE;Unico;G040;Henrique Rodrigues;02/04/2015;;R$ 20.176,57;Hibrido;Brasilia;DF;24/03/1983;14/08/2016
+E0362;Rodrigo Barbosa;Tecnologia;Especialista;Unico;G028;Igor Martins;19/12/2019;;12496.06;Remoto;Campinas;SP;10/05/1965;22/07/2022
+E0470;Natalia Costa;Tecnologia;Especialista;Unico;G027;Natalia Barbosa;29/12/2021;19/06/2024;9501.47;Hibrido;Sao Paulo;SP;22/06/1997;14/07/2022
+E0594;Amanda Oliveira;Operacoes;Analista;Junior;G014;Tiago Gomes;31/07/2018;24/04/2025;3026.17;Presencial;Brasilia;DF;16/01/1987;23/07/2022
+E0145;Juliana Ferreira;Comercial;Gerente ;Unico;G026;Thiago Teixeira;28/12/2015;;23506.35;Hibrido;Porto Alegre;RS;19/01/1975;19/09/2021
+E0945;Vitor Silva;Atendimento;Assistente;Junior;G002;Joao Ribeiro;24/08/2024;;R$ 2.856,87;Presencial;Campinas;SP;25/11/1977;24/08/2024
+E0412;Isabela Rodrigues;Operacoes;Analista;Junior;G020;Debora Nascimento;16/12/2013;10/06/2023;3255.37;Presencial;Recife;PE;05/05/1981;04/06/2016
+E0275;Helena Pereira;Comercial;Estagiario;Unico;G026;Thiago Teixeira;07/06/2019;;1902.55;Híbrido;Recife;PE;10/08/1966;16/11/2019
+E1019;Diego Lima;Marketing;Analista;Junior;G039;Henrique Pereira;23/01/2025;;4821.48;Hibrido;Recife;PE;24/03/1984;23/01/2025
+E0673;Fernanda Ferreira;T.I.;Estagiario;Unico;G027;Natalia Barbosa;16/04/2023;;R$ 2.050,61;hibrido;Belo Horizonte;MG;27/05/1999;16/04/2023
+E0842;Helena Rodrigues;Atendimento;Assistente;Junior;G004;Rodrigo Moreira;21/03/2024;19/07/2024;2636.45;presencial;Salvador;BA;08/01/1978;21/03/2024
+E0856;Thiago Souza;Comercial;ANALISTA;Senior;G023;Bruno Ferreira;23/03/2024;20/12/2024;9102.79;Presencial;Sao Paulo;SP;20/01/1991;23/03/2024
+E0666;Caio Araujo;Atendimento;Assistente;Junior;G008;Felipe Rodrigues;02/04/2023;20/10/2024;2759.41;Hibrido;Curitiba;PR;07/08/1997;02/04/2023
+E0714;Leonardo Almeida;Comercial;Analista;Pleno;G023;Bruno Ferreira;11/07/2023;;6614.02;Hibrido;Rio de Janeiro;RJ;20/05/1977;11/07/2023
+E0815;Henrique Carvalho;Marketing;Analista;Senior;G039;Henrique Pereira;10/01/2024;;9570.76;HIBRIDO;Fortaleza;CE;24/02/1986;10/01/2024
+E1087;Priscila Gomes;Atendimento;Estagiario;Unico;G004;Rodrigo Moreira;24/05/2025;;2057.15;Presencial;Belo Horizonte;MG;25/11/1983;24/05/2025
+E0957;Tiago Lima;Atendimento;Assistente;Junior;G010;Gustavo Santos;14/09/2024;;2775.18;Presencial;Belo Horizonte;MG;21/01/2004;14/09/2024
+E0088;Vanessa Silva;Atendimento;Assistente;Junior;G007;Isabela Teixeira;02/07/2019;18/07/2023;1963.81;presencial;Recife;PE;13/04/1980;19/01/2020
+E1074;Igor Barbosa;Tecnologia;Analista;Senior;G029;Joao Moreira;13/04/2025;;7206.57;Remoto;Salvador;BA;03/11/1998;01/07/2025
+E0098;Otavio Costa;Atendimento;Assistente;Junior;G010;Gustavo Santos;10/05/2017;07/01/2025;2643.76;Presencial;Rio de Janeiro;RJ;18/02/1985;12/11/2017
+E0307;Larissa Barbosa;Atendimento;Assistente;Junior;G006;Otavio Cardoso;24/03/2020;08/06/2023;1881.68;Presencial;Brasilia;DF;13/04/1993;01/04/2021
+E0807;Helena Ribeiro;Tecnologia;Analista;Junior;G027;Natalia Barbosa;11/01/2024;;4578.73;Remoto;Sao Paulo;SP;26/04/1997;11/01/2024
+E0188;Sabrina Cardoso;Atendimento;Assistente;Junior;G011;Debora Santos;06/05/2020;19/07/2024;2217.99;Presencial;Recife;PE;01/05/1966;14/10/2020
+E0730;Rodrigo Nascimento;Comercial;Estagiario;Unico;G025;Amanda Oliveira;05/08/2023;;2048.29;HIBRIDO;Fortaleza;CE;01/02/1970;05/08/2023
+E1200;Renato Pereira;Comercial;Coordenador;Unico;G022;Otavio Nascimento;18/12/2025;;14787.5;Presencial;Sao Paulo;SP;15/12/2006;18/12/2025
+E0288;Marcos Carvalho;Atendimento;Assistente;Pleno;G009;Ana Moreira;17/08/2021;16/05/2023;2419.71;Presencial;Curitiba;PR;19/04/1993;04/10/2022
+E0923;Carla Rodrigues;Operacoes;Estagiario;Unico;G013;Isabela Carvalho;12/07/2024;;2008.83;PRESENCIAL;Sao Paulo;SP;20/10/1980;12/07/2024
+E0708;Tatiana Rodrigues;Atendimento;Analista;Senior;G010;Gustavo Santos;05/07/2023;;7140.0;Hibrido;Sao Paulo;SP;24/10/1976;01/09/2024
+E1042;Juliana Carvalho;Atendimento;Assistente;Junior;G006;Otavio Cardoso;02/02/2025;;2750.88;Presencial;Campinas;SP;06/11/1975;02/02/2025
+E0427;Rodrigo Ribeiro;Operacoes;Assistente;Pleno;G018;Marcos Oliveira;08/05/2022;;2856.0;Presencial;Porto Alegre;RS;26/08/1970;01/07/2024
+E0613;Carla Cardoso;Operacoes;Coordenador;Unico;G018;Marcos Oliveira;29/08/2018;18/08/2023;14262.02;PRESENCIAL;Fortaleza;CE;09/05/1980;09/06/2022
+E0968;Tiago Lima;Atendimento;Assistente;Junior;G008;Felipe Rodrigues;17/10/2024;;2757.96;PRESENCIAL;Fortaleza;CE;25/05/1974;17/10/2024
+E0050;Fernanda Souza;Tecnologia;ESPECIALISTA;Unico;G028;Igor Martins;27/07/2018;;11210.86;Remoto;Rio de Janeiro;RJ;05/05/1969;11/11/2021
+E0504;Lucas Martins;Atendimento;Assistente;Pleno;G005;Natalia Martins;17/03/2017;10/04/2023;R$ 2.756,29;Hibrido;Belo Horizonte;MG;16/01/1963;06/10/2019
+E0578;Sofia Cardoso;Comercial;ANALISTA;Senior;G021;Gabriela Pereira;16/11/2020;;8624.05;Híbrido;Porto Alegre;RS;05/06/1963;10/04/2021
+E0248;Natalia Santos;Logistica;Assistente;Junior;G034;Karina Silva;19/09/2019;18/01/2025;2038.84;Presencial;Belo Horizonte;MG;08/07/1979;27/03/2021
+E1208;Igor Pereira;Atendimento;Gerente ;Unico;G001;Igor Carvalho;06/12/2025;;25779.63;presencial;Belo Horizonte;MG;23/12/1988;06/12/2025
+E1205;Larissa Santos;Logistica;Assistente;Junior;G033;Henrique Ribeiro;16/12/2025;;2585.28;Presencial;Recife;PE;01/07/2005;16/12/2025
+E0917;Gabriela Santos;Operacoes;Analista;Senior;G020;Debora Nascimento;03/07/2024;;8428.78;Presencial;Recife;PE;24/11/1976;03/07/2024
+E0713;Renato Costa;Atendimento;Estagiario;Unico;G007;Isabela Teixeira;04/07/2023;24/10/2024;1929.39;Presencial;Sao Paulo;SP;05/09/1990;04/07/2023
+E0943;Otavio Ribeiro;TI;Analista;Senior;G027;Natalia Barbosa;01/08/2024;;9875.92;Remoto;Fortaleza;CE;19/09/1988;01/08/2024
+E0883;Caio Cardoso;Atendimento;Assistente;Pleno;G007;Isabela Teixeira;03/05/2024;12/08/2024;3592.73;Presencial;Sao Paulo;SP;05/12/1976;03/05/2024
+E0403;Fernanda Moreira;Operacoes;ANALISTA;Senior;G019;Natalia Cardoso;10/12/2021;;R$ 6.962,40;Presencial;Sao Paulo;SP;20/07/1982;19/08/2022
+E0796;Wesley Souza;Operacoes;Analista;Senior;G020;Debora Nascimento;19/12/2023;;9923.98;Presencial;Sao Paulo;SP;23/04/1977;19/12/2023
+E0034;Patricia Pereira;Operacoes;Analista;Senior;G017;Joao Oliveira;03/10/2015;;7745.83;presencial;Fortaleza;CE;26/11/1969;03/08/2018
+E0089;Gustavo Araujo;Logistica;Assistente;Junior;G035;Otavio Rodrigues;13/06/2015;;2370.06;Presencial;Rio de Janeiro;RJ;15/07/1988;03/10/2017
+E0395;Tatiana Barbosa;Atendimento;Assistente;Pleno;G006;Otavio Cardoso;08/05/2021;20/02/2023;2900.2;HIBRIDO;Belo Horizonte;MG;24/01/1964;16/05/2022
+E0773;Lucas Barbosa;Logistica;Assistente ;Junior;G035;Otavio Rodrigues;11/11/2023;;2741.6;Presencial;Belo Horizonte;MG;23/01/1991;11/11/2023
+E0971;Joao Martins;Operacoes;Analista;Junior;G017;Joao Oliveira;12/10/2024;;4542.21;Híbrido;Salvador;BA;23/09/1997;12/10/2024
+E1066;Vanessa Santos;Atendimento;Assistente;Pleno;G007;Isabela Teixeira;04/04/2025;15/04/2019;3348.41;Hibrido;Sao Paulo;SP;21/08/1974;04/04/2025
+E0085;Igor Ribeiro;Atendimento;Assistente;Pleno;G011;Debora Santos;16/02/2022;09/04/2023;2668.89;Hibrido;Rio de Janeiro;RJ;02/03/1969;09/07/2022
+E0983;Debora Lima;TI;Estagiario;Unico;G029;Joao Moreira;20/11/2024;13/04/2025;2177.05;Remoto;Fortaleza;CE;09/03/1977;20/11/2024
+E0347;Diego Santos;TI;Assistente;Junior;G027;Natalia Barbosa;29/11/2017;24/06/2023;2608.6;Hibrido;Sao Paulo;SP;14/01/1987;06/12/2022
+E0540;Felipe Gomes;T.I.;Assistente;Junior;G031;Karina Almeida;18/09/2013;;2713.74;PRESENCIAL;Porto Alegre;RS;24/09/1993;27/07/2017
+E0132;Debora Santos;Tecnologia;Especialista ;Unico;G031;Karina Almeida;29/06/2021;20/06/2025;R$ 12.164,92;PRESENCIAL;Recife;PE;10/04/1996;02/10/2022
+E0537;Sofia Nascimento;Financeiro;Assistente;Junior;G036;Juliana Souza;02/05/2017;18/05/2024;2473.89;Hibrido;Salvador;BA;12/08/1966;24/12/2020
+E0852;Priscila Gomes;Operacoes;Analista;Senior;G014;Tiago Gomes;11/03/2024;;10301.88;Hibrido;Recife;PE;20/07/1989;11/03/2024
+E1061;Sofia Cardoso;Atendimento;Assistente;Pleno;G006;Otavio Cardoso;04/03/2025;14/06/2025;3550.65;Presencial;Rio de Janeiro;RJ;26/01/2003;04/03/2025
+E0662;Felipe Pereira;Atendimento;Assistente;Junior;G001;Igor Carvalho;18/04/2023;;2792.59;presencial;Curitiba;PR;09/01/1995;18/04/2023
+E0871;Caio Rodrigues;Tecnologia;Analista;Pleno;G029;Joao Moreira;12/04/2024;;5975.89;Remoto;Belo Horizonte;MG;22/02/1970;12/04/2024
+E0438;Beatriz Lima;Atendimento;Analista;Junior;G006;Otavio Cardoso;21/07/2021;20/06/2023;R$ 3.682,05;Presencial;Salvador;BA;17/04/1999;19/08/2022
+E0377;Juliana Santos;Operacoes;Coordenador ;Unico;G016;Patricia Gomes;09/07/2017;;13233.2;Híbrido;Porto Alegre;RS;06/03/1960;02/01/2018
+E0473;Mariana Araujo;Atendimento;Estagiario;Unico;G005;Natalia Martins;07/02/2022;09/02/2023;1596.67;Presencial;Sao Paulo;SP;12/02/1985;15/09/2022
+E1004;Natalia Costa;Operacoes;Especialista;Unico;G014;Tiago Gomes;02/01/2025;;R$ 14.191,90;Remoto;Sao Paulo;SP;09/03/2004;02/01/2025
+E0342;Gustavo Araujo;RH;Analista;Senior;G041;Igor Araujo;22/05/2021;;R$ 8.483,41;Hibrido;Porto Alegre;RS;18/06/1966;25/09/2021
+E0612;Vitor Almeida;Operacoes;Analista;Junior;G015;Beatriz Ferreira;01/12/2020;20/02/2024;3195.74;Remoto;Belo Horizonte;MG;15/12/1994;03/07/2022
+E0607;Larissa Martins;Operacoes;Analista;Junior;G015;Beatriz Ferreira;26/08/2019;17/02/2024;3255.97;Presencial;Belo Horizonte;MG;13/03/1994;11/12/2019
+E1142;Gustavo Ribeiro;Marketing;Gerente ;Unico;G038;Tatiana Martins;04/09/2025;;22783.4;Híbrido;Sao Paulo;SP;26/06/1988;04/09/2025
+E0079;Rafael Almeida;Comercial;Analista;Pleno;G026;Thiago Teixeira;04/06/2017;;4896.0;hibrido;Campinas;SP;14/05/1968;01/06/2025
+E0570;Patricia Ribeiro;Logistica;Assistente;Pleno;G033;Henrique Ribeiro;25/07/2021;;3161.84;PRESENCIAL;Rio de Janeiro;RJ;09/02/2002;01/08/2022
+E0989;Thiago Costa;Operacoes;Analista;Junior;G019;Natalia Cardoso;24/11/2024;;4472.31;Remoto;Porto Alegre;RS;14/04/1974;24/11/2024
+E0063;Rodrigo Rodrigues;Operacoes;Analista;Senior;G015;Beatriz Ferreira;04/05/2017;;R$ 7.331,91;Remoto;Recife;PE;10/10/1971;24/12/2017
+E0674;Thiago Oliveira;Atendimento;Analista;Junior;G011;Debora Santos;01/04/2023;08/07/2023;4534.67;Presencial;Sao Paulo;SP;13/09/1982;01/04/2023
+E0762;Caio Gomes;T.I.;Analista;Pleno;G028;Igor Martins;13/10/2023;03/10/2024;6182.31;Remoto;Sao Paulo;SP;20/06/1974;13/10/2023
+E0515;Eduardo Almeida;Atendimento;Assistente;Junior;G010;Gustavo Santos;29/09/2020;18/04/2024;2516.62;Presencial;Porto Alegre;RS;26/01/1966;17/11/2021
+E1207;Henrique Gomes;Atendimento;Assistente;Junior;G004;Rodrigo Moreira;23/12/2025;;R$ 2.918,20;Presencial;Fortaleza;CE;06/07/1971;23/12/2025
+E0220;Patricia Barbosa;TI;Especialista;Unico;G028;Igor Martins;25/10/2021;03/02/2025;8940.59;Remoto;Curitiba;PR;02/03/1968;05/08/2022
+E0585;Natalia Martins;T.I.;Especialista;Unico;G030;Isabela Gomes;23/10/2021;;11364.27;HIBRIDO;Sao Paulo;SP;20/06/1989;03/02/2022
+E0153;Lucas Rodrigues;T.I.;Analista;Junior;G029;Joao Moreira;13/06/2017;;R$ 4.062,90;Home Office;Brasilia;DF;24/01/1973;21/09/2022
+E0326;Rodrigo Cardoso;Comercial;Estagiario;Unico;G021;Gabriela Pereira;17/12/2013;;1759.86;Hibrido;Rio de Janeiro;RJ;07/12/1974;02/07/2017
+E0308;Larissa Carvalho;Atendimento;Assistente;Pleno;G004;Rodrigo Moreira;17/03/2022;;2941.68;PRESENCIAL;Belo Horizonte;MG;18/06/1968;01/04/2023
+E0910;Thiago Souza;Comercial;Analista;Senior;G023;Bruno Ferreira;25/06/2024;;10100.57;HIBRIDO;Recife;PE;01/11/1994;25/06/2024
+E0916;Leonardo Barbosa;TI;Analista;Junior;G027;Natalia Barbosa;11/07/2024;;4162.54;Remoto;Sao Paulo;SP;06/08/1995;11/07/2024
+E0840;Natalia Araujo;Atendimento;Assistente;Pleno;G006;Otavio Cardoso;07/02/2024;;3797.76;Presencial;Fortaleza;CE;09/11/1995;07/02/2024
+E0657;Leonardo Lima;Logistica;Assistente;Junior;G032;Vitor Teixeira;03/04/2023;;2715.44;presencial;Sao Paulo;SP;26/03/1993;03/04/2023
+E0204;Karina Silva;Operações;Analista;Senior;G020;Debora Nascimento;05/11/2020;;7823.26;presencial;Recife;PE;10/06/1993;14/01/2022
+E0821;Thiago Barbosa;Atendimento;Assistente;Junior;G008;Felipe Rodrigues;24/01/2024;;2720.99;Remoto;Sao Paulo;SP;26/03/1984;24/01/2024
+E0443;Natalia Santos;Marketing;Analista;Senior;G039;Henrique Pereira;04/05/2020;;7354.2;Híbrido;Belo Horizonte;MG;22/03/2000;01/09/2025
+E0005;Henrique Gomes;Atendimento;Assistente;Pleno;G001;Igor Carvalho;01/09/2018;13/12/2025;2711.72;PRESENCIAL;Belo Horizonte;MG;05/03/1975;01/11/2021
+E0503;Karina Nascimento;Operacoes;Assistente;Junior;G014;Tiago Gomes;09/05/2019;27/12/2025;2258.49;presencial;Fortaleza;CE;23/11/1999;22/01/2022
+E0747;Larissa Martins;Comercial;Especialista;Unico;G025;Amanda Oliveira;10/10/2023;;13738.63;Hibrido;Fortaleza;CE;27/03/1996;10/10/2023
+E0383;Larissa Almeida;Comercial;Analista;Senior;G025;Amanda Oliveira;23/07/2018;;8347.42;Hibrido;Sao Paulo;SP;13/03/1997;21/04/2022
+E0130;Amanda Silva;Comercial;Analista;Senior;G022;Otavio Nascimento;23/08/2021;;7871.87;Home Office;Porto Alegre;RS;24/04/1994;04/12/2022
+E0633;Renato Martins;Operações;Analista;Pleno;G017;Joao Oliveira;04/02/2023;;5691.49;Presencial;Sao Paulo;SP;22/04/1969;01/03/2024
+E0802;Henrique Silva;Operacoes;Analista;Pleno;G014;Tiago Gomes;22/12/2023;;6695.55;presencial;Fortaleza;CE;12/01/2002;22/12/2023
+E1037;Caio Moreira;Comercial;Coordenador;Unico;G022;Otavio Nascimento;07/02/2025;;15214.31;Hibrido;Sao Paulo;SP;24/01/1986;07/02/2025
+E0913;Otavio Gomes;Comercial;Analista;Pleno;G023;Bruno Ferreira;16/06/2024;;6814.36;presencial;Recife;PE;19/10/2005;16/06/2024
+E0509;Felipe Teixeira;T.I.;Especialista;Unico;G027;Natalia Barbosa;04/05/2020;;12203.35;Hibrido;Sao Paulo;SP;13/05/1971;24/11/2022
+E1031;Karina Carvalho;Atendimento;Analista;Pleno;G008;Felipe Rodrigues;25/02/2025;09/11/2025;5335.92;HIBRIDO;Sao Paulo;SP;02/04/1991;01/09/2025
+E0072;Karina Pereira;Marketing;Estagiario ;Unico;G039;Henrique Pereira;12/09/2021;;1851.18;Presencial;Porto Alegre;RS;03/06/1983;30/05/2022
+E1098;Gabriela Oliveira;RH;Analista;Pleno;G040;Henrique Rodrigues;04/06/2025;;6170.1;Presencial;Fortaleza;CE;25/01/1998;04/06/2025
+E0401;Leonardo Almeida;Logistica;Analista ;Junior;G033;Henrique Ribeiro;30/10/2018;;3366.09;Presencial;Sao Paulo;SP;18/10/1973;24/06/2019
+E0766;Thiago Cardoso;Comercial;Gerente;Unico;G023;Bruno Ferreira;18/10/2023;01/02/2025;24080.82;hibrido;Fortaleza;CE;09/07/1970;18/10/2023
+E0835;Bruno Moreira;Atendimento;Assistente ;Junior;G010;Gustavo Santos;01/02/2024;01/01/2025;2837.54;Presencial;Rio de Janeiro;RJ;11/06/2004;01/02/2024
+E1194;Tatiana Costa;Logistica;Assistente;Junior;G033;Henrique Ribeiro;22/11/2025;;2632.17;PRESENCIAL;Curitiba;PR;08/02/1994;22/11/2025
+E0262;Juliana Carvalho;Operacoes;Analista;Senior;G017;Joao Oliveira;05/09/2019;01/02/2024;6545.87;Presencial;Rio de Janeiro;RJ;14/10/1986;31/10/2022
+E0751;Juliana Rodrigues;Tecnologia;Analista;Pleno;G028;Igor Martins;03/10/2023;;5469.62;Remoto;Recife;PE;20/01/1989;01/11/2023
+E0563;Amanda Ribeiro;Comercial;Gerente;Unico;G023;Bruno Ferreira;23/09/2021;19/05/2024;17271.78;Hibrido;Sao Paulo;SP;01/03/1997;14/12/2022
+E0203;Leonardo Lima;Atendimento;Analista;Junior;G012;Felipe Silva;15/06/2018;23/12/2023;3362.77;PRESENCIAL;Recife;PE;16/07/1971;11/09/2020
+E1181;Joao Almeida;Marketing;Analista;Senior;G039;Henrique Pereira;05/10/2025;;9943.8;Presencial;Sao Paulo;SP;23/08/1970;05/10/2025
+E0071;Karina Costa;Operacoes;Analista;Junior;G019;Natalia Cardoso;28/12/2013;;3874.89;Presencial;Curitiba;PR;11/06/1985;06/09/2022
+E1193;Larissa Ferreira;Comercial;Coordenador;Unico;G022;Otavio Nascimento;06/11/2025;;15010.6;Presencial;Recife;PE;13/10/2004;06/11/2025
+E1008;Vitor Oliveira;Logistica;Assistente;Junior;G035;Otavio Rodrigues;24/01/2025;;2860.34;HIBRIDO;Sao Paulo;SP;17/08/1968;24/01/2025
+E0128;Sabrina Nascimento;Marketing;Analista;Senior;G039;Henrique Pereira;22/11/2020;;7271.95;Presencial;Sao Paulo;SP;26/02/1993;25/09/2021
+E0371;Lucas Almeida;Atendimento;Assistente;Pleno;G004;Rodrigo Moreira;09/07/2013;18/07/2024;2992.63;presencial;Belo Horizonte;MG;15/10/1960;27/12/2022
+E0135;Bruno Cardoso;Tecnologia;Analista;Pleno;G030;Isabela Gomes;10/09/2020;01/04/2023;4474.96;Home Office;Sao Paulo;SP;05/03/1984;01/04/2021
+E0826;Otavio Silva;Financeiro;Analista;Senior;G037;Karina Santos;07/02/2024;;7140.0;Hibrido;Brasilia;DF;06/01/1973;01/04/2024
+E0559;Wesley Costa;Tecnologia;Analista;Senior;G027;Natalia Barbosa;24/03/2017;;R$ 8.072,36;Remoto;Sao Paulo;SP;10/05/1961;17/06/2022
+E0222;Natalia Ribeiro;Logistica;Assistente;Junior;G034;Karina Silva;26/11/2017;23/02/2025;1949.43;hibrido;Sao Paulo;SP;09/03/1992;10/12/2018
+E1201;Vitor Ribeiro;Comercial;Analista;Senior;G021;Gabriela Pereira;09/12/2025;;9162.79;Hibrido;Curitiba;PR;03/10/1974;09/12/2025
+E1120;Sofia Pereira;Atendimento;Assistente;Junior;G012;Felipe Silva;24/07/2025;;2891.89;Presencial;Rio de Janeiro;RJ;23/01/1986;24/07/2025
+E1056;Gustavo Almeida;Operacoes;ANALISTA;Junior;G019;Natalia Cardoso;02/03/2025;;4340.08;PRESENCIAL;Campinas;SP;09/03/1974;02/03/2025
+E0793;Isabela Santos;Atendimento;Assistente;Junior;G003;Helena Rodrigues;27/12/2023;;3093.1;Hibrido;Curitiba;PR;26/05/1987;27/12/2023
+E0768;Ana Oliveira;Marketing;Assistente;Junior;G038;Tatiana Martins;15/10/2023;;2815.53;PRESENCIAL;Belo Horizonte;MG;02/02/2004;15/10/2023
+E0696;Gabriela Gomes;Operações;Analista;Senior;G014;Tiago Gomes;07/06/2023;;7354.2;Hibrido;Curitiba;PR;16/03/1984;01/12/2023
+E0406;Eduardo Barbosa;Tecnologia;Analista;Senior;G029;Joao Moreira;16/04/2019;;7140.0;Hibrido;Brasilia;DF;19/08/1977;01/04/2024
+E0784;Thiago Rodrigues;Operacoes;Especialista;Unico;G013;Isabela Carvalho;21/11/2023;;12557.6;Presencial;Porto Alegre;RS;05/02/1993;21/11/2023
+E0558;Bruno Santos;Tecnologia;Analista;Junior;G027;Natalia Barbosa;21/09/2020;11/06/2023;3060.22;Hibrido;Sao Paulo;SP;26/11/1967;30/09/2021
+E0837;Sabrina Souza;Atendimento;Assistente;Junior;G005;Natalia Martins;04/02/2024;;3053.39;Presencial;Curitiba;PR;03/01/1993;04/02/2024
+E0636;Debora Cardoso;Atendimento;Assistente;Junior;G006;Otavio Cardoso;07/02/2023;;2637.36;Presencial;Belo Horizonte;MG;14/06/2003;07/02/2023
+E0211;Eduardo Costa;Operacoes;Coordenador;Unico;G019;Natalia Cardoso;10/06/2019;;14117.76;Presencial;Porto Alegre;RS;13/10/1975;07/10/2019
+E0388;Caio Nascimento;Atendimento;Assistente;Pleno;G004;Rodrigo Moreira;19/07/2020;18/03/2023;2943.95;Presencial;Fortaleza;CE;23/05/1967;11/12/2021
+E0736;Thiago Gomes;Comercial;Analista;Senior;G021;Gabriela Pereira;15/08/2023;;7506.23;Home Office;Belo Horizonte;MG;19/09/1970;01/10/2024
+E0756;Debora Lima;Atendimento;Assistente;Junior;G005;Natalia Martins;10/10/2023;;2886.42;PRESENCIAL;Sao Paulo;SP;07/03/1966;10/10/2023
+E0899;Lucas Almeida;Tecnologia;ANALISTA;Senior;G027;Natalia Barbosa;18/06/2024;;10082.88;Hibrido;Sao Paulo;SP;16/12/1975;18/06/2024
+E0263;Priscila Moreira;Atendimento;Assistente;Junior;G011;Debora Santos;31/08/2020;12/05/2024;2549.31;Presencial;Belo Horizonte;MG;08/06/1976;15/03/2022
+E0305;Gustavo Ribeiro;Atendimento;Analista;Pleno;G003;Helena Rodrigues;03/07/2020;11/04/2023;5614.75;Presencial;Curitiba;PR;06/03/1985;28/11/2020
+E0283;Helena Silva;Operacoes;Analista;Pleno;G020;Debora Nascimento;20/08/2018;;5042.88;Presencial;Campinas;SP;05/08/1992;01/02/2025
+E0906;Thiago Souza;Tecnologia;Especialista;Unico;G031;Karina Almeida;18/06/2024;;14616.68;Hibrido;Fortaleza;CE;12/04/1989;18/06/2024
+E1070;Igor Ribeiro;Financeiro;Especialista;Unico;G037;Karina Santos;19/04/2025;;14418.48;Hibrido;Rio de Janeiro;RJ;11/06/1998;19/04/2025
+E0827;Tatiana Lima;TI;ANALISTA;Pleno;G028;Igor Martins;04/02/2024;;6558.35;Home Office;Sao Paulo;SP;06/01/2005;04/02/2024
+E0064;Fernanda Cardoso;Comercial;Gerente;Unico;G022;Otavio Nascimento;12/07/2015;14/02/2023;22176.59;Hibrido;Recife;PE;10/06/1961;30/07/2020
+E0340;Vanessa Ribeiro;Atendimento;Assistente;Junior;G003;Helena Rodrigues;05/05/2018;16/04/2024;2022.84;Presencial;Recife;PE;10/05/1989;20/09/2021
+E0337;Vitor Moreira;Atendimento;ASSISTENTE;Junior;G001;Igor Carvalho;11/06/2020;;2526.96;Presencial;Sao Paulo;SP;01/09/1996;26/12/2022
+E0630;Patricia Gomes;Financeiro;Estagiario;Unico;G036;Juliana Souza;18/02/2023;05/05/2024;2053.35;Hibrido;Sao Paulo;SP;25/10/1995;18/02/2023
+E0801;Rodrigo Araujo;Logistica;ASSISTENTE;Junior;G034;Karina Silva;15/12/2023;16/03/2024;2623.21;Presencial;Rio de Janeiro;RJ;13/06/2004;15/12/2023
+E0156;Henrique Martins;Atendimento;Assistente;Junior;G002;Joao Ribeiro;04/06/2020;;2486.85;Presencial;Sao Paulo;SP;18/03/1992;05/06/2020
+E0539;Priscila Pereira;Comercial;Especialista;Unico;G026;Thiago Teixeira;08/10/2021;26/07/2025;9830.11;Hibrido;Rio de Janeiro;RJ;27/05/1971;15/10/2022
+E0857;Gabriela Souza;Marketing;Especialista;Unico;G039;Henrique Pereira;07/03/2024;;14467.62;Hibrido;Curitiba;PR;19/08/1991;07/03/2024
+E0498;Henrique Lima;Comercial;Coordenador;Unico;G026;Thiago Teixeira;11/10/2021;;11451.0;Hibrido;Porto Alegre;RS;08/03/1973;12/08/2022
+E0905;Felipe Gomes;Tecnologia;Analista;Junior;G030;Isabela Gomes;05/06/2024;18/06/2025;4356.55;Home Office;Sao Paulo;SP;10/03/1993;05/06/2024
+E0074;Sabrina Almeida;Atendimento;Assistente;Pleno;G001;Igor Carvalho;25/06/2019;;2856.0;Remoto;Porto Alegre;RS;08/09/1984;01/04/2023
+E0044;Priscila Nascimento;Marketing;Assistente;Junior;G038;Tatiana Martins;18/06/2022;22/06/2023;2048.49;Híbrido;Fortaleza;CE;07/05/1978;06/09/2022
+E1120;Sofia Pereira;Atendimento;Assistente;Junior;G012;Felipe Silva;24/07/2025;;2891.89;Presencial;Rio de Janeiro;RJ;23/01/1986;24/07/2025
+E0560;Rafael Barbosa;Operacoes;Analista;Pleno;G014;Tiago Gomes;03/07/2019;10/03/2024;5142.81;Presencial;Campinas;SP;16/08/1966;01/10/2022
+E1099;Isabela Araujo;Atendimento;Assistente;Junior;G006;Otavio Cardoso;10/06/2025;;2712.77;Presencial;Fortaleza;CE;06/03/1996;10/06/2025
+E0867;Amanda Costa;Tecnologia;Analista;Pleno;G029;Joao Moreira;17/04/2024;;6482.73;Remoto;Recife;PE;01/04/2001;17/04/2024
+E0693;Caio Barbosa;Atendimento;Assistente;Pleno;G006;Otavio Cardoso;25/06/2023;;3266.41;Hibrido;Sao Paulo;SP;24/06/1980;25/06/2023
+E0847;Sofia Barbosa;Logistica;Assistente;Junior;G034;Karina Silva;02/03/2024;;3000.31;Presencial;Sao Paulo;SP;25/10/1968;02/03/2024
+E0254;Marcos Santos;Comercial;Coordenador;Unico;G024;Renato Araujo;24/09/2017;;14077.07;Presencial;Belo Horizonte;MG;19/03/1968;30/06/2018
+E0703;Sofia Silva;Marketing;ANALISTA;Pleno;G038;Tatiana Martins;14/07/2023;;6905.26;Híbrido;Recife;PE;01/07/1994;14/07/2023
+E0097;Caio Cardoso;Atendimento;Coordenador;Unico;G007;Isabela Teixeira;17/02/2022;11/07/2023;12640.52;Hibrido;Sao Paulo;SP;11/05/1975;04/09/2022
+E0279;Eduardo Oliveira;Operacoes;Analista;Junior;G019;Natalia Cardoso;18/03/2020;17/05/2025;3447.5;Híbrido;Recife;PE;24/01/1979;14/02/2021
+E0651;Helena Oliveira;Financeiro;Especialista;Unico;G036;Juliana Souza;11/03/2023;;14607.81;Remoto;Brasilia;DF;11/09/1995;11/03/2023
+E0691;Diego Cardoso;Atendimento;Analista;Junior;G009;Ana Moreira;24/06/2023;;4654.12;Home Office;Curitiba;PR;07/01/1980;24/06/2023
+E0927;Wesley Pereira;Atendimento;Assistente ;Junior;G003;Helena Rodrigues;12/07/2024;;2578.36;presencial;Sao Paulo;SP;19/08/1989;12/07/2024
+E0296;Beatriz Araujo;Financeiro;ANALISTA;Pleno;G036;Juliana Souza;05/10/2019;26/03/2023;R$ 4.441,90;Presencial;Curitiba;PR;25/11/1992;18/03/2022
+E0199;Juliana Gomes;Marketing;Analista;Junior;G039;Henrique Pereira;22/08/2013;;R$ 3.792,97;Presencial;Sao Paulo;SP;03/01/1963;29/10/2018
+E0346;Henrique Silva;Atendimento;Assistente;Junior;G004;Rodrigo Moreira;30/04/2022;24/01/2023;1946.82;presencial;Sao Paulo;SP;22/02/1977;30/06/2022
+E0623;Larissa Santos;Comercial;Analista ;Pleno;G021;Gabriela Pereira;23/01/2023;;6834.72;Presencial;Fortaleza;CE;18/11/1990;23/01/2023
+E0099;Otavio Nascimento;Atendimento;Assistente;Junior;G007;Isabela Teixeira;24/06/2019;13/05/2025;2052.7;Hibrido;Brasilia;DF;18/03/1969;11/03/2020
+E0828;Ana Ribeiro;Operacoes;Coordenador;Unico;G015;Beatriz Ferreira;16/02/2024;;15434.03;Hibrido;Rio de Janeiro;RJ;19/04/1997;16/02/2024
+E0976;Otavio Almeida;Operacoes;Analista;Pleno;G013;Isabela Carvalho;02/11/2024;;5807.96;PRESENCIAL;Sao Paulo;SP;02/03/2001;02/11/2024
+E0549;Joao Ferreira;Comercial;Analista;Senior;G021;Gabriela Pereira;12/11/2021;;6484.57;Presencial;Recife;PE;22/09/1987;02/04/2022
+E0772;Sofia Moreira;Operações;Especialista;Unico;G013;Isabela Carvalho;06/11/2023;;12930.79;Remoto;Curitiba;PR;09/12/1984;06/11/2023
+E0075;Amanda Cardoso;Atendimento;Assistente;Pleno;G012;Felipe Silva;13/09/2018;;R$ 3.081,11;Presencial;Sao Paulo;SP;24/06/1979;30/05/2020
+E0266;Ana Souza;Marketing;Analista;Pleno;G038;Tatiana Martins;21/08/2018;;4797.96;HIBRIDO;Rio de Janeiro;RJ;17/03/1975;03/03/2020
+E0012;Sofia Almeida;TI;Assistente;Junior;G028;Igor Martins;19/06/2020;;1898.2;Hibrido;Sao Paulo;SP;07/06/1991;18/12/2022
+E0356;Tiago Ferreira;Atendimento;Assistente;Junior;G004;Rodrigo Moreira;12/05/2021;;2328.36;Híbrido;Rio de Janeiro;RJ;13/05/1980;18/10/2022
+E0028;Felipe Teixeira;RH;Analista;Senior;G041;Igor Araujo;21/12/2015;;8201.18;Hibrido;Sao Paulo;SP;09/12/1980;10/12/2018
+E1160;Patricia Moreira;Atendimento;Assistente;Junior;G006;Otavio Cardoso;01/09/2025;12/12/2025;2649.89;Híbrido;Porto Alegre;RS;26/06/2003;01/09/2025
+E0425;Amanda Teixeira;RH;Assistente;Junior;G040;Henrique Rodrigues;05/02/2022;;2383.76;Hibrido;Fortaleza;CE;16/05/1999;05/06/2022
+E0025;Vitor Pereira;RH;Analista ;Senior;G041;Igor Araujo;15/05/2013;24/01/2025;7574.83;Hibrido;Belo Horizonte;MG;04/11/1989;01/05/2024
+E0331;Rafael Pereira;Atendimento;Analista;Pleno;G004;Rodrigo Moreira;18/12/2013;14/09/2023;4896.0;Hibrido;Sao Paulo;SP;16/11/1960;01/01/2023
+E0661;Vitor Barbosa;Atendimento;Assistente;Junior;G012;Felipe Silva;01/04/2023;;3249.77;Hibrido;Rio de Janeiro;RJ;01/07/1981;01/04/2023
+E0614;Tatiana Almeida;Atendimento;Assistente;Junior;G011;Debora Santos;27/05/2015;20/08/2025;2220.5;Hibrido;Salvador;BA;16/07/1992;19/05/2020
+E0709;Carla Ferreira;Comercial;Analista;Junior;G025;Amanda Oliveira;01/07/2023;;4232.04;remoto;Porto Alegre;RS;21/09/1973;01/07/2023
+E0727;Henrique Ferreira;Comercial;Assistente;Junior;G021;Gabriela Pereira;16/08/2023;;2583.44;Home Office;Sao Paulo;SP;17/06/1970;16/08/2023
+E0743;Tatiana Martins;Marketing;Analista;Senior;G038;Tatiana Martins;03/09/2023;;9764.76;Presencial;Belo Horizonte;MG;07/11/1986;03/09/2023
+E0929;Ana Barbosa;Financeiro;Analista ;Pleno;G037;Karina Santos;20/07/2024;;6695.13;Hibrido;Fortaleza;CE;12/04/1969;20/07/2024
+E0169;Natalia Almeida;Comercial;Especialista;Unico;G024;Renato Araujo;12/10/2021;;9949.37;Hibrido;Sao Paulo;SP;11/05/1971;25/12/2022
+E0287;Vanessa Barbosa;Operações;Analista;Pleno;G014;Tiago Gomes;26/06/2022;11/04/2024;4803.6;Presencial;Porto Alegre;RS;04/05/1975;27/08/2022
+E0993;Fernanda Nascimento;Operacoes;Analista;Pleno;G014;Tiago Gomes;26/12/2024;;6659.52;Híbrido;Sao Paulo;SP;21/06/1998;26/12/2024
+E0564;Sofia Ferreira;Marketing;Estagiario;Unico;G038;Tatiana Martins;13/08/2013;;1634.8;Hibrido;Rio de Janeiro;RJ;15/08/1977;25/02/2018
+E0015;Amanda Cardoso;Atendimento;Assistente;Junior;G003;Helena Rodrigues;04/07/2020;;2025.26;Presencial;Sao Paulo;SP;03/08/1964;26/08/2020
+E0420;Sabrina Souza;Comercial;Analista;Pleno;G023;Bruno Ferreira;16/12/2017;;4896.0;Presencial;Rio de Janeiro;RJ;15/04/1962;01/02/2023
+E0189;Karina Lima;TI;Analista;Senior;G027;Natalia Barbosa;10/04/2022;;6364.41;Hibrido;Fortaleza;CE;04/12/1994;06/10/2022
+E0437;Sofia Souza;Atendimento;Assistente;Junior;G006;Otavio Cardoso;01/08/2018;;2069.36;Presencial;Rio de Janeiro;RJ;10/07/1968;16/06/2020
+E1051;Sabrina Moreira;Comercial;Analista;Junior;G021;Gabriela Pereira;19/03/2025;;4367.02;hibrido;Sao Paulo;SP;13/08/1968;19/03/2025
+E1148;Larissa Cardoso;Atendimento;Estagiario;Unico;G002;Joao Ribeiro;18/09/2025;;2124.58;Presencial;Recife;PE;05/05/2005;18/09/2025
+E0417;Sabrina Barbosa;Operacoes;Especialista;Unico;G013;Isabela Carvalho;13/06/2018;;10350.78;Presencial;Sao Paulo;SP;05/01/1965;17/02/2019
+E0859;Tiago Almeida;Comercial;Analista;Senior;G026;Thiago Teixeira;22/04/2024;;8558.27;HIBRIDO;Sao Paulo;SP;26/06/1991;22/04/2024
+E0408;Gabriela Rodrigues;RH;Analista;Senior;G040;Henrique Rodrigues;20/02/2022;26/10/2025;7576.18;PRESENCIAL;Porto Alegre;RS;13/09/1979;29/03/2022
+E0397;Lucas Carvalho;Comercial;ANALISTA;Senior;G021;Gabriela Pereira;26/06/2019;;7430.17;Hibrido;Rio de Janeiro;RJ;02/08/1963;29/01/2021
+E0720;Igor Almeida;Logistica;Assistente;Junior;G034;Karina Silva;18/08/2023;01/11/2024;R$ 2.710,53;Presencial;Sao Paulo;SP;12/04/1996;18/08/2023
+E1017;Wesley Moreira;Tecnologia;Estagiario;Unico;G030;Isabela Gomes;25/01/2025;;2014.02;Remoto;Rio de Janeiro;RJ;11/12/1997;25/01/2025
+E0797;Gustavo Pereira;T.I.;Analista;Pleno;G031;Karina Almeida;12/12/2023;;5057.01;Híbrido;Sao Paulo;SP;25/12/1968;01/04/2025
+E0915;Ana Teixeira;Atendimento;Analista;Pleno;G003;Helena Rodrigues;27/06/2024;;6335.61;HIBRIDO;Belo Horizonte;MG;19/01/2001;27/06/2024
+E0193;Natalia Almeida;Operacoes;Analista;Senior;G013;Isabela Carvalho;31/10/2018;;8395.75;Presencial;Rio de Janeiro;RJ;11/06/1994;03/10/2022
+E0150;Leonardo Silva;Operacoes;Estagiario;Unico;G018;Marcos Oliveira;02/11/2021;;1579.9;Presencial;Fortaleza;CE;16/09/1987;18/04/2022
+E0731;Rafael Nascimento;Atendimento;Assistente;Junior;G011;Debora Santos;01/08/2023;06/06/2024;2556.55;PRESENCIAL;Sao Paulo;SP;06/11/2003;01/08/2023
+E0672;Gabriela Gomes;Atendimento;Estagiario;Unico;G004;Rodrigo Moreira;04/04/2023;01/05/2023;1952.19;presencial;Fortaleza;CE;25/03/1980;04/04/2023
+E0606;Tatiana Almeida;Logistica;Assistente;Pleno;;;30/10/2015;02/06/2024;3237.59;Presencial;Sao Paulo;SP;19/12/1996;09/09/2022
+E0300;Tiago Teixeira;Atendimento;Assistente;Junior;G003;Helena Rodrigues;05/08/2015;20/02/2024;2173.39;Presencial;Curitiba;PR;25/12/1985;08/08/2020
+E0704;Larissa Santos;Tecnologia;Analista;Senior;G027;Natalia Barbosa;26/07/2023;;8642.84;Remoto;Recife;PE;13/01/1980;26/07/2023
+E0663;Ana Nascimento;Comercial;Analista;Senior;G022;Otavio Nascimento;02/04/2023;10/02/2025;10049.41;Hibrido;Curitiba;PR;23/10/1967;02/04/2023
+E0241;Amanda Almeida;RH;Analista;Pleno;G040;Henrique Rodrigues;12/09/2015;16/04/2024;5892.08;Hibrido;Belo Horizonte;MG;25/05/1980;20/07/2017
+E0200;Sofia Silva;Comercial;Analista;Pleno;G022;Otavio Nascimento;29/11/2020;10/12/2023;4569.2;Presencial;Fortaleza;CE;15/12/1965;25/04/2021
+E0046;Sabrina Pereira;T.I.;Analista;Junior;G029;Joao Moreira;14/10/2021;04/02/2024;3050.96;Híbrido;Salvador;BA;24/03/1979;25/11/2021
+E0752;Larissa Teixeira;RH;Assistente;Junior;G040;Henrique Rodrigues;27/10/2023;22/11/2024;2669.44;Hibrido;Rio de Janeiro;RJ;22/02/1993;27/10/2023
+E0541;Isabela Souza;Operacoes;ANALISTA;Senior;G019;Natalia Cardoso;17/09/2019;;7140.0;Presencial;Salvador;BA;25/10/1963;01/01/2024
+E1010;Diego Santos;Tecnologia;Assistente;Junior;G029;Joao Moreira;27/01/2025;;2796.93;Remoto;Rio de Janeiro;RJ;20/09/1971;27/01/2025
+E0138;Igor Lima;Operacoes;Especialista;Unico;G017;Joao Oliveira;27/10/2019;;12615.86;Presencial;Sao Paulo;SP;12/06/1975;03/01/2021
+E1089;Rodrigo Araujo;Atendimento;Assistente;Junior;G008;Felipe Rodrigues;13/05/2025;26/06/2025;2584.04;Presencial;Belo Horizonte;MG;03/11/2000;13/05/2025
+E1126;Igor Carvalho;Atendimento;Assistente;Pleno;G007;Isabela Teixeira;02/07/2025;08/11/2025;3586.2;Remoto;Salvador;BA;25/05/2003;02/07/2025
+E0534;Wesley Lima;Atendimento;Assistente;Pleno;G004;Rodrigo Moreira;25/05/2017;;2670.3;Presencial;Porto Alegre;RS;19/06/1981;03/12/2022
+E1013;Eduardo Gomes;Operações;Assistente;Junior;G016;Patricia Gomes;01/01/2025;;3053.03;Presencial;Curitiba;PR;08/04/1987;01/01/2025
+E0830;Lucas Pereira;Atendimento;Analista;Junior;G003;Helena Rodrigues;07/02/2024;;4190.63;Presencial;Belo Horizonte;MG;24/04/1983;07/02/2024
+E0944;Rodrigo Barbosa;Comercial;Especialista;Unico;G023;Bruno Ferreira;26/08/2024;12/02/2025;12953.37;Hibrido;Sao Paulo;SP;11/01/1985;26/08/2024
+E1018;Juliana Oliveira;Atendimento;Assistente;Pleno;G003;Helena Rodrigues;03/01/2025;;3818.92;Híbrido;Sao Paulo;SP;22/08/2004;03/01/2025
+E0382;Diego Cardoso;Operacoes;Analista;Pleno;G017;Joao Oliveira;05/04/2022;04/06/2025;4575.56;Presencial;Curitiba;PR;20/03/2002;05/10/2022
+E0680;Igor Cardoso;Operacoes;Analista;Pleno;G015;Beatriz Ferreira;02/05/2023;;6617.56;PRESENCIAL;Sao Paulo;SP;20/09/1989;02/05/2023
+E1212;Henrique Carvalho;Atendimento;Assistente;Junior;G012;Felipe Silva;25/12/2025;;2581.74;Presencial;Curitiba;PR;20/12/2000;25/12/2025
+E0449;Debora Oliveira;Operacoes;Analista;Pleno;G014;Tiago Gomes;06/05/2018;;4680.93;Hibrido;Belo Horizonte;MG;15/11/1991;29/03/2020
+E0511;Vanessa Carvalho;Atendimento;ANALISTA;Pleno;G003;Helena Rodrigues;12/12/2021;;4896.0;hibrido;Campinas;SP;03/06/2002;01/11/2023
+E0424;Larissa Almeida;Tecnologia;Especialista;Unico;G027;Natalia Barbosa;05/06/2013;;11909.53;Remoto;Campinas;SP;16/11/1956;19/11/2017
+E0007;Debora Almeida;Operações;Assistente;Pleno;G017;Joao Oliveira;22/05/2019;;2943.04;presencial;Campinas;SP;19/05/1991;01/03/2023
+E0098;Otavio Costa;Atendimento;Assistente;Junior;G010;Gustavo Santos;10/05/2017;07/01/2025;2643.76;Presencial;Rio de Janeiro;RJ;18/02/1985;12/11/2017
+E0411;Vitor Souza;Financeiro;Analista;Junior;G036;Juliana Souza;18/10/2020;;3863.71;Hibrido;Porto Alegre;RS;02/03/1984;08/09/2021
+E0159;Gustavo Lima;Atendimento;Assistente;Pleno;G008;Felipe Rodrigues;15/04/2015;21/01/2024;2736.42;PRESENCIAL;Fortaleza;CE;12/06/1983;14/06/2018
+E0565;Bruno Cardoso;Atendimento;Assistente;Junior;G005;Natalia Martins;25/03/2019;15/01/2024;2199.63;Híbrido;Belo Horizonte;MG;05/10/1968;07/12/2019
+E0972;Priscila Lima;T.I.;Analista;Pleno;G027;Natalia Barbosa;05/10/2024;;6341.75;Remoto;Sao Paulo;SP;10/02/1980;05/10/2024
+E0659;Diego Oliveira;TI;Coordenador;Unico;G027;Natalia Barbosa;12/04/2023;;18172.18;Home Office;Belo Horizonte;MG;01/03/1981;12/04/2023
+E0033;Leonardo Almeida;Operacoes;Analista ;Senior;G020;Debora Nascimento;25/04/2017;;8463.49;Presencial;Rio de Janeiro;RJ;25/03/1978;15/08/2019
+E1117;Priscila Teixeira;Financeiro;Analista;Pleno;G037;Karina Santos;09/07/2025;;5914.04;Presencial;Sao Paulo;SP;01/03/1968;09/07/2025
+E0808;Vitor Santos;Comercial;ANALISTA;Junior;G024;Renato Araujo;05/01/2024;;4195.8;HIBRIDO;Curitiba;PR;22/07/2001;05/01/2024
+E0522;Tiago Nascimento;Operações;Analista;Senior;G017;Joao Oliveira;04/06/2019;;8730.83;Presencial;Salvador;BA;19/04/1974;31/03/2021
+E0335;Rafael Souza;Operacoes;Analista;Pleno;G018;Marcos Oliveira;20/10/2017;17/11/2025;4896.0;Hibrido;Curitiba;PR;07/06/1969;01/12/2024
+E0491;Rodrigo Teixeira;Comercial;Analista;Senior;G026;Thiago Teixeira;23/08/2020;;6624.23;HIBRIDO;Recife;PE;13/04/1966;28/06/2021
+E0921;Debora Gomes;Comercial;Analista;Pleno;G021;Gabriela Pereira;10/07/2024;;6153.83;Hibrido;Rio de Janeiro;RJ;12/06/1986;10/07/2024
+E0259;Thiago Lima;Operações;Analista;Junior;G020;Debora Nascimento;18/11/2013;12/03/2025;3461.7;Presencial;Fortaleza;CE;19/01/1993;24/03/2022
+E0172;Gabriela Araujo;RH;Especialista;Unico;G040;Henrique Rodrigues;02/12/2019;11/10/2025;10050.38;Remoto;Sao Paulo;SP;20/01/1980;25/06/2021
+E1135;Henrique Santos;Comercial;Analista;Pleno;G025;Amanda Oliveira;24/08/2025;;6643.3;Hibrido;Rio de Janeiro;RJ;19/11/1995;24/08/2025
+E0548;Debora Moreira;Atendimento;Analista;Junior;G005;Natalia Martins;10/05/2013;09/03/2024;3988.49;Presencial;Fortaleza;CE;07/02/1983;15/12/2015
+E0237;Vitor Teixeira;Comercial;Analista;Junior;G025;Amanda Oliveira;15/07/2021;;3711.33;hibrido;Rio de Janeiro;RJ;12/11/1993;17/09/2022
+E0385;Gabriela Ferreira;Atendimento;Analista;Senior;G006;Otavio Cardoso;29/12/2019;05/11/2023;7140.0;Presencial;Rio de Janeiro;RJ;15/10/1964;01/10/2023
+E0698;Eduardo Santos;Operacoes;Analista;Pleno;G015;Beatriz Ferreira;24/06/2023;19/07/2023;6636.37;Hibrido;Porto Alegre;RS;27/09/1990;24/06/2023
+E0024;Helena Costa;Financeiro;ANALISTA;Senior;G036;Juliana Souza;28/12/2021;;7574.83;Presencial;Sao Paulo;SP;10/09/1983;01/07/2023
+E0858;Bruno Lima;Comercial;Analista;Senior;G021;Gabriela Pereira;26/03/2024;;7696.83;Hibrido;Rio de Janeiro;RJ;25/12/1989;01/11/2025
+E1046;Tiago Ferreira;Tecnologia;Analista;Senior;G031;Karina Almeida;26/03/2025;;9395.33;Hibrido;Sao Paulo;SP;26/12/1986;26/03/2025
+E0937;Leonardo Araujo;RH;Analista;Senior;G040;Henrique Rodrigues;15/08/2024;;8715.16;HIBRIDO;Rio de Janeiro;RJ;20/10/1985;15/08/2024
+E0546;Vitor Rodrigues;Comercial;Assistente;Junior;;;06/04/2018;;2166.67;Presencial;Brasilia;DF;02/10/1985;12/04/2020
+E0679;Leonardo Cardoso;Atendimento;Assistente;Junior;G005;Natalia Martins;13/05/2023;;2899.44;Hibrido;Porto Alegre;RS;22/08/2002;13/05/2023
+E0478;Henrique Pereira;Atendimento;Assistente;Junior;G010;Gustavo Santos;23/08/2019;15/12/2025;2050.43;Hibrido;Sao Paulo;SP;11/02/1993;15/06/2022
+E0889;Karina Pereira;Logistica;Assistente;Junior;G032;Vitor Teixeira;14/05/2024;11/08/2024;2911.84;PRESENCIAL;Campinas;SP;09/03/1968;14/05/2024
+E0721;Igor Rodrigues;Atendimento;Assistente;Pleno;G003;Helena Rodrigues;10/08/2023;;3475.2;Presencial;Sao Paulo;SP;15/07/1989;01/01/2024
+E0764;Thiago Oliveira;Operacoes;Especialista;Unico;G020;Debora Nascimento;26/10/2023;;15061.32;presencial;Porto Alegre;RS;13/03/1978;26/10/2023
+E0154;Bruno Silva;Atendimento;Assistente;Pleno;G001;Igor Carvalho;30/10/2019;14/09/2024;2856.0;Presencial;Sao Paulo;SP;11/09/1981;01/11/2023
+E0123;Larissa Moreira;Comercial;Analista;Pleno;G021;Gabriela Pereira;18/05/2020;27/09/2025;4472.02;hibrido;Recife;PE;16/02/1973;17/06/2021
+E0789;Ana Nascimento;Atendimento;Assistente;Pleno;G010;Gustavo Santos;25/12/2023;03/01/2025;3749.11;Presencial;Brasilia;DF;06/09/1967;25/12/2023
+E0777;Sofia Souza;Operacoes;Analista;Junior;G018;Marcos Oliveira;01/11/2023;;4789.46;presencial;Rio de Janeiro;RJ;03/07/1983;01/11/2023
+E0121;Rodrigo Moreira;Atendimento;Assistente;Pleno;G004;Rodrigo Moreira;18/03/2018;;3114.71;Presencial;Rio de Janeiro;RJ;26/10/1999;23/10/2019
+E1102;Caio Souza;Operações;Analista;Senior;G017;Joao Oliveira;20/06/2025;;9596.72;Presencial;Sao Paulo;SP;02/11/1973;20/06/2025
+E0583;Lucas Araujo;Marketing;Gerente;Unico;G039;Henrique Pereira;15/12/2019;;18372.82;Híbrido;Belo Horizonte;MG;04/12/1968;09/11/2020
+E0601;Eduardo Almeida;Tecnologia;Analista;Pleno;G030;Isabela Gomes;06/08/2019;;4697.94;Remoto;Rio de Janeiro;RJ;23/02/1976;17/08/2022
+E0464;Carla Silva;Atendimento;Assistente;Pleno;G001;Igor Carvalho;18/06/2020;08/11/2023;R$ 2.856,00;Presencial;Porto Alegre;RS;05/05/1970;01/09/2023
+E0894;Juliana Lima;Comercial;Analista;Pleno;G024;Renato Araujo;15/05/2024;;6353.26;Hibrido;Rio de Janeiro;RJ;26/09/1984;15/05/2024
+E0665;Amanda Costa;Logistica;Assistente;Junior;G035;Otavio Rodrigues;09/04/2023;;3231.95;Presencial;Recife;PE;17/01/1986;09/04/2023
+E0962;Gustavo Nascimento;Atendimento;Assistente;Junior;G007;Isabela Teixeira;15/09/2024;;2796.43;Presencial;Sao Paulo;SP;27/02/1999;15/09/2024
+E0787;Rafael Silva;Atendimento;Assistente;Pleno;G003;Helena Rodrigues;20/11/2023;;3676.01;Presencial;Recife;PE;20/04/1995;20/11/2023
+E0520;Tatiana Cardoso;Operações;Gerente;Unico;G018;Marcos Oliveira;23/12/2020;;20583.99;remoto;Sao Paulo;SP;08/12/1968;16/02/2022
+E0710;Otavio Barbosa;Comercial;Analista;Junior;G024;Renato Araujo;11/07/2023;;4549.91;Hibrido;Sao Paulo;SP;06/10/1966;11/07/2023
+E1020;Patricia Nascimento;Comercial;Analista;Pleno;G024;Renato Araujo;27/01/2025;;6649.72;Hibrido;Porto Alegre;RS;11/05/1971;27/01/2025
+E1182;Amanda Santos;Operações;Analista;Senior;G018;Marcos Oliveira;26/11/2025;;9108.93;Hibrido;Sao Paulo;SP;18/01/1989;26/11/2025
+E0587;Bruno Araujo;Financeiro;Analista;Senior;G037;Karina Santos;10/09/2021;;7140.0;Hibrido;Recife;PE;04/08/1975;01/09/2023
+E1073;Felipe Cardoso;RH;Analista;Senior;G041;Igor Araujo;19/04/2025;;9291.05;Presencial;Porto Alegre;RS;16/02/1994;19/04/2025
+E0836;Renato Souza;Logistica;Gerente;Unico;G033;Henrique Ribeiro;17/02/2024;;26793.81;Hibrido;Fortaleza;CE;14/11/1974;17/02/2024
+E0692;Patricia Rodrigues;Tecnologia;Analista;Senior;G027;Natalia Barbosa;04/06/2023;;8084.44;Hibrido;Sao Paulo;SP;16/12/1978;01/07/2025
+E0523;Thiago Rodrigues;Marketing;Analista;Senior;G038;Tatiana Martins;29/04/2018;;7354.2;HIBRIDO;Curitiba;PR;17/09/1988;01/12/2023
+E0358;Amanda Martins;Tecnologia;Analista;Senior;G029;Joao Moreira;22/08/2013;;7140.0;Hibrido;Belo Horizonte;MG;14/06/1968;01/05/2024
+E1003;Beatriz Silva;Atendimento;Analista;Pleno;G008;Felipe Rodrigues;05/01/2025;;6564.49;PRESENCIAL;Sao Paulo;SP;25/02/1988;05/01/2025
+E1186;Vanessa Carvalho;Comercial;Analista ;Pleno;G025;Amanda Oliveira;27/11/2025;21/12/2025;6817.43;Presencial;Sao Paulo;SP;18/12/2000;27/11/2025
+E0151;Leonardo Cardoso;Atendimento;Assistente;Pleno;G007;Isabela Teixeira;30/04/2017;09/10/2025;3067.9;Presencial;Sao Paulo;SP;26/12/1993;02/07/2018
+E0529;Tiago Moreira;Tecnologia;Analista;Senior;G030;Isabela Gomes;22/07/2013;19/01/2025;7453.34;Remoto;Belo Horizonte;MG;01/03/1967;01/02/2024
+E0181;Eduardo Ferreira;Operacoes;ANALISTA;Pleno;G014;Tiago Gomes;25/03/2020;;4693.06;Hibrido;Sao Paulo;SP;19/02/1982;03/05/2021
+E0292;Larissa Almeida;Operacoes;Analista;Junior;G013;Isabela Carvalho;14/10/2020;26/03/2024;3840.18;Presencial;Porto Alegre;RS;20/10/2001;23/10/2022
+E0991;Beatriz Carvalho;Operacoes;Analista;Junior;G020;Debora Nascimento;11/12/2024;;4716.11;PRESENCIAL;Sao Paulo;SP;09/07/1986;11/12/2024
+E0775;Carla Ferreira;Logistica;Assistente;Pleno;G032;Vitor Teixeira;25/11/2023;01/01/2025;3418.13;hibrido;Recife;PE;13/01/1990;25/11/2023
+E0175;Sofia Lima;Logistica;Assistente ;Pleno;G032;Vitor Teixeira;03/11/2021;;3133.88;Presencial;Sao Paulo;SP;25/12/1977;08/01/2022
+E0791;Sofia Araujo;Logistica;Assistente;Pleno;G033;Henrique Ribeiro;14/12/2023;;3389.38;Hibrido;Salvador;BA;05/05/1995;01/08/2024
+E0258;Marcos Souza;Atendimento;Assistente;Junior;G011;Debora Santos;08/10/2018;17/03/2025;1995.08;Hibrido;Curitiba;PR;12/04/1970;04/12/2018
+E1095;Debora Ribeiro;Atendimento;Assistente;Junior;G003;Helena Rodrigues;16/05/2025;;2647.15;Remoto;Curitiba;PR;22/05/1971;16/05/2025
+E0914;Renato Araujo;Atendimento;Assistente;Junior;G012;Felipe Silva;12/06/2024;;2720.92;Presencial;Recife;PE;19/06/1997;12/06/2024
+E0022;Fernanda Almeida;Atendimento;Assistente;Junior;G005;Natalia Martins;02/11/2019;17/04/2025;2086.88;Hibrido;Sao Paulo;SP;16/06/2000;16/04/2020
+E1197;Natalia Araujo;Atendimento;Assistente;Junior;G005;Natalia Martins;03/12/2025;;2838.16;Híbrido;Porto Alegre;RS;11/01/1999;03/12/2025
+E1092;Marcos Martins;Atendimento;Analista;Junior;G003;Helena Rodrigues;25/05/2025;;4448.62;Hibrido;Fortaleza;CE;05/09/2003;25/05/2025
+E0809;Renato Cardoso;Operacoes;Analista;Pleno;G017;Joao Oliveira;10/01/2024;;6019.27;Presencial;Belo Horizonte;MG;12/11/2001;10/01/2024
+E0482;Ana Gomes;Tecnologia;Estagiario;Unico;G028;Igor Martins;08/10/2017;03/09/2023;1911.68;Hibrido;Sao Paulo;SP;17/01/1992;14/08/2021
+E0475;Patricia Oliveira;Logistica;Assistente;Junior;G034;Karina Silva;12/07/2021;20/09/2023;2335.56;presencial;Sao Paulo;SP;22/03/1966;14/02/2022
+E0853;Helena Lima;Operacoes;Especialista;Unico;G018;Marcos Oliveira;20/03/2024;;14982.16;Presencial;Campinas;SP;19/08/2002;20/03/2024
+E0119;Otavio Ferreira;Comercial;Analista;Pleno;G024;Renato Araujo;19/11/2020;;5419.37;Hibrido;Porto Alegre;RS;11/11/1963;06/08/2022
+E0179;Vitor Souza;Logistica;Assistente;Junior;G032;Vitor Teixeira;01/05/2022;;2104.57;presencial;Sao Paulo;SP;12/08/1975;09/11/2022
+E0938;Vitor Teixeira;Logistica;Assistente;Junior;G034;Karina Silva;15/08/2024;;3026.2;hibrido;Fortaleza;CE;06/10/1997;15/08/2024
+E0338;Isabela Cardoso;Operacoes;Analista;Junior;G013;Isabela Carvalho;10/08/2020;01/02/2024;3009.52;Hibrido;Brasilia;DF;10/01/1982;04/03/2021
+E0610;Rodrigo Ribeiro;Operacoes;Coordenador;Unico;G020;Debora Nascimento;11/05/2019;;11854.56;PRESENCIAL;Recife;PE;20/01/1999;18/10/2020
+E0298;Caio Ribeiro;Atendimento;Assistente;Pleno;G002;Joao Ribeiro;09/04/2017;;2597.92;Presencial;Belo Horizonte;MG;22/03/1966;06/08/2019
+E0939;Marcos Rodrigues;Logistica;Assistente;Junior;G034;Karina Silva;15/08/2024;;2692.29;Presencial;Sao Paulo;SP;02/09/1998;15/08/2024
+E1146;Henrique Nascimento;Atendimento;Assistente;Pleno;G004;Rodrigo Moreira;02/09/2025;;3370.14;Presencial;Sao Paulo;SP;09/04/1971;02/09/2025
+E0110;Larissa Lima;Atendimento;Assistente;Junior;G003;Helena Rodrigues;13/09/2020;06/05/2025;2441.05;Hibrido;Sao Paulo;SP;02/08/1989;08/10/2020
+E0414;Felipe Costa;Atendimento;Assistente;Pleno;G006;Otavio Cardoso;13/07/2020;18/06/2025;2686.09;Presencial;Rio de Janeiro;RJ;01/07/1987;18/11/2022
+E1035;Joao Silva;Logistica;Coordenador;Unico;G035;Otavio Rodrigues;15/02/2025;;R$ 16.120,87;Presencial;Sao Paulo;SP;08/04/1980;15/02/2025
+E1138;Beatriz Silva;Marketing;Analista;Junior;G039;Henrique Pereira;24/08/2025;;4234.53;Hibrido;Belo Horizonte;MG;24/05/2000;24/08/2025
+E0543;Carla Moreira;Atendimento;Estagiario ;Unico;G008;Felipe Rodrigues;29/05/2022;20/12/2023;1356.92;Hibrido;Rio de Janeiro;RJ;22/11/1993;14/10/2022
+E0940;Tatiana Barbosa;Atendimento;Assistente;Pleno;G001;Igor Carvalho;17/08/2024;;3866.94;hibrido;Recife;PE;02/08/1994;17/08/2024
+E0306;Karina Moreira;Logistica;Assistente;Junior;G033;Henrique Ribeiro;05/11/2015;22/11/2023;2146.09;Híbrido;Belo Horizonte;MG;08/12/1968;29/07/2020
+E0650;Igor Oliveira;Logistica;Assistente;Junior;G035;Otavio Rodrigues;20/03/2023;06/02/2024;2845.8;Presencial;Brasilia;DF;25/06/1980;20/03/2023
+E0392;Felipe Teixeira;Tecnologia;Assistente;Junior;G028;Igor Martins;28/07/2019;;2095.66;Remoto;Sao Paulo;SP;01/05/1976;21/09/2020
+E1022;Tatiana Lima;Atendimento;Assistente;Junior;G006;Otavio Cardoso;14/01/2025;;2876.34;Hibrido;Salvador;BA;17/01/2006;14/01/2025
+E0974;Gustavo Rodrigues;Comercial;ESTAGIARIO;Unico;G024;Renato Araujo;14/10/2024;;1883.85;Presencial;Recife;PE;04/08/1986;14/10/2024
+E0021;Amanda Barbosa;Atendimento;Assistente;Pleno;G002;Joao Ribeiro;15/05/2018;;3041.09;Presencial;Sao Paulo;SP;25/11/1969;23/11/2019
+E0686;Sofia Lima;Operações;ESTAGIARIO;Unico;G014;Tiago Gomes;05/06/2023;;R$ 2.136,77;Presencial;Rio de Janeiro;RJ;11/04/2000;05/06/2023
+E0711;Isabela Martins;Tecnologia;Gerente;Unico;G029;Joao Moreira;04/07/2023;;R$ 25.485,20;Híbrido;Sao Paulo;SP;25/11/1976;04/07/2023
+E0870;Igor Lima;Atendimento;Analista;Pleno;G005;Natalia Martins;15/04/2024;19/07/2024;5254.61;Hibrido;Sao Paulo;SP;02/01/2002;01/05/2024
+E0102;Helena Almeida;Financeiro;Analista;Pleno;G037;Karina Santos;02/10/2020;09/01/2025;5368.77;Presencial;Sao Paulo;SP;26/10/1981;05/03/2021
+E0140;Igor Souza;Financeiro;Analista;Senior;G037;Karina Santos;20/12/2021;;7660.38;Presencial;Curitiba;PR;19/12/1994;15/08/2022
+E0755;Caio Silva;Logistica;Assistente;Junior;G032;Vitor Teixeira;07/10/2023;;3091.79;presencial;Recife;PE;22/06/1990;07/10/2023
+E0224;Gabriela Teixeira;Atendimento;Assistente;Junior;G003;Helena Rodrigues;08/05/2022;07/02/2024;2480.27;PRESENCIAL;Campinas;SP;27/08/1968;14/08/2022
+E0975;Karina Costa;Logistica;Assistente;Junior;G035;Otavio Rodrigues;07/10/2024;;2896.06;Presencial;Rio de Janeiro;RJ;14/07/1975;07/10/2024
+E0553;Karina Martins;Atendimento;Analista;Senior;G009;Ana Moreira;24/09/2019;;7354.2;Remoto;Porto Alegre;RS;07/12/1978;01/07/2023
+E0394;Otavio Araujo;Operacoes;Coordenador ;Unico;G017;Joao Oliveira;23/04/2022;;14519.54;Presencial;Recife;PE;12/04/1988;13/05/2022
+E0461;Vanessa Cardoso;Atendimento;Analista;Junior;G010;Gustavo Santos;12/06/2020;23/03/2024;3522.67;Presencial;Belo Horizonte;MG;05/12/1998;10/06/2022
+E0907;Caio Araujo;RH;Assistente;Junior;G040;Henrique Rodrigues;15/06/2024;25/04/2025;2727.62;Hibrido;Belo Horizonte;MG;11/09/1979;15/06/2024
+E0765;Tatiana Ferreira;Atendimento;Assistente;Pleno;G004;Rodrigo Moreira;12/10/2023;08/04/2024;3197.52;Hibrido;Porto Alegre;RS;17/04/1966;12/10/2023
+E0206;Leonardo Pereira;T.I.;Estagiario;Unico;G028;Igor Martins;11/10/2021;;1847.71;Remoto;Recife;PE;07/11/2000;31/07/2022
+E0644;Vanessa Lima;Atendimento;Assistente;Junior;G011;Debora Santos;12/02/2023;06/04/2023;2982.05;Presencial;Rio de Janeiro;RJ;21/06/1967;12/02/2023
+E0965;Fernanda Cardoso;Comercial;Coordenador;Unico;G026;Thiago Teixeira;22/10/2024;;15774.25;Presencial;Rio de Janeiro;RJ;17/06/1976;22/10/2024
+E0589;Felipe Barbosa;Atendimento;Analista;Junior;G001;Igor Carvalho;22/09/2021;05/04/2023;R$ 3.766,69;Hibrido;Brasilia;DF;19/08/1994;10/07/2022
+E0038;Leonardo Rodrigues;Logistica;Assistente;Pleno;G033;Henrique Ribeiro;13/03/2022;;R$ 2.856,00;Presencial;Salvador;BA;07/10/1966;01/02/2023
+E1209;Marcos Rodrigues;Atendimento;Assistente;Junior;G002;Joao Ribeiro;10/12/2025;;2604.05;Presencial;Fortaleza;CE;14/06/1992;10/12/2025
+E0361;Felipe Cardoso;Marketing;Estagiario;Unico;G038;Tatiana Martins;14/07/2019;;1500.94;Hibrido;Recife;PE;27/06/1965;06/11/2020
+E0861;Isabela Nascimento;Atendimento;Assistente;Pleno;G003;Helena Rodrigues;22/04/2024;13/04/2025;3285.3;Presencial;Curitiba;PR;06/12/1996;22/04/2024
+E0574;Helena Oliveira;Atendimento;Assistente;Pleno;G005;Natalia Martins;16/12/2018;;2856.0;Presencial;Brasilia;DF;08/01/1997;01/05/2023
+E0774;Sofia Rodrigues;Atendimento;Assistente;Junior;G007;Isabela Teixeira;06/11/2023;;2948.93;Presencial;Fortaleza;CE;19/05/1984;06/11/2023
+E0596;Karina Rodrigues;Comercial;Analista;Junior;G024;Renato Araujo;18/03/2020;27/04/2025;3283.66;Presencial;Fortaleza;CE;09/07/1977;14/01/2022
+E0125;Gabriela Martins;Marketing;Coordenador;Unico;G038;Tatiana Martins;11/04/2019;;11758.56;Presencial;Rio de Janeiro;RJ;16/03/1981;10/03/2020
+E0624;Marcos Gomes;Operacoes;Estagiario;Unico;G020;Debora Nascimento;12/01/2023;;1965.16;hibrido;Curitiba;PR;12/02/1996;12/01/2023
+E0396;Leonardo Silva;TI;Analista;Junior;G027;Natalia Barbosa;14/09/2021;;R$ 3.583,11;presencial;Porto Alegre;RS;03/12/1992;21/11/2021
+E0949;Isabela Ribeiro;Financeiro;Analista;Senior;G036;Juliana Souza;27/09/2024;;9549.7;HIBRIDO;Sao Paulo;SP;13/12/1991;27/09/2024
+E0185;Tiago Teixeira;Logistica;Assistente;Pleno;G035;Otavio Rodrigues;23/12/2018;;2875.13;Hibrido;Porto Alegre;RS;04/02/1998;01/12/2024
+E0056;Igor Barbosa;Logistica;Assistente;Junior;G034;Karina Silva;02/12/2020;;2279.31;presencial;Sao Paulo;SP;14/06/1968;28/02/2022
+E0934;Otavio Martins;Atendimento;Assistente;Junior;G005;Natalia Martins;10/08/2024;09/11/2024;2825.93;hibrido;Sao Paulo;SP;23/03/1996;10/08/2024
+E1053;Eduardo Costa;Atendimento;Assistente;Junior;G002;Joao Ribeiro;21/03/2025;;2909.17;HIBRIDO;Fortaleza;CE;24/07/2005;21/03/2025
+E1139;Debora Rodrigues;RH;Especialista;Unico;G040;Henrique Rodrigues;05/08/2025;23/10/2025;13464.17;Hibrido;Sao Paulo;SP;25/02/1993;05/08/2025
+E0166;Vanessa Ribeiro;Atendimento;Assistente;Junior;G006;Otavio Cardoso;08/03/2021;04/04/2024;2061.51;presencial;Sao Paulo;SP;24/08/1964;17/08/2021
+E1162;Henrique Oliveira;T.I.;Analista;Senior;G029;Joao Moreira;24/09/2025;;R$ 8.714,06;Remoto;Sao Paulo;SP;24/11/1985;24/09/2025
+E0116;Wesley Silva;RH;Analista;Senior;G040;Henrique Rodrigues;13/06/2018;23/09/2024;6871.9;Hibrido;Curitiba;PR;13/08/1996;19/07/2021
+E0941;Gustavo Santos;RH;Analista;Pleno;G041;Igor Araujo;09/08/2024;;4896.0;Híbrido;Sao Paulo;SP;17/04/1993;01/07/2025
+E0311;Rafael Almeida;Logistica;Assistente;Junior;G033;Henrique Ribeiro;21/09/2020;;2396.16;Presencial;Campinas;SP;16/04/1964;09/02/2021
+E1199;Wesley Araujo;Marketing;Gerente;Unico;G039;Henrique Pereira;21/12/2025;;22937.39;Hibrido;Sao Paulo;SP;17/02/1989;21/12/2025
+E0476;Juliana Teixeira;Marketing;Coordenador;Unico;G038;Tatiana Martins;07/08/2020;;12687.54;Presencial;Sao Paulo;SP;03/09/1978;15/03/2022
+E0421;Karina Araujo;Atendimento;Assistente;Junior;G007;Isabela Teixeira;08/04/2015;02/06/2024;2330.4;Presencial;Sao Paulo;SP;23/01/1981;13/10/2022
+E0199;Juliana Gomes;Marketing;Analista;Junior;G039;Henrique Pereira;22/08/2013;;R$ 3.792,97;Presencial;Sao Paulo;SP;03/01/1963;29/10/2018
+E0555;Renato Rodrigues;Financeiro;Analista;Junior;G037;Karina Santos;07/10/2021;;3855.09;presencial;Rio de Janeiro;RJ;07/08/1990;23/01/2022
+E1079;Mariana Ferreira;Operacoes;Analista;Pleno;G014;Tiago Gomes;20/05/2025;26/06/2025;5997.09;Presencial;Recife;PE;24/07/1999;20/05/2025
+E0219;Eduardo Santos;Marketing;Analista;Junior;G038;Tatiana Martins;18/07/2019;17/10/2024;3688.55;Remoto;Brasilia;DF;13/12/1971;03/07/2020
+E0212;Leonardo Pereira;Operacoes;Analista;Pleno;G020;Debora Nascimento;29/03/2020;;5042.88;presencial;Sao Paulo;SP;24/10/1991;01/04/2023
+E0635;Rodrigo Silva;Financeiro;Estagiario;Unico;G036;Juliana Souza;06/02/2023;16/08/2025;2054.98;Híbrido;Fortaleza;CE;17/03/1986;06/02/2023
+E0792;Gustavo Martins;Atendimento;Assistente;Junior;G012;Felipe Silva;04/12/2023;;2686.88;Presencial;Brasilia;DF;17/12/1991;04/12/2023
+E1033;Caio Araujo;Operacoes;Analista;Junior;G014;Tiago Gomes;23/02/2025;;4440.34;Presencial;Sao Paulo;SP;14/06/1992;23/02/2025
+E0814;Bruno Gomes;Atendimento;Assistente;Junior;G005;Natalia Martins;23/01/2024;;2811.85;presencial;Salvador;BA;11/02/1968;23/01/2024
+E0055;Felipe Carvalho;Atendimento;Assistente;Pleno;G012;Felipe Silva;23/04/2017;24/10/2023;2560.91;Presencial;Rio de Janeiro;RJ;24/06/1977;08/07/2017
+E0532;Sabrina Almeida;Atendimento;Assistente;Pleno;G004;Rodrigo Moreira;06/10/2015;21/05/2025;R$ 3.386,82;Hibrido;Belo Horizonte;MG;10/06/1977;04/10/2016
+E0864;Fernanda Costa;Comercial;Analista;Pleno;G026;Thiago Teixeira;18/04/2024;;4896.0;Presencial;Sao Paulo;SP;20/08/1971;01/08/2025
+E0649;Vitor Rodrigues;RH;Analista;Pleno;G041;Igor Araujo;16/03/2023;;6039.24;Remoto;Rio de Janeiro;RJ;08/11/1974;01/03/2024
+E0820;Marcos Santos;Atendimento;Assistente;Pleno;G007;Isabela Teixeira;01/01/2024;;3798.53;Hibrido;Belo Horizonte;MG;06/12/1995;01/01/2024
+E0571;Helena Martins;Atendimento;Analista ;Junior;G005;Natalia Martins;12/08/2018;19/06/2024;R$ 3.920,98;HIBRIDO;Rio de Janeiro;RJ;04/07/1961;19/01/2021
+E0688;Fernanda Moreira;Atendimento;Assistente;Pleno;G008;Felipe Rodrigues;07/06/2023;;3500.68;Presencial;Salvador;BA;11/06/1997;01/04/2025
+E1076;Sabrina Gomes;Atendimento;Gerente;Unico;G003;Helena Rodrigues;09/04/2025;;R$ 23.447,49;Home Office;Sao Paulo;SP;23/01/2000;09/04/2025
+E0330;Caio Nascimento;Operacoes;Assistente;Pleno;G020;Debora Nascimento;27/10/2020;;2856.0;presencial;Belo Horizonte;MG;09/04/1986;01/07/2023
+E0493;Eduardo Cardoso;Logistica;Assistente;Pleno;G035;Otavio Rodrigues;03/09/2021;08/02/2024;2941.68;presencial;Fortaleza;CE;09/12/1994;01/04/2023
+E0829;Juliana Nascimento;Operacoes;Gerente;Unico;G015;Beatriz Ferreira;20/02/2024;27/10/2024;26355.8;presencial;Curitiba;PR;03/08/1976;20/02/2024
+E0734;Natalia Martins;Financeiro;Analista;Pleno;G036;Juliana Souza;01/08/2023;;7103.4;Hibrido;Curitiba;PR;07/05/1966;01/08/2023
+E0799;Carla Ribeiro;Operacoes;Analista;Pleno;G020;Debora Nascimento;18/12/2023;25/01/2024;6255.36;PRESENCIAL;Salvador;BA;27/11/1985;18/12/2023
+E0882;Igor Oliveira;Atendimento;Assistente;Junior;G010;Gustavo Santos;25/05/2024;;2822.43;hibrido;Recife;PE;04/11/1969;25/05/2024
+E0148;Vitor Rodrigues;Operacoes;GERENTE;Unico;G018;Marcos Oliveira;16/11/2019;;21791.24;Presencial;Sao Paulo;SP;01/07/1968;01/03/2021
+E0255;Isabela Cardoso;TI;Assistente;Junior;G030;Isabela Gomes;14/12/2020;23/06/2024;2238.71;Remoto;Sao Paulo;SP;20/01/1982;02/08/2022
+E0879;Mariana Santos;Marketing;Gerente;Unico;G039;Henrique Pereira;11/05/2024;;26318.49;hibrido;Rio de Janeiro;RJ;14/09/2004;11/05/2024
+E0566;Gustavo Santos;Operações;Analista;Senior;G013;Isabela Carvalho;19/03/2021;;6668.24;Remoto;Rio de Janeiro;RJ;27/12/1967;07/12/2021
+E0393;Helena Gomes;RH;Coordenador;Unico;G041;Igor Araujo;01/09/2021;;11420.03;Presencial;Rio de Janeiro;RJ;01/07/1977;06/11/2021
+E1189;Debora Barbosa;Financeiro;ANALISTA;Pleno;G037;Karina Santos;01/11/2025;;R$ 6.642,01;PRESENCIAL;Recife;PE;10/07/2000;01/11/2025
+E1078;Natalia Silva;Comercial;Analista;Pleno;G023;Bruno Ferreira;12/05/2025;;5041.53;Hibrido;Recife;PE;18/03/1994;01/11/2025
+E0231;Natalia Carvalho;Atendimento;Assistente;Junior;G007;Isabela Teixeira;03/11/2018;;2447.28;Presencial;Curitiba;PR;14/08/1983;12/08/2021
+E0717;Leonardo Oliveira;Operacoes;Analista;Senior;G017;Joao Oliveira;15/07/2023;07/09/2025;8820.17;Presencial;Salvador;BA;08/02/1984;15/07/2023
+E0147;Sabrina Rodrigues;Atendimento;Estagiario;Unico;G007;Isabela Teixeira;07/09/2017;;2026.29;Presencial;Sao Paulo;SP;11/05/1994;26/04/2020
+E1183;Tatiana Pereira;Comercial;Analista;Pleno;G022;Otavio Nascimento;15/11/2025;;5964.26;remoto;Sao Paulo;SP;20/05/1987;15/11/2025
+E0168;Renato Rodrigues;Operacoes;Analista;Pleno;G013;Isabela Carvalho;13/11/2017;10/04/2024;4896.0;Hibrido;Rio de Janeiro;RJ;12/10/1976;01/02/2024
+E0250;Otavio Araujo;Operações;Analista;Senior;G019;Natalia Cardoso;16/10/2013;06/10/2024;7200.31;presencial;Sao Paulo;SP;15/11/1982;20/01/2017
+E0954;Gabriela Araujo;Atendimento;Assistente;Junior;G007;Isabela Teixeira;20/09/2024;;2915.45;presencial;Porto Alegre;RS;06/10/1971;20/09/2024
+E0599;Ana Pereira;Marketing;Analista;Pleno;G038;Tatiana Martins;11/03/2022;;5226.98;Presencial;Curitiba;PR;20/08/1986;02/10/2022
+E0732;Amanda Nascimento;Logistica;Assistente;Pleno;G034;Karina Silva;09/08/2023;09/01/2025;3728.05;Presencial;Salvador;BA;21/03/1976;09/08/2023
+E1082;Fernanda Barbosa;Comercial;Especialista;Unico;G025;Amanda Oliveira;19/05/2025;;13539.61;Híbrido;Curitiba;PR;05/06/1985;19/05/2025
+E0904;Eduardo Almeida;Financeiro;Analista;Senior;G036;Juliana Souza;22/06/2024;24/09/2024;7140.0;Híbrido;Sao Paulo;SP;21/01/1987;01/07/2024
+E0557;Sabrina Ferreira;Atendimento;Assistente;Junior;G003;Helena Rodrigues;10/06/2022;;2386.39;Presencial;Belo Horizonte;MG;04/03/1973;25/11/2022
+E0687;Renato Barbosa;Financeiro;Analista;Pleno;G037;Karina Santos;09/06/2023;;6045.96;Remoto;Porto Alegre;RS;04/01/1989;09/06/2023
+E0302;Fernanda Ribeiro;Operações;Analista;Senior;G016;Patricia Gomes;24/05/2019;;7140.0;Hibrido;Sao Paulo;SP;09/02/1989;01/10/2023
+E0400;Gustavo Lima;Operacoes;Gerente;Unico;G015;Beatriz Ferreira;22/12/2017;03/09/2025;R$ 21.989,54;Presencial;Campinas;SP;16/05/1998;25/09/2020
+E0664;Helena Pereira;Atendimento;Analista;Junior;G009;Ana Moreira;15/04/2023;;4762.17;Presencial;Porto Alegre;RS;22/09/1998;15/04/2023
+E0866;Diego Souza;Atendimento;Assistente;Junior;G002;Joao Ribeiro;26/04/2024;23/07/2025;2609.71;Hibrido;Curitiba;PR;21/08/1970;26/04/2024
+E0652;Priscila Gomes;Comercial;Estagiario;Unico;G023;Bruno Ferreira;11/03/2023;;1934.25;Presencial;Rio de Janeiro;RJ;13/06/1981;11/03/2023
+E0163;Larissa Souza;Comercial;Assistente;Junior;G021;Gabriela Pereira;29/09/2013;16/10/2023;2772.13;Hibrido;Brasilia;DF;07/06/1973;15/02/2015
+E0469;Wesley Lima;Tecnologia;Analista;Pleno;G028;Igor Martins;18/09/2020;26/06/2025;5583.41;Híbrido;Recife;PE;03/04/1990;05/11/2022
+E0810;Igor Pereira;Atendimento;Assistente;Junior;G004;Rodrigo Moreira;05/01/2024;18/05/2024;R$ 2.554,71;Presencial;Rio de Janeiro;RJ;12/11/1983;05/01/2024
+E0598;Patricia Lima;Comercial;Analista;Junior;G022;Otavio Nascimento;29/07/2020;;R$ 3.182,85;Presencial;Fortaleza;CE;11/10/1979;19/01/2022
+E1071;Diego Araujo;Operacoes;GERENTE;Unico;G019;Natalia Cardoso;08/04/2025;;28658.76;Presencial;Sao Paulo;SP;08/06/1969;08/04/2025
+E0348;Patricia Teixeira;Atendimento;Assistente;Pleno;G008;Felipe Rodrigues;29/09/2020;24/07/2023;2607.84;Hibrido;Rio de Janeiro;RJ;19/05/1964;27/10/2022
+E0572;Wesley Carvalho;Logistica;Assistente;Junior;G032;Vitor Teixeira;30/05/2019;;2272.32;hibrido;Fortaleza;CE;26/08/1969;09/12/2020
+E0281;Karina Teixeira;Financeiro;Estagiario;Unico;G037;Karina Santos;07/10/2017;;1865.09;HIBRIDO;Sao Paulo;SP;10/04/1977;17/04/2019
+E0951;Sabrina Pereira;T.I.;Analista;Pleno;G027;Natalia Barbosa;08/09/2024;;5609.96;Remoto;Rio de Janeiro;RJ;03/12/1997;01/10/2024
+E1170;Rafael Lima;Comercial;Analista;Pleno;G024;Renato Araujo;20/10/2025;;6026.86;Presencial;Sao Paulo;SP;08/06/1973;20/10/2025
+E0716;Patricia Gomes;Operacoes;Analista;Junior;G014;Tiago Gomes;18/07/2023;15/10/2025;4313.36;Presencial;Porto Alegre;RS;23/11/1972;18/07/2023
+E0010;Gabriela Ribeiro;Marketing;Especialista;Unico;G038;Tatiana Martins;13/11/2015;;11827.06;Remoto;Curitiba;PR;07/12/1972;05/02/2021
+E0953;Tiago Oliveira;Financeiro;Analista;Junior;G036;Juliana Souza;25/09/2024;;4521.94;Hibrido;Salvador;BA;25/09/1979;25/09/2024
+E1096;Rafael Almeida;Operacoes;Analista;Junior;G019;Natalia Cardoso;07/06/2025;;4722.92;Híbrido;Sao Paulo;SP;07/02/1975;07/06/2025
+E0271;Caio Moreira;Atendimento;Assistente;Junior;G002;Joao Ribeiro;27/04/2020;02/05/2023;2119.75;Presencial;Brasilia;DF;22/06/1994;08/05/2020
+E1032;Debora Pereira;Atendimento;Analista;Junior;G005;Natalia Martins;07/02/2025;;4526.21;Presencial;Porto Alegre;RS;13/08/1983;07/02/2025
+E0495;Marcos Lima;Atendimento;Assistente;Junior;G002;Joao Ribeiro;07/04/2019;24/08/2025;2683.3;Presencial;Rio de Janeiro;RJ;08/01/1998;23/01/2020
+E0676;Vanessa Costa;Comercial;Analista;Senior;G021;Gabriela Pereira;15/05/2023;26/03/2025;9050.53;Hibrido;Sao Paulo;SP;03/12/1997;15/05/2023
+E0286;Natalia Ribeiro;RH;Assistente;Junior;G040;Henrique Rodrigues;31/07/2015;22/12/2023;2410.02;Remoto;Recife;PE;11/03/1979;08/05/2017
+E0542;Tatiana Nascimento;Atendimento;Assistente ;Junior;G011;Debora Santos;22/06/2018;13/09/2023;2462.7;Presencial;Sao Paulo;SP;01/05/1963;07/10/2018
+E1077;Juliana Carvalho;Atendimento;Assistente;Junior;G007;Isabela Teixeira;05/05/2025;;2601.79;Presencial;Salvador;BA;22/06/1990;05/05/2025
+E0742;Vanessa Nascimento;Atendimento;Assistente;Pleno;G011;Debora Santos;17/09/2023;27/10/2023;3491.02;HIBRIDO;Sao Paulo;SP;13/11/2001;17/09/2023
+E0445;Carla Ferreira;Operacoes;Analista;Pleno;G016;Patricia Gomes;18/08/2021;14/02/2025;4980.49;Híbrido;Porto Alegre;RS;12/05/1974;14/05/2022
+E1131;Vanessa Oliveira;Comercial;Analista ;Junior;G026;Thiago Teixeira;04/08/2025;;4221.85;Remoto;Porto Alegre;RS;21/01/1975;04/08/2025
+E0986;Otavio Ribeiro;Marketing;Coordenador;Unico;G039;Henrique Pereira;15/11/2024;;15538.88;Presencial;Sao Paulo;SP;16/08/1996;15/11/2024
+E1172;Karina Cardoso;Logistica;Analista;Junior;G034;Karina Silva;25/10/2025;;4473.1;Presencial;Curitiba;PR;25/05/1972;25/10/2025
+E0100;Otavio Almeida;Tecnologia;Assistente;Junior;G028;Igor Martins;31/03/2017;;2690.96;Remoto;Sao Paulo;SP;13/05/1975;09/09/2018
+E0782;Thiago Oliveira;Comercial;Assistente;Junior;G025;Amanda Oliveira;08/11/2023;;2989.68;Presencial;Brasilia;DF;08/07/1969;08/11/2023
+E0898;Larissa Nascimento;Atendimento;Assistente;Junior;G004;Rodrigo Moreira;01/06/2024;;R$ 2.702,87;presencial;Rio de Janeiro;RJ;10/04/2004;01/06/2024
+E0496;Gabriela Teixeira;Comercial;GERENTE;Unico;G023;Bruno Ferreira;24/03/2017;;22843.85;PRESENCIAL;Curitiba;PR;08/09/1980;01/11/2022
+E0433;Gabriela Gomes;Operacoes;Coordenador;Unico;G016;Patricia Gomes;03/06/2019;;14850.56;Presencial;Sao Paulo;SP;05/12/1996;11/03/2021
+E0143;Eduardo Silva;Comercial;Gerente;Unico;G024;Renato Araujo;05/06/2015;20/07/2024;23780.15;Home Office;Fortaleza;CE;01/04/1970;12/05/2018
+E0891;Thiago Oliveira;Comercial;Gerente;Unico;G025;Amanda Oliveira;19/05/2024;;25479.45;Hibrido;Sao Paulo;SP;15/08/1980;19/05/2024
+E0058;Tatiana Lima;Comercial;Analista;Pleno;G024;Renato Araujo;22/03/2019;;4896.0;Híbrido;Sao Paulo;SP;20/07/1991;01/05/2025
+E0167;Lucas Gomes;Comercial;Analista;Pleno;G023;Bruno Ferreira;28/12/2020;;4779.3;Hibrido;Rio de Janeiro;RJ;17/06/1993;03/11/2021
+E0162;Marcos Ribeiro;Tecnologia;Analista;Junior;G029;Joao Moreira;18/03/2017;25/07/2024;4103.1;Remoto;Porto Alegre;RS;27/11/1969;28/08/2018
+E0643;Diego Oliveira;Atendimento;Estagiario;Unico;G010;Gustavo Santos;06/02/2023;;2046.24;presencial;Sao Paulo;SP;14/06/1987;06/02/2023
+E0137;Natalia Souza;Comercial;COORDENADOR;Unico;G021;Gabriela Pereira;16/12/2015;;12239.43;hibrido;Salvador;BA;26/11/1989;30/07/2022
+E1175;Lucas Gomes;Atendimento;Assistente;Pleno;G012;Felipe Silva;27/10/2025;;3309.71;Híbrido;Belo Horizonte;MG;17/12/1972;27/10/2025
+E0017;Larissa Araujo;Atendimento;Assistente;Pleno;G003;Helena Rodrigues;19/07/2020;;R$ 2.342,89;presencial;Brasilia;DF;04/07/1987;09/06/2021
+E0114;Vitor Silva;Logistica;Coordenador;Unico;G033;Henrique Ribeiro;24/03/2019;;14175.02;Presencial;Porto Alegre;RS;09/02/1999;12/01/2021
+E0008;Ana Souza;Logistica;Analista;Senior;G034;Karina Silva;05/07/2019;;7140.0;Presencial;Porto Alegre;RS;08/12/1996;01/11/2023
+E0196;Mariana Nascimento;Operacoes;ANALISTA;Senior;G014;Tiago Gomes;13/07/2020;;7073.36;Remoto;Recife;PE;05/09/1983;21/09/2020
+E0918;Ana Moreira;Operacoes;ANALISTA;Junior;G018;Marcos Oliveira;17/07/2024;;4091.86;Presencial;Curitiba;PR;10/02/1996;17/07/2024
+E0174;Priscila Nascimento;Comercial;Analista;Pleno;G025;Amanda Oliveira;25/05/2020;04/08/2025;4454.48;Remoto;Rio de Janeiro;RJ;21/05/1985;17/05/2021
+E0447;Carla Costa;Logistica;Assistente;Junior;G035;Otavio Rodrigues;29/10/2013;19/04/2024;2712.38;Hibrido;Porto Alegre;RS;24/07/1958;01/04/2020
+E0101;Natalia Pereira;Comercial;Analista;Senior;G023;Bruno Ferreira;05/12/2018;;8835.66;PRESENCIAL;Sao Paulo;SP;01/06/1993;03/08/2020
+E1084;Joao Barbosa;Logistica;Assistente;Pleno;G032;Vitor Teixeira;13/05/2025;;3325.68;Hibrido;Sao Paulo;SP;16/11/1983;13/05/2025
+E0580;Rodrigo Lima;Comercial;Coordenador ;Unico;G024;Renato Araujo;22/04/2022;17/06/2023;12403.88;Remoto;Sao Paulo;SP;04/03/1994;04/06/2022
+E0474;Gustavo Silva;Operacoes;Especialista;Unico;G018;Marcos Oliveira;09/05/2017;;9883.29;Presencial;Rio de Janeiro;RJ;16/06/1971;16/01/2022
+E0205;Rafael Carvalho;Tecnologia;Analista;Senior;G028;Igor Martins;25/07/2019;;7140.0;HIBRIDO;Sao Paulo;SP;19/01/1967;01/11/2025
+E0581;Igor Oliveira;Financeiro;Assistente;Junior;G037;Karina Santos;17/03/2022;19/09/2024;2094.8;presencial;Sao Paulo;SP;25/02/2001;01/11/2022
+E0157;Beatriz Carvalho;Comercial;Analista;Pleno;G024;Renato Araujo;05/06/2021;;5042.88;Presencial;Sao Paulo;SP;25/01/1999;01/01/2024
+E1137;Felipe Almeida;Marketing;Analista;Junior;G039;Henrique Pereira;27/08/2025;;4308.56;Presencial;Sao Paulo;SP;04/04/1971;27/08/2025
+E1103;Sofia Pereira;Operações;Analista;Pleno;G013;Isabela Carvalho;22/06/2025;;6244.91;presencial;Sao Paulo;SP;26/05/1979;22/06/2025
+E0486;Patricia Oliveira;Atendimento;Assistente;Junior;G008;Felipe Rodrigues;14/06/2018;21/06/2023;2424.35;Hibrido;Rio de Janeiro;RJ;15/09/1980;05/09/2022
+E0645;Tatiana Cardoso;Comercial;Analista;Senior;G022;Otavio Nascimento;17/03/2023;;9299.56;Híbrido;Campinas;SP;05/08/1981;17/03/2023
+E1169;Marcos Araujo;Atendimento;Assistente;Junior;G001;Igor Carvalho;19/10/2025;;2676.63;presencial;Sao Paulo;SP;08/03/2005;19/10/2025
+E0712;Diego Carvalho;Operacoes;Analista;Pleno;G018;Marcos Oliveira;04/07/2023;;7163.46;Híbrido;Recife;PE;11/03/1990;04/07/2023
+E0926;Vitor Cardoso;Tecnologia;Estagiario;Unico;G030;Isabela Gomes;25/07/2024;;2231.31;Presencial;Curitiba;PR;10/04/1978;25/07/2024
+E1006;Fernanda Moreira;Comercial;Analista;Junior;G026;Thiago Teixeira;09/01/2025;;4606.05;hibrido;Sao Paulo;SP;06/06/1968;09/01/2025
+E0779;Joao Barbosa;Comercial;Analista;Junior;G024;Renato Araujo;13/11/2023;20/02/2025;4390.64;Hibrido;Sao Paulo;SP;16/04/1980;13/11/2023
+E0004;Natalia Ribeiro;Logistica;Assistente;Junior;G035;Otavio Rodrigues;27/03/2021;06/03/2023;2096.83;Presencial;Brasilia;DF;12/06/1979;28/10/2022
+E0378;Lucas Cardoso;Operacoes;Analista;Pleno;G016;Patricia Gomes;20/12/2013;;6452.55;presencial;Rio de Janeiro;RJ;12/04/1992;23/02/2015
+E0014;Joao Barbosa;Tecnologia;Coordenador;Unico;G030;Isabela Gomes;21/03/2018;;14623.83;HIBRIDO;Recife;PE;10/11/1991;09/02/2021
+E0359;Gabriela Ferreira;Logistica;Assistente;Pleno;G033;Henrique Ribeiro;17/10/2020;15/01/2025;2578.87;Presencial;Rio de Janeiro;RJ;26/09/1996;20/07/2022
+E0429;Igor Teixeira;Logistica;Assistente;Pleno;G035;Otavio Rodrigues;07/03/2022;;3035.98;Híbrido;Fortaleza;CE;09/06/1968;15/03/2022
+E0277;Gabriela Costa;Operacoes;Analista;Senior;G013;Isabela Carvalho;21/04/2022;;7140.0;presencial;Sao Paulo;SP;11/11/1966;01/03/2025
+E0267;Vanessa Santos;Operacoes;Analista;Pleno;G015;Beatriz Ferreira;28/10/2013;10/06/2023;R$ 4.896,00;Presencial;Belo Horizonte;MG;09/04/1984;01/06/2023
+E0911;Renato Carvalho;Atendimento;Assistente;Junior;G005;Natalia Martins;25/06/2024;;2682.32;presencial;Porto Alegre;RS;09/04/1978;25/06/2024
+E0997;Amanda Ferreira;Atendimento;Assistente ;Pleno;G004;Rodrigo Moreira;08/12/2024;;3605.74;Presencial;Brasilia;DF;12/06/1986;08/12/2024
+E0230;Amanda Ribeiro;Tecnologia;ESPECIALISTA;Unico;G030;Isabela Gomes;13/09/2017;22/12/2023;9935.0;hibrido;Salvador;BA;26/05/1998;05/02/2019
+E1178;Karina Teixeira;Operacoes;Analista;Senior;G020;Debora Nascimento;16/10/2025;;8445.97;presencial;Belo Horizonte;MG;12/03/1972;16/10/2025
+E0719;Igor Ferreira;Atendimento;Assistente;Pleno;G012;Felipe Silva;08/08/2023;;3283.9;Presencial;Belo Horizonte;MG;07/02/1993;01/01/2024
+E0031;Wesley Santos;Atendimento;Assistente;Junior;G011;Debora Santos;24/05/2020;22/09/2024;2163.14;Presencial;Curitiba;PR;13/11/1994;09/05/2021
+E0446;Gabriela Ribeiro;Atendimento;Assistente;Junior;G010;Gustavo Santos;28/04/2015;16/01/2024;2030.22;hibrido;Rio de Janeiro;RJ;12/12/1974;29/01/2020
+E0761;Juliana Almeida;Logistica;Analista;Pleno;G032;Vitor Teixeira;24/10/2023;24/09/2025;7119.9;Hibrido;Recife;PE;22/03/1969;24/10/2023
+E0374;Henrique Ribeiro;Comercial;Especialista;Unico;G023;Bruno Ferreira;08/05/2020;;10854.72;Remoto;Sao Paulo;SP;25/10/1993;17/03/2021
+E0999;Marcos Souza;Financeiro;Analista;Pleno;G037;Karina Santos;19/12/2024;;4896.0;Hibrido;Rio de Janeiro;RJ;11/07/1997;01/05/2025
+E0695;Lucas Almeida;Atendimento;Assistente;Junior;G007;Isabela Teixeira;09/06/2023;10/05/2024;2834.18;Hibrido;Fortaleza;CE;05/07/1973;09/06/2023
+E0900;Juliana Araujo;Financeiro;Assistente;Junior;G037;Karina Santos;17/06/2024;24/03/2025;2737.17;Hibrido;Belo Horizonte;MG;24/05/1981;17/06/2024
+E0117;Eduardo Santos;Atendimento;Assistente;Pleno;G011;Debora Santos;11/05/2022;01/11/2023;R$ 2.856,00;Presencial;Brasilia;DF;17/01/1967;01/05/2023
+E0223;Wesley Ferreira;Operacoes;Analista;Pleno;G020;Debora Nascimento;31/03/2015;;4896.0;Presencial;Sao Paulo;SP;26/08/1988;01/11/2023
+E0459;Isabela Souza;Atendimento;Assistente;Junior;G012;Felipe Silva;20/04/2017;27/07/2024;2124.59;presencial;Belo Horizonte;MG;26/12/1965;03/04/2020
+E0618;Priscila Araujo;RH;Estagiario;Unico;G040;Henrique Rodrigues;13/11/2019;11/05/2025;1859.03;PRESENCIAL;Belo Horizonte;MG;22/09/2000;24/01/2022
+E0627;Sabrina Santos;Atendimento;Assistente;Pleno;G004;Rodrigo Moreira;06/01/2023;;3426.55;Híbrido;Sao Paulo;SP;20/11/1971;06/01/2023
+E0201;Rodrigo Barbosa;Operacoes;Especialista;Unico;G015;Beatriz Ferreira;15/11/2013;17/03/2023;11461.26;Presencial;Fortaleza;CE;18/10/1989;07/05/2015
+E0550;Patricia Gomes;Operacoes;Coordenador;Unico;G018;Marcos Oliveira;09/05/2022;;13691.21;presencial;Campinas;SP;24/04/1987;01/10/2022
+E0654;Felipe Cardoso;Comercial;Assistente;Pleno;G023;Bruno Ferreira;18/03/2023;;3731.0;Presencial;Brasilia;DF;16/04/1995;01/09/2025
+E1001;Caio Ribeiro;Tecnologia;Analista;Senior;G027;Natalia Barbosa;09/12/2024;19/01/2025;9204.14;Presencial;Brasilia;DF;01/07/1975;09/12/2024
+E0343;Vitor Pereira;Atendimento;Assistente;Pleno;G001;Igor Carvalho;03/08/2020;22/06/2025;2921.37;Presencial;Sao Paulo;SP;12/05/1999;01/09/2023
+E1110;Marcos Souza;Marketing;Analista;Pleno;G039;Henrique Pereira;27/06/2025;;6661.86;Hibrido;Rio de Janeiro;RJ;22/04/1969;27/06/2025
+E0632;Henrique Silva;Operações;Analista;Pleno;G013;Isabela Carvalho;08/02/2023;;5145.37;Presencial;Brasilia;DF;18/01/1970;01/07/2025
+E0006;Amanda Costa;Operacoes;ANALISTA;Pleno;G015;Beatriz Ferreira;23/12/2019;;5333.33;Presencial;Porto Alegre;RS;22/05/1964;24/12/2019
+E0109;Fernanda Nascimento;Atendimento;Estagiario;Unico;G009;Ana Moreira;26/08/2019;24/02/2024;1557.14;Presencial;Sao Paulo;SP;21/01/1977;08/08/2020
+E0502;Ana Moreira;Atendimento;Estagiario;Unico;G003;Helena Rodrigues;20/02/2022;10/10/2025;1524.99;Presencial;Fortaleza;CE;19/11/1976;08/06/2022
+E0392;Felipe Teixeira;Tecnologia;Assistente;Junior;G028;Igor Martins;28/07/2019;;2095.66;Remoto;Sao Paulo;SP;01/05/1976;21/09/2020
+E0996;Carla Teixeira;Atendimento;Coordenador;Unico;G007;Isabela Teixeira;19/12/2024;16/11/2025;16159.02;Presencial;Curitiba;PR;02/02/1967;19/12/2024
+E0518;Debora Carvalho;Operacoes;Analista;Senior;G019;Natalia Cardoso;14/06/2015;;8159.36;Presencial;Belo Horizonte;MG;12/08/1974;19/03/2016
+E0480;Isabela Cardoso;Comercial;Analista;Senior;G022;Otavio Nascimento;29/10/2019;;7427.69;Híbrido;Brasilia;DF;03/08/1976;10/07/2020
+E0800;Gustavo Pereira;Atendimento;Analista;Pleno;G003;Helena Rodrigues;24/12/2023;;6810.25;Hibrido;Sao Paulo;SP;22/06/2001;24/12/2023
+E0035;Ana Carvalho;Atendimento;Assistente;Pleno;G006;Otavio Cardoso;08/04/2015;18/09/2025;2928.83;presencial;Belo Horizonte;MG;05/08/1968;14/03/2021
+E0973;Mariana Araujo;Comercial;Especialista;Unico;G026;Thiago Teixeira;25/10/2024;;13147.97;Hibrido;Sao Paulo;SP;10/04/1994;25/10/2024
+E0009;Lucas Moreira;Operacoes;Assistente;Junior;G019;Natalia Cardoso;02/12/2021;;1908.01;Presencial;Curitiba;PR;13/08/1981;12/07/2022
+E0790;Mariana Gomes;Atendimento;Assistente;Junior;G011;Debora Santos;17/12/2023;10/03/2024;2931.9;Presencial;Sao Paulo;SP;11/12/1976;17/12/2023
+E0527;Rodrigo Carvalho;Logistica;Assistente;Pleno;G034;Karina Silva;19/03/2022;;3029.93;Presencial;Sao Paulo;SP;03/09/1974;01/04/2023
+E0232;Larissa Barbosa;Comercial;Estagiario;Unico;G022;Otavio Nascimento;09/03/2019;;1805.26;Hibrido;Sao Paulo;SP;02/05/1971;26/01/2021
+E0320;Caio Barbosa;Atendimento;Analista;Junior;G007;Isabela Teixeira;25/12/2021;22/09/2025;3681.33;Hibrido;Rio de Janeiro;RJ;09/11/1978;20/05/2022
+E0441;Beatriz Lima;RH;Especialista;Unico;G041;Igor Araujo;03/07/2017;10/10/2023;12628.29;Hibrido;Porto Alegre;RS;05/01/1963;16/10/2022
+E0526;Sabrina Pereira;Tecnologia;Coordenador;Unico;G031;Karina Almeida;15/10/2017;;14936.09;Presencial;Sao Paulo;SP;25/03/1986;15/04/2018
+E0625;Amanda Moreira;Operacoes;Analista;Pleno;G013;Isabela Carvalho;05/01/2023;;6575.41;Hibrido;Sao Paulo;SP;15/03/1987;05/01/2023
+E0611;Rafael Ribeiro;Logistica;Coordenador;Unico;G035;Otavio Rodrigues;14/03/2013;;14307.96;Presencial;Sao Paulo;SP;01/10/1976;05/10/2016
+E0073;Mariana Lima;RH;Analista;Senior;G041;Igor Araujo;23/06/2013;;9103.2;presencial;Recife;PE;15/04/1963;22/02/2014
+E0349;Beatriz Carvalho;Marketing;Analista;Senior;G038;Tatiana Martins;16/11/2017;25/06/2024;7743.81;Remoto;Belo Horizonte;MG;15/08/1997;04/01/2019
+E1027;Marcos Rodrigues;Logistica;Analista;Junior;G035;Otavio Rodrigues;09/01/2025;;R$ 4.112,00;Presencial;Curitiba;PR;10/12/1970;09/01/2025
+E0095;Leonardo Costa;Atendimento;Estagiario;Unico;G002;Joao Ribeiro;20/03/2018;;1590.97;Hibrido;Sao Paulo;SP;08/05/1991;27/11/2020
+E0544;Joao Carvalho;Comercial;Assistente;Junior;G022;Otavio Nascimento;09/11/2013;;2757.23;Hibrido;Brasilia;DF;04/09/1968;28/02/2017
+E0990;Debora Carvalho;Comercial;Analista;Senior;G026;Thiago Teixeira;26/11/2024;13/07/2025;9572.02;Remoto;Recife;PE;14/07/1987;26/11/2024
+E0381;Rodrigo Teixeira;Logistica;Assistente;Junior;G035;Otavio Rodrigues;19/04/2021;;2193.02;presencial;Salvador;BA;14/12/1966;08/01/2022
+E0210;Fernanda Ferreira;Atendimento;Assistente;Junior;G004;Rodrigo Moreira;29/04/2013;21/08/2023;2122.15;Presencial;Rio de Janeiro;RJ;05/01/1981;27/11/2021
+E0176;Vitor Pereira;Operacoes;Especialista;Unico;G013;Isabela Carvalho;24/03/2020;;9639.73;PRESENCIAL;Rio de Janeiro;RJ;25/05/1983;26/12/2021
+E0481;Igor Pereira;Atendimento;Assistente;Pleno;G005;Natalia Martins;11/06/2018;;2925.67;Presencial;Curitiba;PR;09/08/1977;11/11/2021
+E0282;Natalia Pereira;Comercial;Coordenador;Unico;G024;Renato Araujo;24/12/2020;;12236.65;Presencial;Fortaleza;CE;20/06/1965;26/06/2022
+E0107;Joao Carvalho;Logistica;Assistente;Pleno;G032;Vitor Teixeira;27/04/2018;26/01/2023;2678.41;Presencial;Sao Paulo;SP;17/08/1967;03/04/2022
+E0933;Gustavo Martins;Comercial;Analista;Pleno;G023;Bruno Ferreira;19/07/2024;09/10/2025;5036.65;Hibrido;Campinas;SP;07/10/1973;01/11/2024
+E1119;Tiago Ribeiro;Logistica;Analista;Pleno;G035;Otavio Rodrigues;13/07/2025;;6435.57;Híbrido;Rio de Janeiro;RJ;24/10/2002;13/07/2025
+E0252;Bruno Cardoso;Operacoes;Analista;Senior;G015;Beatriz Ferreira;18/11/2013;17/05/2024;7742.42;Presencial;Sao Paulo;SP;27/10/1990;04/03/2022
+E1196;Rodrigo Cardoso;Comercial;Analista;Pleno;G022;Otavio Nascimento;21/11/2025;;5946.36;Remoto;Fortaleza;CE;14/03/1980;21/11/2025
+E0390;Priscila Souza;Financeiro;Gerente;Unico;G037;Karina Santos;05/01/2022;;R$ 18.865,12;Hibrido;Brasilia;DF;08/06/1992;09/02/2022
+E1128;Isabela Ribeiro;Logistica;Assistente;Junior;G033;Henrique Ribeiro;18/07/2025;;2848.03;Hibrido;Fortaleza;CE;22/05/2003;18/07/2025
+E1039;Sabrina Ferreira;Operacoes;Analista;Junior;G016;Patricia Gomes;09/02/2025;;5053.51;Presencial;Recife;PE;26/02/2003;09/02/2025
+E0328;Juliana Teixeira;Atendimento;Assistente;Junior;G008;Felipe Rodrigues;21/06/2019;15/02/2024;2560.84;Presencial;Fortaleza;CE;07/09/1985;29/12/2020
+E1023;Fernanda Cardoso;Logistica;Assistente;Pleno;G032;Vitor Teixeira;06/01/2025;;3552.85;presencial;Sao Paulo;SP;13/11/1973;06/01/2025
+E0013;Isabela Araujo;Operacoes;Analista;Junior;G020;Debora Nascimento;20/06/2015;22/12/2023;3266.66;Hibrido;Porto Alegre;RS;13/04/1984;21/11/2016
+E1204;Vitor Souza;Financeiro;Analista;Senior;G037;Karina Santos;21/12/2025;;8886.41;Híbrido;Rio de Janeiro;RJ;19/03/1994;21/12/2025
+E0669;Larissa Lima;Atendimento;Assistente;Junior;G005;Natalia Martins;12/04/2023;;2658.37;Presencial;Recife;PE;09/11/1987;12/04/2023
+E1101;Sofia Martins;Marketing;Analista;Pleno;G039;Henrique Pereira;08/06/2025;;6588.46;Hibrido;Porto Alegre;RS;26/07/1975;08/06/2025
+E0877;Lucas Lima;Atendimento;Assistente;Pleno;G001;Igor Carvalho;25/05/2024;;3676.19;Hibrido;Sao Paulo;SP;19/03/1988;25/05/2024
+E0897;Sabrina Ribeiro;Atendimento;Assistente;Pleno;G010;Gustavo Santos;05/06/2024;;3322.99;Home Office;Rio de Janeiro;RJ;20/10/1988;01/01/2025
+E1094;Renato Ferreira;Operacoes;Analista;Senior;G018;Marcos Oliveira;11/05/2025;19/09/2025;R$ 9.214,13;presencial;Curitiba;PR;25/10/1999;11/05/2025
+E1085;Joao Almeida;T.I.;Analista;Pleno;G028;Igor Martins;08/05/2025;;5949.74;Remoto;Belo Horizonte;MG;20/09/1996;08/05/2025
+E1036;Marcos Teixeira;Atendimento;Assistente;Junior;G009;Ana Moreira;05/02/2025;;2849.27;Híbrido;Sao Paulo;SP;08/08/1981;05/02/2025
+E0214;Wesley Pereira;Atendimento;Assistente;Pleno;G009;Ana Moreira;23/10/2020;;2856.0;Presencial;Rio de Janeiro;RJ;01/09/1979;01/04/2024
+E0217;Fernanda Gomes;Atendimento;Assistente;Junior;G004;Rodrigo Moreira;08/11/2017;18/09/2024;2049.25;Hibrido;Sao Paulo;SP;09/03/1990;17/09/2021
+E1086;Otavio Teixeira;Tecnologia;Analista;Junior;G028;Igor Martins;11/05/2025;;4023.32;Home Office;Rio de Janeiro;RJ;08/10/1992;11/05/2025
+E0614;Tatiana Almeida;Atendimento;Assistente;Junior;G011;Debora Santos;27/05/2015;20/08/2025;2220.5;Hibrido;Salvador;BA;16/07/1992;19/05/2020
+E0823;Vanessa Martins;Atendimento;Assistente;Junior;G010;Gustavo Santos;27/02/2024;;2736.42;Presencial;Recife;PE;19/03/1989;27/02/2024
+E0423;Wesley Ribeiro;Atendimento;Assistente;Junior;G006;Otavio Cardoso;04/10/2020;10/01/2024;2113.97;Presencial;Sao Paulo;SP;22/09/1976;25/12/2021
+E0746;Joao Martins;Comercial;ANALISTA;Pleno;G021;Gabriela Pereira;01/10/2023;;6678.94;Presencial;Belo Horizonte;MG;19/07/1984;01/10/2023
+E0568;Thiago Santos;Financeiro;Analista;Junior;G036;Juliana Souza;13/03/2020;19/11/2023;3287.66;Presencial;Rio de Janeiro;RJ;24/01/1966;22/05/2020
+E0422;Juliana Nascimento;Comercial;Coordenador;Unico;G024;Renato Araujo;14/11/2018;;12281.33;Híbrido;Sao Paulo;SP;01/03/1984;14/11/2019
+E0069;Sofia Barbosa;Comercial;Analista;Pleno;G021;Gabriela Pereira;07/08/2017;;6135.29;Presencial;Rio de Janeiro;RJ;25/05/1967;13/02/2020
+E0554;Sabrina Moreira;Tecnologia;Analista;Senior;G030;Isabela Gomes;04/12/2021;;8473.81;Presencial;Belo Horizonte;MG;10/12/2001;27/04/2022
+E0086;Karina Almeida;Operacoes;Analista;Pleno;G017;Joao Oliveira;16/03/2020;;5836.65;Presencial;Recife;PE;11/10/1979;08/11/2022
+E0247;Marcos Pereira;Atendimento;Assistente;Pleno;G011;Debora Santos;18/08/2020;11/05/2025;2985.32;hibrido;Rio de Janeiro;RJ;26/02/1991;09/09/2021
+E0467;Felipe Moreira;Operacoes;Analista;Pleno;G019;Natalia Cardoso;04/12/2020;27/12/2024;5282.02;Presencial;Sao Paulo;SP;18/12/1986;05/04/2022
+E0880;Patricia Lima;Atendimento;Analista;Junior;G010;Gustavo Santos;20/05/2024;;R$ 4.336,77;Hibrido;Sao Paulo;SP;25/09/1974;20/05/2024
+E0430;Renato Costa;Atendimento;Assistente;Pleno;G003;Helena Rodrigues;18/05/2018;15/06/2024;2784.5;Presencial;Recife;PE;08/08/1961;03/03/2022
+E0418;Karina Silva;Comercial;Assistente;Junior;G024;Renato Araujo;21/11/2021;;2440.97;Hibrido;Sao Paulo;SP;19/10/1982;05/08/2022
+E0413;Rodrigo Lima;Operações;Especialista;Unico;G018;Marcos Oliveira;11/06/2015;;10150.76;Hibrido;Sao Paulo;SP;23/11/1976;27/04/2016
+E0647;Diego Nascimento;Operacoes;Analista;Pleno;G017;Joao Oliveira;10/03/2023;;6788.82;Presencial;Rio de Janeiro;RJ;10/01/1969;10/03/2023
+E0197;Debora Cardoso;Atendimento;Assistente;Junior;G002;Joao Ribeiro;11/10/2021;25/10/2023;1866.42;Presencial;Porto Alegre;RS;18/07/1973;27/11/2021
+E0226;Fernanda Oliveira;Operacoes;Analista;Pleno;G018;Marcos Oliveira;27/02/2022;;4896.0;Hibrido;Sao Paulo;SP;24/09/2001;01/08/2024
+E0729;Juliana Costa;RH;Coordenador;Unico;G041;Igor Araujo;27/08/2023;;15467.29;remoto;Salvador;BA;21/05/1996;27/08/2023
+E0285;Carla Lima;Atendimento;Assistente;Junior;G004;Rodrigo Moreira;13/08/2013;21/02/2024;2242.53;Presencial;Rio de Janeiro;RJ;26/08/1972;29/08/2016
+E0660;Gabriela Teixeira;Operacoes;Especialista;Unico;G017;Joao Oliveira;13/04/2023;;13288.57;Presencial;Curitiba;PR;13/02/1980;13/04/2023
+E1112;Carla Barbosa;Operacoes;Coordenador;Unico;G017;Joao Oliveira;25/06/2025;;16847.04;Hibrido;Rio de Janeiro;RJ;22/09/1983;25/06/2025
+E0112;Fernanda Silva;T.I.;Analista;Senior;G031;Karina Almeida;14/04/2019;;7052.3;Home Office;Rio de Janeiro;RJ;19/11/1987;10/07/2019
+E0545;Natalia Nascimento;T.I.;Analista;Senior;G028;Igor Martins;05/08/2015;;9305.42;Home Office;Campinas;SP;23/07/1961;16/01/2017
+E1151;Fernanda Pereira;Operacoes;Analista;Pleno;G016;Patricia Gomes;26/09/2025;;6555.14;Presencial;Sao Paulo;SP;16/09/1994;26/09/2025
+E0667;Karina Moreira;Atendimento;Assistente ;Junior;G012;Felipe Silva;15/04/2023;;3140.78;Presencial;Recife;PE;09/08/1978;15/04/2023
+E0685;Sofia Cardoso;Atendimento;Assistente;Junior;G012;Felipe Silva;10/05/2023;;2953.16;Presencial;Porto Alegre;RS;08/07/1981;10/05/2023
+E0818;Diego Martins;Operações;Analista;Senior;G017;Joao Oliveira;19/01/2024;;9616.94;Presencial;Fortaleza;CE;23/08/1998;19/01/2024
+E0381;Rodrigo Teixeira;Logistica;Assistente;Junior;G035;Otavio Rodrigues;19/04/2021;;2193.02;presencial;Salvador;BA;14/12/1966;08/01/2022
+E0500;Henrique Santos;Tecnologia;Analista;Pleno;G029;Joao Moreira;01/12/2021;;5320.73;Remoto;Sao Paulo;SP;04/10/1971;28/07/2022
+E1069;Caio Gomes;Tecnologia;Analista ;Senior;G027;Natalia Barbosa;09/04/2025;;7140.0;Home Office;Sao Paulo;SP;18/08/1973;01/11/2025
+E1090;Leonardo Ferreira;Comercial;Analista;Junior;G024;Renato Araujo;18/05/2025;;4209.54;Hibrido;Sao Paulo;SP;15/11/1969;18/05/2025
+E0780;Felipe Ribeiro;Logistica;Assistente;Pleno;G033;Henrique Ribeiro;10/11/2023;;3237.85;Presencial;Rio de Janeiro;RJ;01/03/2004;10/11/2023
+E0291;Beatriz Barbosa;Atendimento;Assistente;Pleno;G012;Felipe Silva;28/06/2018;;R$ 2.939,12;Presencial;Sao Paulo;SP;24/06/1980;20/06/2022
+E0389;Carla Oliveira;Atendimento;Assistente;Pleno;G010;Gustavo Santos;05/08/2018;;3050.54;Hibrido;Campinas;SP;04/12/1971;21/02/2020
+E0360;Tiago Nascimento;Atendimento;Assistente;Junior;G010;Gustavo Santos;16/10/2018;04/06/2024;2204.34;presencial;Belo Horizonte;MG;04/09/1976;12/10/2019
+E0407;Wesley Carvalho;Atendimento;Assistente;Junior;G008;Felipe Rodrigues;20/08/2015;02/02/2023;2061.17;presencial;Sao Paulo;SP;25/09/1961;12/01/2016
+E0365;Gustavo Ferreira;Tecnologia;Analista;Junior;G028;Igor Martins;25/03/2020;;3162.65;Remoto;Recife;PE;14/07/1971;22/08/2021
+E0525;Helena Rodrigues;Operacoes;Analista ;Pleno;G020;Debora Nascimento;24/06/2015;;5386.02;Híbrido;Belo Horizonte;MG;04/06/1959;04/04/2019
+E0575;Marcos Pereira;Comercial;ANALISTA;Pleno;G026;Thiago Teixeira;12/03/2020;;5194.17;HIBRIDO;Belo Horizonte;MG;18/03/1989;01/09/2023
+E0683;Patricia Pereira;Financeiro;Assistente;Junior;G036;Juliana Souza;25/05/2023;;2672.04;HIBRIDO;Sao Paulo;SP;08/05/1986;25/05/2023
+E1060;Felipe Gomes;Atendimento;Assistente;Junior;G010;Gustavo Santos;08/03/2025;19/04/2025;2594.57;Presencial;Sao Paulo;SP;10/10/1987;08/03/2025
+E0694;Carla Nascimento;Operacoes;Analista;Junior;G015;Beatriz Ferreira;15/06/2023;21/09/2024;4605.13;Presencial;Rio de Janeiro;RJ;11/01/1978;15/06/2023
+E0705;Beatriz Barbosa;Financeiro;Analista;Senior;G037;Karina Santos;13/07/2023;;8431.4;hibrido;Fortaleza;CE;05/06/1998;13/07/2023
+E0702;Bruno Carvalho;RH;Analista;Pleno;G041;Igor Araujo;09/07/2023;;6849.99;Presencial;Rio de Janeiro;RJ;24/10/1967;09/07/2023
+E0113;Vitor Almeida;Atendimento;Assistente;Pleno;G007;Isabela Teixeira;18/12/2015;;2856.0;Presencial;Brasilia;DF;14/10/1993;01/12/2025
+E0103;Helena Martins;Comercial;Analista;Pleno;G025;Amanda Oliveira;24/04/2021;;4896.0;remoto;Sao Paulo;SP;19/09/1994;01/08/2023
+E0415;Igor Teixeira;Operações;Analista;Junior;G014;Tiago Gomes;28/08/2019;;3413.61;Presencial;Rio de Janeiro;RJ;18/04/1982;21/11/2019
+E0590;Diego Araujo;Operacoes;Analista;Junior;G018;Marcos Oliveira;20/06/2022;;3336.23;Presencial;Rio de Janeiro;RJ;15/09/1999;09/08/2022
+E0191;Gustavo Pereira;Tecnologia;Analista;Senior;G030;Isabela Gomes;25/11/2019;;7140.0;Remoto;Sao Paulo;SP;01/04/1978;01/05/2024
+E1166;Priscila Nascimento;RH;Analista ;Junior;G041;Igor Araujo;15/09/2025;;4736.45;HIBRIDO;Fortaleza;CE;27/09/1996;15/09/2025
+E1011;Otavio Carvalho;Logistica;Estagiario;Unico;G033;Henrique Ribeiro;13/01/2025;;2032.8;Híbrido;Sao Paulo;SP;22/07/1984;13/01/2025
+E0741;Rafael Rodrigues;Logistica;Assistente;Junior;G032;Vitor Teixeira;10/09/2023;;2618.42;presencial;Rio de Janeiro;RJ;18/05/1973;10/09/2023
+E0053;Joao Barbosa;Comercial;Analista;Senior;G023;Bruno Ferreira;05/04/2015;;7285.59;Hibrido;Campinas;SP;26/08/1970;01/08/2025
+E0029;Leonardo Oliveira;Atendimento;Assistente;Pleno;G011;Debora Santos;20/05/2021;09/09/2024;3120.51;Remoto;Recife;PE;15/04/1968;28/11/2021
+E0066;Sofia Lima;Operacoes;Coordenador;Unico;G015;Beatriz Ferreira;30/03/2019;;14726.49;hibrido;Salvador;BA;25/02/1992;12/12/2020
+E0875;Fernanda Souza;Operacoes;Analista;Senior;G013;Isabela Carvalho;03/05/2024;;8473.73;Presencial;Rio de Janeiro;RJ;06/04/2003;03/05/2024
+E0246;Caio Rodrigues;Operacoes;Analista;Junior;G013;Isabela Carvalho;26/12/2021;;3020.77;Hibrido;Curitiba;PR;08/07/1976;01/01/2022
+E0803;Joao Oliveira;Atendimento;Assistente;Pleno;G012;Felipe Silva;14/01/2024;;3222.53;Presencial;Campinas;SP;25/04/1968;14/01/2024
+E0995;Debora Martins;Comercial;Analista;Pleno;G025;Amanda Oliveira;17/12/2024;;6972.01;Hibrido;Rio de Janeiro;RJ;18/05/1996;17/12/2024
+E1155;Renato Oliveira;Comercial;ANALISTA;Junior;G025;Amanda Oliveira;22/09/2025;;4474.02;Presencial;Sao Paulo;SP;20/11/1998;22/09/2025
+E0844;Marcos Lima;Tecnologia;Analista;Pleno;G027;Natalia Barbosa;05/03/2024;;4896.0;HIBRIDO;Sao Paulo;SP;18/01/1971;01/07/2024
+E0595;Beatriz Cardoso;Operacoes;Analista;Junior;G018;Marcos Oliveira;03/06/2013;09/01/2025;3737.58;presencial;Sao Paulo;SP;12/08/1988;19/04/2014
+E0928;Vitor Gomes;Atendimento;Assistente;Pleno;G001;Igor Carvalho;20/07/2024;07/11/2025;3654.86;Presencial;Salvador;BA;16/09/1968;20/07/2024
+E0309;Renato Lima;Financeiro;ANALISTA;Pleno;G036;Juliana Souza;17/11/2019;16/07/2024;4657.06;HIBRIDO;Belo Horizonte;MG;11/08/1988;03/11/2022
+E0903;Tatiana Barbosa;Tecnologia;Analista;Pleno;G028;Igor Martins;08/06/2024;;5281.7;Remoto;Rio de Janeiro;RJ;04/03/1983;01/08/2024
+E0387;Karina Santos;Operacoes;Estagiario;Unico;G018;Marcos Oliveira;24/07/2019;08/09/2025;1570.74;Hibrido;Curitiba;PR;11/07/1976;26/04/2022
+E0872;Wesley Ferreira;Tecnologia;Estagiario;Unico;G028;Igor Martins;11/04/2024;09/03/2025;2056.34;hibrido;Fortaleza;CE;02/09/1987;11/04/2024
+E0355;Vanessa Barbosa;Tecnologia;Analista;Senior;G028;Igor Martins;14/11/2021;;8351.03;Remoto;Fortaleza;CE;21/05/1999;08/06/2022
+E0059;Lucas Teixeira;Comercial;Analista;Senior;G025;Amanda Oliveira;24/12/2021;;7140.0;HIBRIDO;Salvador;BA;11/06/1980;01/07/2023
+E0160;Natalia Souza;Tecnologia;Analista;Senior;G028;Igor Martins;26/05/2015;01/02/2024;7341.45;HIBRIDO;Belo Horizonte;MG;03/03/1992;25/12/2022
+E0187;Carla Gomes;Logistica;Analista;Junior;G032;Vitor Teixeira;13/12/2013;10/09/2024;3628.56;remoto;Recife;PE;21/04/1975;27/01/2020
+E0245;Lucas Cardoso;Comercial;Analista;Pleno;G021;Gabriela Pereira;15/06/2021;;5042.88;Hibrido;Belo Horizonte;MG;10/05/1973;01/02/2025
+E1083;Sabrina Ribeiro;Atendimento;Assistente;Junior;G008;Felipe Rodrigues;22/05/2025;08/08/2025;2661.56;Presencial;Sao Paulo;SP;11/12/2004;22/05/2025
+E0076;Vitor Oliveira;Atendimento;Assistente;Pleno;G012;Felipe Silva;15/11/2017;;3070.31;Hibrido;Fortaleza;CE;21/05/1995;01/05/2024
+E0158;Juliana Teixeira;Operacoes;Analista;Pleno;G014;Tiago Gomes;11/08/2018;12/10/2023;R$ 4.866,87;Presencial;Sao Paulo;SP;17/10/1998;27/08/2022
+E0127;Joao Almeida;Atendimento;Assistente;Junior;G012;Felipe Silva;11/10/2020;06/01/2023;2149.17;Presencial;Fortaleza;CE;17/10/1970;02/11/2020
+E0745;Carla Almeida;Logistica;Assistente;Pleno;G034;Karina Silva;04/09/2023;;R$ 3.623,82;Presencial;Sao Paulo;SP;11/05/1975;04/09/2023
+E0724;Tiago Araujo;Comercial;Analista;Senior;G025;Amanda Oliveira;07/08/2023;;7354.2;HIBRIDO;Porto Alegre;RS;05/02/1994;01/07/2024
+E0323;Thiago Cardoso;Tecnologia;Coordenador;Unico;G030;Isabela Gomes;27/11/2018;;11699.66;HIBRIDO;Brasilia;DF;25/07/1976;02/02/2019
+E0874;Marcos Cardoso;Operações;Analista;Pleno;G019;Natalia Cardoso;09/04/2024;;6642.89;Presencial;Sao Paulo;SP;07/12/1972;09/04/2024
+E1081;Felipe Cardoso;Operacoes;Coordenador;Unico;G016;Patricia Gomes;04/05/2025;;17103.13;Presencial;Fortaleza;CE;16/10/2000;04/05/2025
+E0805;Isabela Souza;Operacoes;Coordenador;Unico;G014;Tiago Gomes;26/01/2024;02/08/2025;16483.52;PRESENCIAL;Recife;PE;17/02/1978;26/01/2024
+E0213;Rodrigo Moreira;Tecnologia;Assistente;Junior;G031;Karina Almeida;22/08/2015;16/12/2024;2106.84;Presencial;Brasilia;DF;19/08/1960;09/12/2018
+E0778;Eduardo Ribeiro;Comercial;Analista;Pleno;G023;Bruno Ferreira;02/11/2023;;5961.93;remoto;Recife;PE;11/08/1968;02/11/2023
+E0104;Mariana Santos;TI;Especialista;Unico;G031;Karina Almeida;03/01/2022;;9278.69;Hibrido;Sao Paulo;SP;08/05/1972;13/01/2022
+E0754;Beatriz Moreira;Atendimento;Analista;Junior;G012;Felipe Silva;27/10/2023;;4484.22;Hibrido;Porto Alegre;RS;21/12/1972;27/10/2023
+E1054;Wesley Oliveira;Logistica;Assistente;Pleno;G033;Henrique Ribeiro;14/03/2025;;3651.32;Presencial;Salvador;BA;07/03/1997;14/03/2025
+E1014;Fernanda Ferreira;Operacoes;Gerente;Unico;G017;Joao Oliveira;06/01/2025;;R$ 25.058,02;presencial;Porto Alegre;RS;11/03/1988;06/01/2025
+E0846;Renato Martins;T.I.;Analista;Senior;G027;Natalia Barbosa;27/03/2024;;7492.12;Hibrido;Fortaleza;CE;02/05/1999;01/04/2024
+E1189;Debora Barbosa;Financeiro;ANALISTA;Pleno;G037;Karina Santos;01/11/2025;;R$ 6.642,01;PRESENCIAL;Recife;PE;10/07/2000;01/11/2025
+E0521;Bruno Costa;Marketing;Analista;Junior;G038;Tatiana Martins;22/05/2020;;3786.5;Hibrido;Brasilia;DF;17/07/1974;26/10/2021
+E1165;Thiago Ferreira;Comercial;Analista;Pleno;G026;Thiago Teixeira;23/09/2025;;6463.87;Hibrido;Sao Paulo;SP;16/09/2006;23/09/2025
+E0967;Carla Costa;Marketing;Especialista;Unico;G039;Henrique Pereira;07/10/2024;;14348.63;Híbrido;Porto Alegre;RS;27/04/1974;07/10/2024
+E0771;Felipe Souza;Comercial;Coordenador;Unico;G026;Thiago Teixeira;08/11/2023;;18073.97;Presencial;Porto Alegre;RS;14/08/1974;08/11/2023
+E0229;Mariana Carvalho;Atendimento;Assistente;Pleno;G008;Felipe Rodrigues;01/05/2018;;2907.93;Presencial;Rio de Janeiro;RJ;07/07/1963;19/01/2022
+E0750;Diego Ribeiro;Operacoes;Analista;Junior;G014;Tiago Gomes;10/10/2023;;4153.78;Presencial;Fortaleza;CE;04/01/2003;10/10/2023
+E0274;Leonardo Silva;Operacoes;Analista;Pleno;G013;Isabela Carvalho;14/05/2022;;R$ 5.521,02;Presencial;Porto Alegre;RS;12/07/1986;21/10/2022
+E0876;Sofia Silva;Tecnologia;Analista;Pleno;G027;Natalia Barbosa;12/05/2024;;6559.69;Hibrido;Belo Horizonte;MG;09/11/1973;12/05/2024
+E0183;Juliana Santos;Comercial;Analista;Pleno;G024;Renato Araujo;21/03/2022;;4743.11;Híbrido;Sao Paulo;SP;20/09/1990;10/08/2022
+E1028;Fernanda Nascimento;Operacoes;Analista;Junior;G014;Tiago Gomes;02/01/2025;03/09/2025;4128.33;Presencial;Porto Alegre;RS;11/04/2006;02/01/2025
+E1047;Isabela Ferreira;Comercial;Analista;Senior;G026;Thiago Teixeira;07/03/2025;;8630.7;Presencial;Rio de Janeiro;RJ;24/02/1987;07/03/2025
+E0198;Debora Ferreira;RH;Coordenador;Unico;G040;Henrique Rodrigues;17/03/2015;;14940.86;Remoto;Sao Paulo;SP;04/03/1992;16/03/2018
+E0794;Marcos Ferreira;Atendimento;Assistente;Pleno;G001;Igor Carvalho;22/12/2023;;3660.3;Presencial;Salvador;BA;27/10/1985;22/12/2023
+E0670;Debora Silva;Operacoes;Estagiario;Unico;G019;Natalia Cardoso;15/04/2023;;2264.55;HIBRIDO;Salvador;BA;16/02/1980;15/04/2023
+E0463;Gustavo Rodrigues;Financeiro;Analista;Junior;G036;Juliana Souza;06/06/2022;10/08/2025;3082.39;Híbrido;Fortaleza;CE;03/07/1999;20/12/2022
+E0452;Ana Nascimento;RH;Analista ;Senior;G040;Henrique Rodrigues;23/08/2021;18/11/2025;8470.46;Hibrido;Belo Horizonte;MG;12/05/1969;22/05/2022
+E0090;Marcos Martins;Logistica;Assistente;Pleno;G032;Vitor Teixeira;04/07/2020;08/02/2025;3156.6;Presencial;Porto Alegre;RS;21/07/1970;22/12/2021
+E1168;Larissa Ferreira;Tecnologia;Analista;Senior;G031;Karina Almeida;10/10/2025;;9017.63;HIBRIDO;Curitiba;PR;02/05/1992;10/10/2025
+E1123;Larissa Santos;Logistica;Assistente;Junior;G033;Henrique Ribeiro;14/07/2025;;2745.37;Presencial;Sao Paulo;SP;14/08/1991;14/07/2025
+E0487;Priscila Silva;Operacoes;Analista;Junior;G017;Joao Oliveira;25/12/2017;;3838.14;Hibrido;Curitiba;PR;07/12/1991;23/05/2019
+E0051;Patricia Ferreira;Operacoes;Assistente ;Junior;G020;Debora Nascimento;16/10/2015;;2327.94;PRESENCIAL;Sao Paulo;SP;22/04/1985;24/01/2018
+E0700;Sofia Costa;Financeiro;Analista;Senior;G036;Juliana Souza;11/07/2023;;7354.2;Hibrido;Rio de Janeiro;RJ;15/05/1988;01/11/2023
+E0854;Helena Costa;Atendimento;Assistente;Junior;G006;Otavio Cardoso;23/03/2024;;R$ 2.684,66;Presencial;Recife;PE;17/12/1997;23/03/2024
+E0416;Henrique Teixeira;Logistica;Assistente;Junior;G032;Vitor Teixeira;20/04/2019;;2530.12;Hibrido;Curitiba;PR;20/11/1983;29/01/2020
+E0677;Marcos Almeida;Atendimento;Assistente;Junior;G007;Isabela Teixeira;18/05/2023;01/08/2023;2685.46;Hibrido;Sao Paulo;SP;11/07/1992;18/05/2023
+E0367;Igor Lima;Atendimento;Assistente;Junior;G005;Natalia Martins;11/02/2022;;2571.73;Hibrido;Sao Paulo;SP;03/11/1967;21/03/2022
+E0535;Joao Nascimento;T.I.;Analista;Senior;G029;Joao Moreira;08/11/2021;16/07/2023;7016.11;Presencial;Curitiba;PR;22/07/1998;10/03/2022
+E0831;Bruno Nascimento;Marketing;Coordenador;Unico;G038;Tatiana Martins;22/02/2024;;16644.79;Presencial;Recife;PE;04/03/1987;22/02/2024
+E0235;Gabriela Rodrigues;Operacoes;Assistente;Junior;G015;Beatriz Ferreira;10/03/2018;11/05/2024;2106.78;Presencial;Sao Paulo;SP;09/10/1999;16/09/2021
+E0490;Wesley Nascimento;Financeiro;Analista;Pleno;G036;Juliana Souza;04/12/2021;;5028.46;presencial;Rio de Janeiro;RJ;19/02/1976;24/04/2022
+E0681;Fernanda Rodrigues;Atendimento;Assistente;Junior;G002;Joao Ribeiro;27/05/2023;05/10/2023;2584.26;Presencial;Brasilia;DF;07/09/1999;27/05/2023
+E1045;Thiago Oliveira;Operações;Analista;Junior;G018;Marcos Oliveira;09/03/2025;;4305.19;Hibrido;Fortaleza;CE;11/09/1971;09/03/2025
+E0868;Isabela Oliveira;Marketing;Analista;Senior;G038;Tatiana Martins;25/04/2024;;9783.27;Hibrido;Porto Alegre;RS;14/08/1981;25/04/2024
+E0582;Patricia Rodrigues;Atendimento;Assistente;Junior;G002;Joao Ribeiro;15/05/2019;25/09/2023;2160.13;Presencial;Sao Paulo;SP;23/04/1978;23/07/2022
+E0402;Bruno Souza;Comercial;Analista ;Senior;G023;Bruno Ferreira;13/06/2019;12/01/2025;9129.76;Remoto;Sao Paulo;SP;27/08/1967;19/12/2020
+E0699;Amanda Oliveira;Operacoes;Analista;Pleno;;;04/07/2023;;7116.36;Presencial;Porto Alegre;RS;05/04/1977;04/07/2023
+E0439;Karina Almeida;Operacoes;Assistente;Junior;G018;Marcos Oliveira;22/06/2020;;2605.92;Hibrido;Curitiba;PR;15/08/1966;31/10/2020
+E0528;Leonardo Gomes;Atendimento;Assistente;Pleno;G011;Debora Santos;10/10/2021;25/12/2023;2739.18;Hibrido;Curitiba;PR;27/03/1972;23/09/2022
+E1059;Gabriela Araujo;Atendimento;Analista;Pleno;G005;Natalia Martins;12/03/2025;06/04/2025;6822.89;hibrido;Brasilia;DF;03/06/1998;12/03/2025
+E0718;Henrique Gomes;Comercial;Analista;Senior;G021;Gabriela Pereira;08/08/2023;;9271.41;Presencial;Sao Paulo;SP;04/11/1966;08/08/2023
+E0133;Eduardo Martins;Marketing;Analista ;Senior;;;08/11/2018;;7354.2;HIBRIDO;Curitiba;PR;25/01/1994;01/11/2023
+E0739;Caio Lima;Financeiro;Analista;Pleno;G036;Juliana Souza;27/09/2023;;5043.51;Híbrido;Porto Alegre;RS;24/04/1992;01/03/2024
+E0030;Tatiana Costa;Marketing;Analista;Senior;G039;Henrique Pereira;29/08/2020;;7354.2;Hibrido;Sao Paulo;SP;14/03/1972;01/04/2024
+E0640;Sabrina Nascimento;Atendimento;Coordenador;Unico;G012;Felipe Silva;01/02/2023;19/04/2024;17263.95;Presencial;Sao Paulo;SP;10/09/1971;01/02/2023
+E0239;Lucas Araujo;Comercial;Analista;Senior;G022;Otavio Nascimento;19/10/2020;;7354.2;Hibrido;Brasilia;DF;19/11/1969;01/09/2024
+E0324;Tatiana Cardoso;Atendimento;Assistente;Junior;G011;Debora Santos;12/03/2019;02/12/2024;1955.34;PRESENCIAL;Belo Horizonte;MG;22/08/1963;26/07/2021
+E0629;Felipe Teixeira;Comercial;Analista;Senior;G021;Gabriela Pereira;14/01/2023;;7267.1;hibrido;Sao Paulo;SP;09/02/1985;01/05/2025
+E1173;Karina Rodrigues;Operacoes;Analista;Senior;G020;Debora Nascimento;24/10/2025;;9499.15;Hibrido;Rio de Janeiro;RJ;13/05/1970;24/10/2025
+E0770;Priscila Santos;Marketing;Analista;Pleno;G038;Tatiana Martins;16/11/2023;;R$ 7.026,82;Remoto;Sao Paulo;SP;18/02/2004;16/11/2023
+E1195;Rodrigo Lima;Logistica;Assistente;Junior;G035;Otavio Rodrigues;11/11/2025;;3066.12;Presencial;Sao Paulo;SP;03/02/1990;11/11/2025
+E1136;Vanessa Lima;Comercial;Assistente;Junior;G025;Amanda Oliveira;23/08/2025;;2873.57;PRESENCIAL;Belo Horizonte;MG;01/04/2002;23/08/2025
+E1021;Otavio Souza;Financeiro;Analista;Senior;G037;Karina Santos;11/01/2025;;R$ 9.431,39;Hibrido;Brasilia;DF;27/12/1989;11/01/2025
+E0380;Gabriela Gomes;Atendimento;Assistente;Pleno;G010;Gustavo Santos;21/12/2017;;3019.48;Hibrido;Sao Paulo;SP;11/10/1975;08/03/2018
+E0748;Gustavo Santos;Atendimento;Estagiario;Unico;G003;Helena Rodrigues;18/10/2023;;R$ 2.078,99;Presencial;Sao Paulo;SP;26/08/1983;18/10/2023
+E0351;Joao Costa;Comercial;Coordenador;Unico;G022;Otavio Nascimento;22/08/2019;;R$ 13.859,90;presencial;Rio de Janeiro;RJ;18/05/1987;13/02/2022
+E0052;Bruno Silva;Atendimento;Assistente;Junior;G005;Natalia Martins;08/08/2013;;2398.35;Presencial;Curitiba;PR;04/07/1956;27/04/2021
+E0508;Sabrina Silva;Tecnologia;Analista ;Junior;G030;Isabela Gomes;28/07/2019;08/03/2023;3000.26;Hibrido;Sao Paulo;SP;09/05/1989;27/05/2020
+E1038;Joao Souza;Logistica;Assistente;Junior;G035;Otavio Rodrigues;19/02/2025;;2737.58;Presencial;Salvador;BA;15/05/1991;19/02/2025
+E0576;Gabriela Martins;Atendimento;Analista;Pleno;G006;Otavio Cardoso;30/09/2015;;5296.62;PRESENCIAL;Sao Paulo;SP;12/03/1981;27/07/2016
+E0234;Rafael Costa;Atendimento;Assistente;Pleno;G008;Felipe Rodrigues;04/07/2019;15/04/2019;2856.0;Presencial;Porto Alegre;RS;27/08/1982;01/07/2024
+E0744;Gabriela Araujo;Marketing;Analista;Senior;G038;Tatiana Martins;21/09/2023;;8570.23;Hibrido;Curitiba;PR;13/03/1973;21/09/2023
+E0479;Larissa Lima;Atendimento;Assistente;Pleno;G006;Otavio Cardoso;25/08/2021;;2941.68;PRESENCIAL;Recife;PE;20/03/1965;01/05/2023
+E1000;Bruno Araujo;RH;Assistente;Pleno;G040;Henrique Rodrigues;05/12/2024;;3449.25;Presencial;Belo Horizonte;MG;27/05/1967;01/04/2025
+E0194;Eduardo Souza;Operacoes;Analista;Junior;G014;Tiago Gomes;12/07/2020;;3934.58;presencial;Porto Alegre;RS;05/05/1983;25/07/2021
+E0405;Marcos Pereira;Atendimento;Assistente;Pleno;G001;Igor Carvalho;28/05/2020;;2987.16;Presencial;Rio de Janeiro;RJ;14/10/1975;01/03/2023
+E0884;Juliana Moreira;Financeiro;Analista;Junior;G036;Juliana Souza;25/05/2024;;R$ 4.532,69;Hibrido;Campinas;SP;25/06/2002;25/05/2024
+E0488;Beatriz Rodrigues;Atendimento;Assistente;Pleno;G001;Igor Carvalho;04/10/2017;02/07/2024;2654.08;Presencial;Salvador;BA;26/04/1977;20/07/2021
+E1049;Priscila Nascimento;Atendimento;Assistente;Junior;G011;Debora Santos;20/03/2025;;2724.65;PRESENCIAL;Rio de Janeiro;RJ;23/03/2000;20/03/2025
+E0472;Thiago Almeida;T.I.;Analista;Junior;G027;Natalia Barbosa;14/05/2022;;3112.99;Remoto;Recife;PE;22/09/1994;26/08/2022
+E0257;Amanda Ferreira;Tecnologia;Coordenador;Unico;G031;Karina Almeida;08/02/2022;;13322.97;remoto;Sao Paulo;SP;15/08/1968;26/02/2022
+E0895;Renato Nascimento;Marketing;Analista;Junior;G039;Henrique Pereira;27/06/2024;;4322.28;Remoto;Belo Horizonte;MG;18/09/2005;27/06/2024
+E1118;Rafael Moreira;Comercial;Analista;Junior;G025;Amanda Oliveira;17/07/2025;;4378.93;presencial;Recife;PE;27/04/1989;17/07/2025
+E0139;Tatiana Santos;Operacoes;Coordenador;Unico;G018;Marcos Oliveira;03/04/2020;;14417.94;Presencial;Salvador;BA;04/11/1992;13/05/2020
+E0492;Otavio Lima;Atendimento;Assistente;Junior;G003;Helena Rodrigues;26/03/2020;;2472.77;hibrido;Salvador;BA;24/08/1990;31/05/2021
+E0579;Isabela Carvalho;Atendimento;Coordenador;Unico;G009;Ana Moreira;23/12/2020;01/08/2023;11765.85;Presencial;Fortaleza;CE;10/04/1972;22/09/2022
+E0707;Marcos Cardoso;Operacoes;Especialista;Unico;G018;Marcos Oliveira;21/07/2023;;14496.97;Presencial;Sao Paulo;SP;17/06/1969;21/07/2023
+E0207;Mariana Silva;T.I.;Analista;Junior;G028;Igor Martins;03/11/2021;;3284.03;Remoto;Sao Paulo;SP;21/01/1998;06/01/2022
+E0849;Gabriela Gomes;RH;Analista;Senior;G040;Henrique Rodrigues;25/03/2024;;9338.02;Hibrido;Sao Paulo;SP;11/02/1974;25/03/2024
+E1075;Lucas Almeida;Atendimento;Gerente;Unico;;;15/04/2025;;22951.11;Presencial;Belo Horizonte;MG;24/08/1977;15/04/2025
+E0001;Henrique Cardoso;Operacoes;Analista;Pleno;G013;Isabela Carvalho;25/12/2021;06/05/2025;R$ 5.170,36;Hibrido;Fortaleza;CE;24/03/1974;24/08/2022
+E0227;Isabela Nascimento;Operacoes;Analista;Senior;G016;Patricia Gomes;01/09/2015;;8006.82;Presencial;Campinas;SP;03/05/1968;30/06/2016
+E0250;Otavio Araujo;Operações;Analista;Senior;G019;Natalia Cardoso;16/10/2013;06/10/2024;7200.31;presencial;Sao Paulo;SP;15/11/1982;20/01/2017
+E0890;Tiago Ribeiro;Operacoes;Analista;Senior;G013;Isabela Carvalho;13/05/2024;;9790.33;Presencial;Fortaleza;CE;09/01/1969;13/05/2024
+E0706;Karina Martins;Logistica;Assistente;Pleno;G033;Henrique Ribeiro;24/07/2023;;3169.67;PRESENCIAL;Sao Paulo;SP;21/08/1997;24/07/2023
+E0980;Renato Pereira;Atendimento;Assistente;Pleno;G004;Rodrigo Moreira;26/11/2024;;3426.88;hibrido;Campinas;SP;07/07/1967;26/11/2024
+E1030;Helena Martins;Operacoes;Analista;Senior;G014;Tiago Gomes;26/02/2025;;9797.69;Presencial;Porto Alegre;RS;23/06/1986;26/02/2025
+E0284;Caio Martins;RH;Analista;Senior;G040;Henrique Rodrigues;17/08/2021;;7101.08;hibrido;Curitiba;PR;01/09/1977;10/01/2022
+E0314;Rodrigo Costa;Tecnologia;ANALISTA;Pleno;G027;Natalia Barbosa;10/09/2019;15/04/2025;5229.09;HIBRIDO;Recife;PE;12/07/1977;04/04/2021
+E0597;Amanda Santos;Financeiro;Analista ;Senior;G036;Juliana Souza;17/05/2013;23/11/2025;7188.93;Presencial;Curitiba;PR;07/05/1989;08/12/2019
+E0060;Karina Costa;Atendimento;Assistente;Junior;G005;Natalia Martins;10/07/2013;;2688.79;Hibrido;Rio de Janeiro;RJ;02/06/1989;12/02/2015
+E0048;Sabrina Silva;Financeiro;Analista;Pleno;G037;Karina Santos;11/05/2018;07/01/2025;4896.0;Hibrido;Salvador;BA;23/06/1967;01/01/2024
+E1211;Rafael Carvalho;RH;Analista;Junior;G041;Igor Araujo;18/12/2025;;4109.9;Híbrido;Sao Paulo;SP;04/11/1985;18/12/2025
+E1107;Juliana Moreira;Comercial;Gerente;Unico;G024;Renato Araujo;26/06/2025;;R$ 22.921,23;remoto;Recife;PE;24/01/2002;26/06/2025
+E0987;Sofia Barbosa;Marketing;Coordenador;Unico;G039;Henrique Pereira;18/11/2024;;16746.36;Hibrido;Sao Paulo;SP;11/06/1993;18/11/2024
+E0970;Amanda Gomes;Financeiro;Especialista;Unico;G036;Juliana Souza;04/10/2024;;13499.95;Hibrido;Rio de Janeiro;RJ;11/03/1993;04/10/2024
+E1187;Eduardo Cardoso;Marketing;Analista;Pleno;G038;Tatiana Martins;17/11/2025;;6645.11;Presencial;Rio de Janeiro;RJ;18/12/1977;17/11/2025
+E1174;Diego Lima;Financeiro;Analista;Pleno;G037;Karina Santos;05/10/2025;;6586.44;Hibrido;Brasilia;DF;02/03/2002;05/10/2025
+E0759;Gabriela Ribeiro;Marketing;Estagiario ;Unico;G039;Henrique Pereira;17/10/2023;21/06/2024;R$ 2.259,97;Hibrido;Belo Horizonte;MG;10/12/1979;17/10/2023
+E0979;Juliana Moreira;RH;Coordenador;Unico;G041;Igor Araujo;19/11/2024;;15373.35;Híbrido;Sao Paulo;SP;24/10/1999;19/11/2024
+E1140;Carla Teixeira;Atendimento;Assistente;Junior;G012;Felipe Silva;20/08/2025;;2849.96;Presencial;Belo Horizonte;MG;03/11/1975;20/08/2025
+E0313;Sabrina Santos;Tecnologia;Analista;Junior;G031;Karina Almeida;03/05/2020;;3691.08;Remoto;Rio de Janeiro;RJ;10/12/1970;05/07/2020
+E0092;Bruno Ferreira;Operações;Analista;Senior;G019;Natalia Cardoso;22/10/2017;;7140.0;Presencial;Fortaleza;CE;22/09/1991;01/02/2024
+E0722;Amanda Rodrigues;Atendimento;Estagiario;Unico;G006;Otavio Cardoso;20/08/2023;10/10/2024;2274.08;Presencial;Sao Paulo;SP;18/02/1975;20/08/2023
+E0735;Sofia Oliveira;Atendimento;Estagiario;Unico;G009;Ana Moreira;11/08/2023;;2042.18;Presencial;Rio de Janeiro;RJ;03/03/1977;11/08/2023
+E0812;Rodrigo Santos;Atendimento;Assistente;Junior;G006;Otavio Cardoso;26/01/2024;;2781.08;Presencial;Belo Horizonte;MG;12/09/2005;26/01/2024
+E0460;Leonardo Ferreira;Atendimento;Assistente;Junior;G008;Felipe Rodrigues;23/05/2015;15/02/2024;2436.26;Presencial;Porto Alegre;RS;23/02/1963;16/08/2020
+E1153;Bruno Nascimento;Tecnologia;Analista;Pleno;G031;Karina Almeida;06/09/2025;;6832.65;hibrido;Belo Horizonte;MG;11/01/1968;06/09/2025
+E0850;Carla Ribeiro;Logistica;Assistente;Junior;G033;Henrique Ribeiro;14/03/2024;17/06/2025;2749.16;HIBRIDO;Sao Paulo;SP;04/11/1996;14/03/2024
+E0384;Gustavo Araujo;Atendimento;Assistente;Pleno;G003;Helena Rodrigues;21/05/2022;27/08/2023;2793.86;Presencial;Salvador;BA;09/05/1991;12/12/2022
+E0018;Helena Araujo;Comercial;Gerente;Unico;G024;Renato Araujo;31/10/2020;27/07/2023;R$ 16.972,62;Hibrido;Fortaleza;CE;22/04/1965;11/11/2021
+E0956;Sabrina Almeida;Atendimento;Estagiario;Unico;G009;Ana Moreira;21/09/2024;;2164.76;presencial;Rio de Janeiro;RJ;07/08/2005;21/09/2024
+E1210;Priscila Cardoso;Atendimento;Assistente;Pleno;G003;Helena Rodrigues;17/12/2025;;3433.99;Hibrido;Curitiba;PR;21/03/1980;17/12/2025
+E1067;Caio Costa;Operacoes;ESTAGIARIO;Unico;G016;Patricia Gomes;24/04/2025;;2127.13;Hibrido;Sao Paulo;SP;01/09/1981;24/04/2025
+E0988;Helena Barbosa;Marketing;Analista;Senior;;;16/11/2024;;7140.0;Remoto;Brasilia;DF;09/01/1983;01/07/2025
+E1015;Helena Ferreira;Operacoes;Gerente;Unico;G013;Isabela Carvalho;02/01/2025;14/12/2025;26753.55;Presencial;Salvador;BA;03/04/2002;02/01/2025
+E1191;Patricia Oliveira;Operacoes;Analista;Pleno;G014;Tiago Gomes;25/11/2025;;6245.71;PRESENCIAL;Belo Horizonte;MG;16/08/1984;25/11/2025
+E1164;Lucas Cardoso;Comercial;Analista;Senior;G021;Gabriela Pereira;27/09/2025;;9174.89;Hibrido;Sao Paulo;SP;23/02/2001;27/09/2025
+E0126;Igor Ferreira;Atendimento;Analista ;Junior;G008;Felipe Rodrigues;19/04/2018;04/01/2023;3434.77;Presencial;Belo Horizonte;MG;27/07/1979;12/04/2020
+E0512;Felipe Oliveira;Atendimento;Assistente;Pleno;G007;Isabela Teixeira;15/04/2021;;R$ 3.029,57;Presencial;Rio de Janeiro;RJ;27/08/1973;24/08/2022
+E0077;Sabrina Nascimento;Comercial;Gerente;Unico;G022;Otavio Nascimento;30/03/2019;;19447.78;Hibrido;Brasilia;DF;16/03/1980;04/01/2020
+E0931;Joao Teixeira;Operacoes;Analista;Pleno;G017;Joao Oliveira;07/07/2024;26/06/2025;5399.0;Presencial;Sao Paulo;SP;15/11/1968;01/02/2025
+E0142;Patricia Moreira;Comercial;Analista;Junior;G022;Otavio Nascimento;16/12/2020;;3413.29;Hibrido;Salvador;BA;02/03/1984;24/07/2021
+E0586;Juliana Oliveira;Logistica;Assistente;Pleno;G033;Henrique Ribeiro;13/11/2020;;2941.68;Presencial;Curitiba;PR;03/12/1997;01/01/2023
+E0819;Thiago Rodrigues;Comercial;Analista;Pleno;G023;Bruno Ferreira;05/01/2024;;6673.27;Híbrido;Fortaleza;CE;22/02/2002;05/01/2024
+E1192;Rodrigo Teixeira;Operacoes;Especialista;Unico;G019;Natalia Cardoso;26/11/2025;;R$ 14.437,65;presencial;Campinas;SP;10/08/1975;26/11/2025
+E0788;Wesley Ribeiro;Marketing;Assistente;Junior;G039;Henrique Pereira;02/11/2023;;2883.66;Hibrido;Curitiba;PR;17/01/1977;02/11/2023
+E0556;Natalia Teixeira;Logistica;ANALISTA;Senior;G034;Karina Silva;31/07/2017;;7574.83;Hibrido;Rio de Janeiro;RJ;22/10/1961;01/07/2023
+E1057;Vanessa Silva;Logistica;Assistente;Junior;G032;Vitor Teixeira;01/03/2025;;R$ 2.601,87;PRESENCIAL;Sao Paulo;SP;12/12/1986;01/03/2025
+E0016;Carla Nascimento;Comercial;ANALISTA;Junior;G022;Otavio Nascimento;02/04/2020;15/07/2024;3198.47;Hibrido;Fortaleza;CE;05/02/1975;19/08/2022
+E0436;Ana Rodrigues;T.I.;Analista;Pleno;G030;Isabela Gomes;09/04/2018;;5974.29;Presencial;Sao Paulo;SP;09/10/1998;20/06/2021
+E0499;Rodrigo Ribeiro;Operacoes;ANALISTA;Senior;G019;Natalia Cardoso;14/11/2018;;7140.0;PRESENCIAL;Campinas;SP;24/09/1991;01/07/2023
+E0620;Karina Nascimento;Atendimento;Coordenador;Unico;G002;Joao Ribeiro;22/03/2019;05/05/2023;11728.77;Hibrido;Rio de Janeiro;RJ;10/12/1971;03/12/2022
+E0451;Caio Costa;Operacoes;Assistente;Junior;G018;Marcos Oliveira;24/09/2020;;2108.54;HIBRIDO;Recife;PE;25/10/1990;15/12/2021
+E0767;Ana Cardoso;Comercial;Analista;Pleno;G025;Amanda Oliveira;07/10/2023;;7007.61;Hibrido;Sao Paulo;SP;20/09/1966;07/10/2023
+E0036;Priscila Teixeira;Atendimento;Assistente;Junior;G010;Gustavo Santos;19/11/2018;08/10/2025;2378.48;PRESENCIAL;Sao Paulo;SP;08/05/1999;02/03/2021
+E0948;Eduardo Lima;Atendimento;Assistente;Junior;G010;Gustavo Santos;10/09/2024;10/05/2025;2891.83;presencial;Curitiba;PR;25/12/1986;10/09/2024
+E0982;Diego Barbosa;Financeiro;Analista;Senior;G037;Karina Santos;14/11/2024;;8822.46;Hibrido;Sao Paulo;SP;04/11/1995;14/11/2024
+E0242;Marcos Santos;Comercial;Analista;Pleno;G026;Thiago Teixeira;22/08/2020;;5042.88;PRESENCIAL;Rio de Janeiro;RJ;04/09/1977;01/06/2024
+E0530;Natalia Nascimento;Financeiro;Coordenador;Unico;G037;Karina Santos;12/10/2017;;14146.33;Hibrido;Porto Alegre;RS;14/05/1995;08/08/2020
+E0344;Larissa Pereira;Operacoes;Assistente;Junior;G015;Beatriz Ferreira;22/03/2020;17/04/2025;1909.22;Presencial;Sao Paulo;SP;19/10/1963;23/06/2022
+E0887;Debora Santos;Atendimento;Assistente;Junior;G002;Joao Ribeiro;06/05/2024;;2912.65;Presencial;Recife;PE;26/10/2001;06/05/2024
+E0507;Debora Pereira;Atendimento;Assistente;Junior;G011;Debora Santos;01/07/2021;15/08/2023;1917.91;Presencial;Campinas;SP;24/02/2002;20/11/2022
+E0108;Caio Teixeira;Logistica;Assistente;Junior;G035;Otavio Rodrigues;24/04/2021;24/09/2023;2111.97;Presencial;Sao Paulo;SP;04/01/1998;21/04/2022
+E0216;Isabela Santos;Financeiro;Analista ;Pleno;G037;Karina Santos;20/11/2021;;5464.02;Hibrido;Belo Horizonte;MG;04/07/1984;13/01/2022
+E0209;Ana Ferreira;Tecnologia;Assistente;Junior;G029;Joao Moreira;02/04/2019;22/02/2024;2450.63;Hibrido;Brasilia;DF;17/10/1983;24/02/2021
+E0946;Bruno Lima;Atendimento;Analista;Junior;G004;Rodrigo Moreira;07/08/2024;24/06/2025;4360.87;Presencial;Porto Alegre;RS;05/03/1971;07/08/2024
+E0065;Thiago Souza;Atendimento;Assistente;Junior;G005;Natalia Martins;03/09/2021;;2483.7;Híbrido;Rio de Janeiro;RJ;04/06/1980;18/04/2022
+E0011;Isabela Ferreira;Comercial;Analista;Senior;G025;Amanda Oliveira;01/11/2021;;R$ 7.140,00;Remoto;Curitiba;PR;17/05/1973;01/11/2023
+E0253;Marcos Martins;Atendimento;Assistente ;Junior;G011;Debora Santos;03/12/2021;21/05/2024;2013.89;Presencial;Porto Alegre;RS;16/09/1996;21/01/2022
+E0604;Fernanda Martins;Atendimento;ASSISTENTE;Junior;G001;Igor Carvalho;09/07/2018;02/05/2023;2255.47;hibrido;Salvador;BA;18/05/1987;19/10/2022
+E0806;Juliana Barbosa;Atendimento;Assistente;Junior;G004;Rodrigo Moreira;20/01/2024;;2997.96;Hibrido;Curitiba;PR;17/08/1994;20/01/2024
+E1125;Larissa Santos;Tecnologia;ANALISTA;Junior;G030;Isabela Gomes;25/07/2025;;R$ 4.548,72;HIBRIDO;Salvador;BA;09/01/2000;25/07/2025
+E0315;Bruno Araujo;Financeiro;ANALISTA;Junior;G036;Juliana Souza;08/10/2015;24/05/2024;3270.83;Remoto;Porto Alegre;RS;19/03/1969;02/11/2018
+E0519;Mariana Santos;Operacoes;Coordenador;Unico;G016;Patricia Gomes;13/10/2015;;14853.45;Híbrido;Curitiba;PR;20/10/1964;27/03/2020
+E0466;Natalia Oliveira;Operacoes;Analista;Pleno;G017;Joao Oliveira;08/06/2022;;4896.0;PRESENCIAL;Curitiba;PR;06/09/1993;01/01/2024
+E0932;Sabrina Ferreira;Marketing;Analista;Pleno;G039;Henrique Pereira;16/07/2024;;R$ 6.661,32;Remoto;Belo Horizonte;MG;18/06/2000;16/07/2024
+E0964;Patricia Lima;Logistica;Assistente;Junior;G032;Vitor Teixeira;20/10/2024;23/08/2025;2889.45;Híbrido;Belo Horizonte;MG;09/02/1982;20/10/2024
+E0843;Vanessa Pereira;Logistica;Coordenador;Unico;G035;Otavio Rodrigues;18/03/2024;;16371.16;HIBRIDO;Porto Alegre;RS;16/05/1988;18/03/2024
+E0368;Tiago Martins;Comercial;Analista;Senior;G021;Gabriela Pereira;12/09/2017;;8816.6;presencial;Porto Alegre;RS;10/06/1970;24/12/2017
+E0146;Vitor Gomes;Marketing;Analista;Pleno;G039;Henrique Pereira;07/05/2022;;4833.46;presencial;Sao Paulo;SP;03/10/1971;27/10/2022
+E0363;Gustavo Costa;Comercial;Analista;Pleno;G026;Thiago Teixeira;31/05/2020;;4896.0;Hibrido;Sao Paulo;SP;17/01/1967;01/05/2024
+E0631;Patricia Almeida;Atendimento;Assistente;Junior;G002;Joao Ribeiro;08/02/2023;09/06/2024;2677.22;presencial;Sao Paulo;SP;21/07/1985;08/02/2023
+E0091;Leonardo Lima;Operações;Assistente;Junior;G014;Tiago Gomes;21/03/2020;;1996.15;PRESENCIAL;Salvador;BA;27/05/1965;01/02/2022
+E0322;Larissa Ferreira;Comercial;Analista;Senior;G024;Renato Araujo;13/10/2017;;7140.0;Híbrido;Recife;PE;02/04/1973;01/08/2024
+E0186;Eduardo Teixeira;Comercial;Analista;Pleno;G024;Renato Araujo;10/03/2022;;4856.77;Híbrido;Rio de Janeiro;RJ;14/08/1972;16/03/2022
+E0925;Bruno Carvalho;Marketing;Analista;Pleno;G039;Henrique Pereira;05/07/2024;;6413.16;Hibrido;Fortaleza;CE;11/10/1969;05/07/2024
+E1157;Rafael Gomes;Operacoes;Assistente;Junior;G018;Marcos Oliveira;20/09/2025;;2592.07;Hibrido;Fortaleza;CE;13/06/1991;20/09/2025
+E0869;Henrique Oliveira;Comercial;Assistente;Junior;G026;Thiago Teixeira;10/04/2024;;3005.87;Hibrido;Curitiba;PR;13/01/1993;10/04/2024
+E0757;Otavio Almeida;Logistica;Assistente;Junior;G033;Henrique Ribeiro;20/10/2023;;2986.17;PRESENCIAL;Campinas;SP;25/08/1979;20/10/2023
+E0120;Larissa Araujo;Atendimento;Assistente;Pleno;G012;Felipe Silva;04/12/2021;04/06/2024;2521.27;PRESENCIAL;Sao Paulo;SP;12/12/1988;06/08/2022
+E1063;Beatriz Souza;Tecnologia;Especialista;Unico;G029;Joao Moreira;18/04/2025;;R$ 13.631,28;Remoto;Belo Horizonte;MG;08/02/1986;18/04/2025
+E0841;Ana Nascimento;Operacoes;Analista;Pleno;G019;Natalia Cardoso;11/02/2024;;6696.73;Presencial;Recife;PE;15/05/1970;11/02/2024
+E0494;Ana Silva;Operacoes;Coordenador;Unico;G015;Beatriz Ferreira;14/11/2021;;14077.27;Presencial;Salvador;BA;13/06/1971;12/01/2022
+E0444;Felipe Cardoso;Comercial;Analista;Senior;G021;Gabriela Pereira;12/09/2021;;7140.0;Remoto;Fortaleza;CE;19/05/2002;01/09/2023
+E0339;Bruno Nascimento;Atendimento;Assistente;Junior;G004;Rodrigo Moreira;01/10/2021;;2416.96;Híbrido;Fortaleza;CE;26/09/2000;28/12/2022
+E1109;Larissa Araujo;Logistica;Assistente;Junior;G032;Vitor Teixeira;19/06/2025;;2592.98;Presencial;Campinas;SP;05/03/1992;19/06/2025
+E0225;Patricia Oliveira;Comercial;Analista;Junior;G026;Thiago Teixeira;27/09/2019;25/07/2023;3661.39;Presencial;Rio de Janeiro;RJ;13/08/1970;22/09/2020
+E0020;Felipe Lima;Operacoes;Analista;Pleno;G017;Joao Oliveira;15/11/2019;;R$ 5.388,21;Presencial;Salvador;BA;08/11/1975;11/07/2022
+E1097;Eduardo Ribeiro;Comercial;Analista;Senior;G025;Amanda Oliveira;14/06/2025;;8793.32;hibrido;Sao Paulo;SP;18/07/1974;14/06/2025
+E0419;Isabela Costa;Atendimento;Assistente;Pleno;G004;Rodrigo Moreira;05/06/2019;;R$ 2.784,53;presencial;Campinas;SP;23/08/1972;27/08/2019
+E1100;Beatriz Ribeiro;Marketing;Analista ;Senior;G039;Henrique Pereira;05/06/2025;;7209.93;hibrido;Sao Paulo;SP;18/06/1971;01/08/2025
+E0992;Ana Oliveira;Atendimento;Assistente;Junior;G006;Otavio Cardoso;27/12/2024;;2996.36;Presencial;Sao Paulo;SP;02/01/1971;27/12/2024
+E0386;Leonardo Ribeiro;Operacoes;Analista;Pleno;G019;Natalia Cardoso;12/04/2017;26/07/2023;R$ 5.795,40;Presencial;Rio de Janeiro;RJ;08/09/1992;30/11/2017
+E0930;Marcos Gomes;Comercial;Analista;Pleno;G025;Amanda Oliveira;01/07/2024;;7319.43;Hibrido;Rio de Janeiro;RJ;15/03/1981;01/07/2024
+E0453;Tatiana Souza;Comercial;Assistente;Junior;G021;Gabriela Pereira;09/12/2021;;2429.67;Remoto;Porto Alegre;RS;04/11/1992;04/09/2022
+E0265;Henrique Carvalho;Operacoes;Analista;Senior;G016;Patricia Gomes;17/11/2020;03/03/2024;6935.15;Presencial;Curitiba;PR;12/04/1978;30/10/2021
+E1065;Larissa Martins;Comercial;Analista;Junior;G022;Otavio Nascimento;26/04/2025;;4552.21;Hibrido;Rio de Janeiro;RJ;12/03/2002;26/04/2025
+E0161;Joao Almeida;Tecnologia;Analista;Pleno;G030;Isabela Gomes;22/03/2021;;4325.55;Presencial;Recife;PE;19/05/1968;06/07/2022
+E0111;Beatriz Almeida;Financeiro;Analista;Senior;G037;Karina Santos;17/05/2020;15/03/2025;7039.29;PRESENCIAL;Sao Paulo;SP;06/09/1976;25/05/2022
+E0304;Henrique Moreira;Tecnologia;Gerente;Unico;G028;Igor Martins;15/05/2017;;24988.22;remoto;Rio de Janeiro;RJ;13/07/1962;06/02/2022
+E1206;Natalia Costa;Financeiro;Analista;Pleno;G036;Juliana Souza;07/12/2025;;6452.45;presencial;Campinas;SP;12/02/2004;07/12/2025
+E0049;Helena Gomes;Operações;Assistente ;Junior;G016;Patricia Gomes;04/09/2021;;1857.89;HIBRIDO;Belo Horizonte;MG;04/01/1965;23/05/2022
+E0510;Igor Santos;Atendimento;Assistente;Pleno;G009;Ana Moreira;30/11/2021;;2881.87;Presencial;Salvador;BA;14/01/1966;26/04/2022
+E0019;Joao Almeida;Logistica;Coordenador;Unico;G032;Vitor Teixeira;01/06/2018;;13663.56;presencial;Recife;PE;18/03/1989;30/11/2020
+E1068;Priscila Ferreira;Operacoes;Analista;Pleno;G014;Tiago Gomes;14/04/2025;;6940.24;Presencial;Sao Paulo;SP;13/04/1989;14/04/2025
+E0935;Mariana Lima;Tecnologia;Analista;Senior;G029;Joao Moreira;10/08/2024;;9701.59;remoto;Campinas;SP;07/07/2002;10/08/2024
+E1115;Gustavo Silva;Marketing;Gerente;Unico;G038;Tatiana Martins;05/07/2025;;24428.12;Hibrido;Fortaleza;CE;18/01/1988;05/07/2025
+E0886;Joao Costa;Atendimento;Assistente;Junior;G006;Otavio Cardoso;23/05/2024;;2715.62;presencial;Sao Paulo;SP;07/10/1975;23/05/2024
+E0276;Marcos Rodrigues;Atendimento;Assistente;Junior;G004;Rodrigo Moreira;27/02/2022;;2409.9;Presencial;Porto Alegre;RS;14/03/1970;04/06/2022
+E0115;Diego Santos;Atendimento;Assistente;Pleno;G005;Natalia Martins;13/04/2015;;2953.66;Presencial;Rio de Janeiro;RJ;20/07/1969;25/04/2021
+E0728;Rafael Gomes;Atendimento;Assistente;Pleno;G003;Helena Rodrigues;24/08/2023;;3747.62;Presencial;Recife;PE;13/11/1970;24/08/2023
+E1156;Gustavo Gomes;Tecnologia;ESPECIALISTA;Unico;G027;Natalia Barbosa;14/09/2025;;13044.35;Remoto;Sao Paulo;SP;01/06/1992;14/09/2025
+E0002;Beatriz Cardoso;Comercial;Analista;Senior;G023;Bruno Ferreira;30/05/2013;22/01/2024;R$ 7.997,84;Hibrido;Fortaleza;CE;05/05/1977;28/01/2016
+E0228;Beatriz Rodrigues;Marketing;Coordenador;Unico;G038;Tatiana Martins;16/07/2020;;10925.44;Presencial;Rio de Janeiro;RJ;12/03/1967;01/09/2020
+E0134;Larissa Teixeira;Atendimento;Assistente;Junior;G012;Felipe Silva;27/03/2018;;2355.61;Presencial;Sao Paulo;SP;08/05/1980;03/06/2020
+E0249;Caio Nascimento;Atendimento;Assistente;Junior;G004;Rodrigo Moreira;29/05/2022;20/12/2025;1951.43;Remoto;Rio de Janeiro;RJ;11/05/1966;11/06/2022
+E0497;Helena Rodrigues;Atendimento;Assistente;Pleno;;;31/10/2020;;2652.13;Hibrido;Fortaleza;CE;15/10/1967;08/03/2021
+E0961;Rodrigo Lima;Logistica;Estagiario;Unico;G034;Karina Silva;12/09/2024;;2009.8;PRESENCIAL;Salvador;BA;06/11/1981;12/09/2024
+E0336;Rafael Pereira;Atendimento;Analista;Junior;G004;Rodrigo Moreira;11/07/2020;25/07/2025;R$ 3.492,37;Presencial;Rio de Janeiro;RJ;24/09/1967;07/03/2022
+E0440;Renato Oliveira;Tecnologia;Estagiario;Unico;G031;Karina Almeida;24/11/2018;;1467.38;Remoto;Sao Paulo;SP;10/09/1962;12/02/2020
+E1167;Eduardo Gomes;Atendimento;Assistente;Pleno;G003;Helena Rodrigues;09/10/2025;;3146.63;Presencial;Curitiba;PR;01/03/1988;09/10/2025
+E0813;Debora Barbosa;Financeiro;Coordenador;Unico;G036;Juliana Souza;14/01/2024;17/11/2024;14767.49;Remoto;Belo Horizonte;MG;04/12/1968;14/01/2024
+E1052;Leonardo Santos;Tecnologia;Analista;Senior;G030;Isabela Gomes;19/03/2025;25/09/2025;R$ 8.568,39;Remoto;Sao Paulo;SP;27/01/1997;19/03/2025
+E0442;Carla Costa;T.I.;Analista;Pleno;G028;Igor Martins;23/06/2015;;5625.03;Hibrido;Belo Horizonte;MG;21/07/1962;13/06/2017
+E1163;Diego Ferreira;Atendimento;ASSISTENTE;Junior;G012;Felipe Silva;10/09/2025;;2828.76;PRESENCIAL;Campinas;SP;17/04/1971;10/09/2025
+E1114;Henrique Teixeira;Operações;Analista;Junior;G013;Isabela Carvalho;05/07/2025;;4369.51;presencial;Sao Paulo;SP;06/10/2000;05/07/2025
+E0839;Karina Teixeira;Atendimento;Assistente;Junior;G006;Otavio Cardoso;08/02/2024;;2840.36;presencial;Fortaleza;CE;09/06/1998;08/02/2024
+E1048;Bruno Martins;Logistica;Assistente;Pleno;G034;Karina Silva;17/03/2025;;3184.69;Presencial;Sao Paulo;SP;20/02/2005;17/03/2025
+E1104;Ana Oliveira;TI;Analista;Pleno;G028;Igor Martins;08/06/2025;;5928.09;Remoto;Recife;PE;09/02/2000;08/06/2025
+E1150;Mariana Barbosa;Atendimento;Estagiario;Unico;G004;Rodrigo Moreira;10/09/2025;;1930.54;Hibrido;Recife;PE;12/02/1999;10/09/2025
+E0243;Larissa Almeida;Atendimento;Analista;Junior;G001;Igor Carvalho;02/06/2018;17/08/2023;R$ 3.223,11;Presencial;Sao Paulo;SP;20/03/1989;16/08/2020
+E0684;Mariana Pereira;Atendimento;Analista;Junior;G001;Igor Carvalho;16/05/2023;;4907.75;Presencial;Rio de Janeiro;RJ;09/10/1980;16/05/2023
+E0658;Rodrigo Gomes;Comercial;Analista ;Junior;G021;Gabriela Pereira;08/04/2023;23/09/2025;4431.35;Presencial;Belo Horizonte;MG;13/07/1999;08/04/2023
+E0505;Beatriz Silva;Atendimento;Assistente;Junior;G008;Felipe Rodrigues;23/11/2015;;2228.66;presencial;Brasilia;DF;08/11/1970;14/07/2019
+E0409;Thiago Rodrigues;Logistica;Assistente;Pleno;G032;Vitor Teixeira;19/10/2021;;2856.0;HIBRIDO;Fortaleza;CE;19/12/1991;01/03/2025
+E0943;Otavio Ribeiro;TI;Analista;Senior;G027;Natalia Barbosa;01/08/2024;;9875.92;Remoto;Fortaleza;CE;19/09/1988;01/08/2024
+E1106;Felipe Lima;Atendimento;Assistente;Junior;G008;Felipe Rodrigues;03/06/2025;;2754.56;Presencial;Sao Paulo;SP;13/06/1997;03/06/2025
+E1062;Fernanda Rodrigues;Atendimento;Analista;Pleno;G002;Joao Ribeiro;13/04/2025;;R$ 6.923,12;Presencial;Fortaleza;CE;24/12/1973;13/04/2025
+E0141;Juliana Ribeiro;Operações;Assistente;Junior;G015;Beatriz Ferreira;27/11/2021;19/01/2024;2036.33;Presencial;Belo Horizonte;MG;07/03/1991;20/06/2022
+E0547;Leonardo Ribeiro;T.I.;Estagiario;Unico;G029;Joao Moreira;13/12/2018;;1563.2;Remoto;Porto Alegre;RS;07/05/1984;05/06/2022
+E0901;Amanda Almeida;Marketing;ASSISTENTE;Junior;G039;Henrique Pereira;21/06/2024;;2763.31;Presencial;Fortaleza;CE;02/06/1985;21/06/2024
+E0638;Igor Carvalho;Operacoes;Analista;Senior;G014;Tiago Gomes;06/02/2023;;8469.97;Presencial;Sao Paulo;SP;22/12/1974;01/06/2025
+E0689;Juliana Moreira;Atendimento;Assistente;Junior;G003;Helena Rodrigues;20/06/2023;12/03/2024;2558.3;Híbrido;Sao Paulo;SP;22/01/1972;20/06/2023
+E0622;Rodrigo Carvalho;Financeiro;Analista;Senior;G037;Karina Santos;03/01/2023;17/02/2023;9185.08;Híbrido;Sao Paulo;SP;23/02/1980;03/01/2023
+E0851;Juliana Santos;Financeiro;Especialista;Unico;G037;Karina Santos;23/03/2024;19/12/2025;14694.19;Hibrido;Rio de Janeiro;RJ;25/05/1986;23/03/2024
+E0584;Gabriela Santos;Financeiro;Analista;Pleno;G037;Karina Santos;26/12/2021;;4752.16;Hibrido;Porto Alegre;RS;24/03/1966;06/05/2022
+E0333;Patricia Pereira;Operacoes;Analista;Junior;G014;Tiago Gomes;28/01/2022;;2988.61;Presencial;Curitiba;PR;27/04/1985;31/05/2022
+E1116;Igor Gomes;Financeiro;Analista;Pleno;G036;Juliana Souza;15/07/2025;;6958.58;Híbrido;Fortaleza;CE;14/12/1988;15/07/2025
+E1105;Otavio Oliveira;Comercial;Estagiario;Unico;G025;Amanda Oliveira;01/06/2025;;1903.6;Remoto;Sao Paulo;SP;18/03/2002;01/06/2025
