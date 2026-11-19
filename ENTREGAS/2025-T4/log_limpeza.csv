@@ -1,0 +1,23 @@
+arquivo;problema;linhas_afetadas;acao
+colaboradores;linhas duplicadas exatas;18;removidas
+desligamentos;arquivo em ISO-8859-1 (acentos quebrados);378;convertido para UTF-8
+colaboradores;salario em texto 'R$ 4.500,00';87;convertido para numero
+colaboradores;area com grafias diferentes (TI, T.I., Operações);96;padronizado: Tecnologia / Operacoes
+colaboradores;cargo em CAIXA ALTA ou com espaco sobrando;112;padronizado (Title Case, sem espacos)
+colaboradores;modalidade com grafias diferentes (Híbrido, HIBRIDO, Home Office...);380;padronizado: Presencial / Hibrido / Remoto (Home Office = Remoto)
+colaboradores;gestor em branco;12;preenchido com gestor_id 'NI' / 'Nao informado'
+colaboradores;desligamento anterior a admissao (data diferente do arquivo desligamentos);2;corrigido com a data de desligamentos.csv
+colaboradores;datas em DD/MM/AAAA;1212;convertidas para AAAA-MM-DD
+colaboradores;promocao posterior ao desligamento (apos correcao);0;"mantido; sem ocorrencias"
+desligamentos;tipo com caixa inconsistente (voluntario/Voluntario);43;padronizado (Voluntario / Involuntario)
+desligamentos;datas em formato misto;378;convertidas para AAAA-MM-DD
+historico_mensal;mes em formato misto (abr/24);2080;convertido para AAAA-MM
+historico_mensal;faltas_dias como texto ('2 dias');415;convertido para inteiro
+historico_mensal;horas extras negativas (valor impossivel);12;valor esvaziado (nulo), linha mantida para nao perder as faltas
+historico_mensal;linhas duplicadas;60;removidas
+historico_mensal;linhas orfas (colaborador fora do cadastro);25;removidas e listadas em rejeitados.csv
+pesquisa_clima;enps como texto ('8 - nota 8');207;convertido para inteiro
+pesquisa_clima;satisfacao_gestor como rotulo ('Concordo');277;convertido para 1-5 (Discordo totalmente=1 ... Concordo totalmente=5)
+pesquisa_clima;satisfacao_carreira em branco;58;mantido em branco (nao imputado)
+pesquisa_clima;datas DD/MM/AAAA;3195;convertidas para AAAA-MM-DD
+faixas_salariais;sem problemas;0;copiada sem alteracao

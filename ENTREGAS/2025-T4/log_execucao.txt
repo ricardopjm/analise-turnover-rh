@@ -1,0 +1,37 @@
+== 1. Conferindo os dados brutos em DADOS/
+   colaboradores.csv: 1230 linhas
+   historico_mensal.csv: 26081 linhas
+   pesquisa_clima.csv: 3195 linhas
+   desligamentos.csv: 378 linhas
+   faixas_salariais.csv: 9 linhas
+== 1/7. limpeza_rh.py
+   ('historico_mensal', 'linhas orfas (colaborador fora do cadastro)', 25, 'removidas e listadas em rejeitados.csv')
+   ('pesquisa_clima', "enps como texto ('8 - nota 8')", 207, 'convertido para inteiro')
+   ('pesquisa_clima', "satisfacao_gestor como rotulo ('Concordo')", 277, 'convertido para 1-5 (Discordo totalmente=1 ... Concordo totalmente=5)')
+   ('pesquisa_clima', 'satisfacao_carreira em branco', 58, 'mantido em branco (nao imputado)')
+   ('pesquisa_clima', 'datas DD/MM/AAAA', 3195, 'convertidas para AAAA-MM-DD')
+   ('faixas_salariais', 'sem problemas', 0, 'copiada sem alteracao')
+== 2. Conferindo a consistencia dos dados tratados
+   periodo: jan/2023 a dez/2025 (36 meses) | 1212 pessoas | 378 desligamentos | 25 linhas rejeitadas
+== 2/7. turnover.py
+   turnover.json ok: 2023-01 a 2025-12 | area com maior turnover: Atendimento
+== 3/7. salario_faixa.py
+   Analista     Junior  abaixo n= 38 27.0% | dentro n=111 14.1%
+   Analista     Pleno   abaixo n= 24 18.9% | dentro n=181 9.7%
+   Analista     Senior  abaixo n= 11 11.5% | dentro n=170 8.6%
+   Especialista Unico   abaixo n= 10 22.9% | dentro n= 60 5.6%
+   Coordenador  Unico   abaixo n= 13 19.4% | dentro n= 62 4.8%
+   Gerente      Unico   abaixo n=  3 40.5% | dentro n= 40 8.4%
+== 4/7. dados_relatorio.py
+   relatorio_dados.json ok | area critica: Atendimento | gestores criticos: ['Debora Santos', 'Beatriz Ferreira', 'Felipe Rodrigues'] | fatores no modelo: 15
+   {'Gestor crítico': (2.38, 'forte'), 'Atendimento': (1.86, 'forte'), 'Abaixo do piso': (2.1, 'forte'), 'Detrator (eNPS ≤ 6)': (1.48, 'moderado'), 'Satisfação carreira ≤ 2': (1.65, 'moderado'), 'Horas e
+== 5/7. gerar_relatorio.py
+   relatorio_turnover.html ok 51 KB
+== 6/7. dados_dashboard.py
+   {"kpi": {"headcount": 834, "hc_inicio": 620, "taxa": 0.17377312952534188, "taxa_vol": 0.13791518216296977, "taxa_inv": 0.03585794736237213, "saidas": 378, "vol": 300, "inv": 78, "anos": {"2023": {"tax
+   area [('Atendimento', 0.323), ('Logistica', 0.184), ('Financeiro', 0.161), ('RH', 0.145), ('Operacoes', 0.129), ('Tecnologia', 0.123), ('Comercial', 0.105), ('Marketing', 0.042)]
+   gestores 41 faixas [('Estagiario', 53), ('Assistente', 150), ('Assistente', 88), ('Analista', 98), ('Analista', 156), ('Analista', 140), ('Especialista', 56), ('Coordenador', 61), ('Gerente', 32)]
+== 7/7. gerar_dashboard.py
+   dashboard_turnover.html ok 55 KB
+== Arquivando em ENTREGAS/2025-T4/
+AVISOS:

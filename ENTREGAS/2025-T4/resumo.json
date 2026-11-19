@@ -1,0 +1,99 @@
+{
+ "rotulo": "2025-T4",
+ "ini": "2023-01",
+ "fim": "2025-12",
+ "meses": 36,
+ "headcount": 834,
+ "taxa_anual": 0.17377312952534188,
+ "taxa_vol_anual": 0.13791518216296977,
+ "saidas": 378,
+ "voluntarias": 300,
+ "custo_estimado": 5593339.5,
+ "enps": 7.4,
+ "enps_rodada": "2025-12-01",
+ "abaixo_do_piso": 72,
+ "piso_e_detrator": 27,
+ "detratores_ativos": 149,
+ "pessoas_com_2_sinais": 40,
+ "area_critica": "Atendimento",
+ "taxa_area_critica": 0.2548739895387542,
+ "gestores_criticos": [
+  "Debora Santos",
+  "Beatriz Ferreira",
+  "Felipe Rodrigues"
+ ],
+ "explicado_pelos_fatores": 0.42792241867981345,
+ "tendencia": {
+  "ult12": 0.1681480706891143,
+  "ant12": 0.18213176957571575
+ },
+ "fatores": {
+  "Gestor crítico": {
+   "orr": 2.38,
+   "nivel": "forte"
+  },
+  "Atendimento": {
+   "orr": 1.86,
+   "nivel": "forte"
+  },
+  "Abaixo do piso": {
+   "orr": 2.1,
+   "nivel": "forte"
+  },
+  "Detrator (eNPS ≤ 6)": {
+   "orr": 1.48,
+   "nivel": "moderado"
+  },
+  "Satisfação carreira ≤ 2": {
+   "orr": 1.65,
+   "nivel": "moderado"
+  },
+  "Horas extras ≥ 25h/mês": {
+   "orr": 1.48,
+   "nivel": "nenhum"
+  },
+  "Assistente Júnior": {
+   "orr": 1.19,
+   "nivel": "nenhum"
+  },
+  "Remoto": {
+   "orr": 0.79,
+   "nivel": "nenhum"
+  },
+  "Híbrido": {
+   "orr": 0.98,
+   "nivel": "nenhum"
+  },
+  "Faltas ≥ 3 em 3 meses": {
+   "orr": 0.98,
+   "nivel": "nenhum"
+  },
+  "Idade < 30": {
+   "orr": 1.18,
+   "nivel": "nenhum"
+  },
+  "Menos de 12 meses de casa": {
+   "orr": 1.22,
+   "nivel": "nenhum"
+  },
+  "Nunca promovido": {
+   "orr": 1.04,
+   "nivel": "nenhum"
+  },
+  "Satisfação salário ≤ 2": {
+   "orr": 1.03,
+   "nivel": "nenhum"
+  },
+  "Sem pesquisa recente": {
+   "orr": 1.07,
+   "nivel": "nenhum"
+  }
+ },
+ "excesso": {
+  "Atendimento": 69.9,
+  "Abaixo do piso": 49.7,
+  "Gestor crítico": 31.6,
+  "Horas extras ≥ 25h": 9.9
+ },
+ "avisos": []
+}
