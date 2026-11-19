@@ -1,0 +1,14 @@
+# metadados do macOS em disco exFAT
+._*
+.DS_Store
+__pycache__/
+*.pyc
+# regerados a cada execucao do pipeline
+DADOS_TRATADOS/
+RESULTADOS/
+# copia dos brutos dentro de cada entrega (os brutos ja estao em DADOS/)
+ENTREGAS/*/dados_brutos/
+# dicionario completo, so local (a versao publica esta em docs/dicionario_de_dados.md)
+DADOS/dicionario_de_dados_rh.md
+# versao antiga, fora do pipeline
+src/legado/
