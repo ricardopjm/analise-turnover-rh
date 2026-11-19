@@ -1,0 +1,270 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Painel de Turnover · Vantel Serviços</title>
+<style>
+/* Layout: faixa de KPIs, depois uma secao por pergunta; titulo de cada secao e a conclusao, nao o nome do grafico */
+:root{
+  --bg:#f3f4f6;--surface:#ffffff;--ink:#14181f;--ink2:#4a5260;--muted:#7b8494;--line:#dfe3e8;--grid:#eceef1;
+  --blue:#2a78d6;--orange:#eb6834;--purple:#6250d6;--crit:#c2362b;--dot:#8a94a6;--soft:#eef3fb;
+  --f:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#101216;--surface:#181b21;--ink:#eceef2;--ink2:#b7bcc7;--muted:#838b99;--line:#2b3039;--grid:#232730;--blue:#3987e5;--orange:#d95926;--purple:#9085e9;--crit:#ec6a5e;--dot:#6b7587;--soft:#1a2535;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#101216;--surface:#181b21;--ink:#eceef2;--ink2:#b7bcc7;--muted:#838b99;--line:#2b3039;--grid:#232730;--blue:#3987e5;--orange:#d95926;--purple:#9085e9;--crit:#ec6a5e;--dot:#6b7587;--soft:#1a2535;color-scheme:dark}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 var(--f);padding:28px max(20px,env(safe-area-inset-right,0px)) 56px max(20px,env(safe-area-inset-left,0px))}
+.wrap{max-width:1240px;margin:0 auto;display:flex;flex-direction:column;gap:20px}
+header{display:flex;justify-content:space-between;align-items:flex-end;gap:16px;flex-wrap:wrap}
+h1{font-size:26px;line-height:1.15;margin:0;font-weight:650;letter-spacing:-.01em}
+.sub{color:var(--ink2);font-size:14px;margin:4px 0 0}
+.asof{color:var(--muted);font-size:12.5px;text-align:right}
+.kpis{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:12px}
+@media (max-width:1000px){.kpis{grid-template-columns:repeat(2,minmax(0,1fr))}.kpis .kpi:last-child{grid-column:span 2}}
+.kpi{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:14px 16px;min-width:0}
+.kpi .l{font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:.06em}
+.kpi .v{font-size:32px;font-weight:650;line-height:1.15;margin:4px 0 2px;font-variant-numeric:tabular-nums;letter-spacing:-.02em}
+.kpi .d{font-size:12.5px;color:var(--ink2)}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:20px 22px;min-width:0;display:flex;flex-direction:column;gap:10px}
+.card h2{font-size:18px;line-height:1.3;margin:0;font-weight:650;text-wrap:balance;max-width:70ch}
+.card .eyebrow{font-size:11.5px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin:0}
+.card .note{font-size:12.5px;color:var(--muted);margin:0;max-width:90ch}
+.bar{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px 16px}
+.legend{display:flex;flex-wrap:wrap;gap:4px 16px;font-size:12.5px;color:var(--ink2)}
+.legend i{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:6px;vertical-align:-1px}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:6px;overflow:hidden;background:var(--bg)}
+.seg button{font:inherit;font-size:12.5px;color:var(--ink2);background:transparent;border:0;padding:5px 11px;cursor:pointer;border-right:1px solid var(--line)}
+.seg button:last-child{border-right:0}
+.seg button[aria-pressed="true"]{background:var(--ink);color:var(--surface)}
+.seg button:focus-visible{outline:2px solid var(--blue);outline-offset:-2px}
+.two{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}
+@media (max-width:900px){.two{grid-template-columns:minmax(0,1fr)}}
+svg{display:block;width:100%;height:auto;overflow:visible}
+svg text{font-family:var(--f);fill:var(--ink2);font-size:11.5px}
+.tip{position:fixed;pointer-events:none;background:var(--ink);color:var(--surface);padding:7px 10px;border-radius:6px;font-size:12px;line-height:1.45;z-index:30;display:none;max-width:260px;font-variant-numeric:tabular-nums;box-shadow:0 4px 14px rgba(0,0,0,.18)}
+footer{color:var(--muted);font-size:12.5px;max-width:110ch}
+.tag{display:inline-block;font-size:11px;border:1px solid var(--line);border-radius:4px;padding:0 6px;color:var(--ink2);margin-left:6px}
+@media print{body{background:#fff;padding:0}.seg{display:none}.card{break-inside:avoid}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <div><h1>Painel de Turnover</h1><p class="sub" id="sub-h"></p></div>
+  <div class="asof" id="asof"></div>
+</header>
+
+<section class="kpis" id="kpis"></section>
+
+<section class="card">
+  <p class="eyebrow">Evolução mensal</p>
+  <h2 id="h-mensal"></h2>
+  <div class="bar"><div class="legend" id="lg-mensal"></div><div class="seg" id="sg-mensal"></div></div>
+  <svg id="mensal" viewBox="0 0 1180 300" role="img" aria-label="Evolução mensal do turnover"></svg>
+</section>
+
+<div class="two">
+  <section class="card">
+    <p class="eyebrow">Por área</p>
+    <h2 id="h-area"></h2>
+    <div class="bar"><div class="legend"><span><i style="background:var(--blue)"></i>Voluntária</span><span><i style="background:var(--orange)"></i>Involuntária</span></div><div class="seg" id="sg-area"></div></div>
+    <svg id="area" role="img" aria-label="Turnover por área"></svg>
+    <p class="note">Taxa anualizada: saídas ÷ headcount médio ÷ anos do recorte.</p>
+  </section>
+  <section class="card">
+    <p class="eyebrow">Por modalidade de trabalho</p>
+    <h2 id="h-modal"></h2>
+    <div class="bar"><div class="legend"><span><i style="background:var(--blue)"></i>Voluntária</span><span><i style="background:var(--orange)"></i>Involuntária</span></div><div class="seg" id="sg-modal"></div></div>
+    <svg id="modal" role="img" aria-label="Turnover por modalidade"></svg>
+    <p class="note" id="n-modal"></p>
+  </section>
+</div>
+
+<section class="card">
+  <p class="eyebrow">Gestores</p>
+  <h2 id="h-gest"></h2>
+  <div class="bar"><div class="legend"><span><i style="background:var(--blue)"></i>Voluntária</span><span><i style="background:var(--orange)"></i>Involuntária</span></div><div class="seg" id="sg-gest"></div></div>
+  <svg id="gest" role="img" aria-label="Ranking de gestores por saída do time"></svg>
+  <p class="note">Equipe = pessoas ligadas ao gestor registrado no cadastro atual. Times pequenos, então a taxa oscila mais que a das áreas. Linha tracejada: mediana dos gestores.</p>
+</section>
+
+<section class="card">
+  <p class="eyebrow">Salários contra a faixa do cargo</p>
+  <h2 id="h-sal"></h2>
+  <div class="bar"><div class="legend" id="lg-sal"></div><div class="seg" id="sg-sal"></div></div>
+  <svg id="sal" role="img" aria-label="Distribuição salarial contra as faixas por cargo"></svg>
+  <p class="note">Cada ponto é uma pessoa ativa. A faixa cinza vai do piso ao teto do cargo e nível, e o traço escuro é a média da faixa. Pontos à esquerda do piso estão abaixo da faixa. *Mediana do salário ÷ média da faixa, para quem tem menos de 1,5 ano de casa e para quem tem mais de 4 anos (mostrado quando há 5 pessoas ou mais).</p>
+</section>
+
+<section class="card">
+  <p class="eyebrow">eNPS e desligamento</p>
+  <h2 id="h-enps"></h2>
+  <div class="two" style="gap:28px">
+    <div>
+      <div class="legend" style="margin-bottom:6px"><span><i style="background:var(--blue)"></i>Voluntária</span><span><i style="background:var(--orange)"></i>Involuntária</span></div>
+      <div style="font-size:13px;color:var(--ink2);margin-bottom:6px">Quem saiu em até 6 meses após responder a pesquisa, por grupo de nota</div>
+      <svg id="enps-seg" role="img" aria-label="Saída em 6 meses por grupo de eNPS"></svg>
+    </div>
+    <div>
+      <div style="font-size:13px;color:var(--ink2);margin-bottom:6px">eNPS geral por rodada (promotores % − detratores %)</div>
+      <svg id="enps-rod" role="img" aria-label="eNPS por rodada"></svg>
+    </div>
+  </div>
+  <p class="note" id="n-enps"></p>
+</section>
+
+<footer>
+  Fonte: colaboradores, histórico mensal, pesquisa de clima, desligamentos e faixas salariais, após tratamento (DADOS_TRATADOS). Turnover = saídas ÷ headcount médio, anualizado. Voluntário = pedido de demissão. Custo estimado = 3 vezes o último salário de cada pessoa desligada, como proxy de reposição, e não um custo contábil. Área, modalidade, gestor e salário são os do cadastro atual, não o histórico de cada mês.
+</footer>
+</div>
+<div class="tip" id="tip"></div>
+<script>
+const D=__DADOS__;
+const $=id=>document.getElementById(id), NS='http://www.w3.org/2000/svg', tip=$('tip');
+const pct=(x,n=1)=>(x*100).toFixed(n).replace('.',',')+'%';
+const num=(x,n=0)=>x.toLocaleString('pt-BR',{minimumFractionDigits:n,maximumFractionDigits:n});
+const brl=x=>x>=1e6?'R$ '+num(x/1e6,2)+' mi':'R$ '+num(x/1e3,0)+' mil';
+const MES=['jan','fev','mar','abr','mai','jun','jul','ago','set','out','nov','dez'];
+const nome=s=>({Operacoes:'Operações',Logistica:'Logística',Hibrido:'Híbrido'}[s]||s);
+const css=c=>`var(--${c})`;
+function el(p,t,a,txt){const e=document.createElementNS(NS,t);for(const k in a)e.setAttribute(k,a[k]);if(txt!=null)e.textContent=txt;p.appendChild(e);return e}
+function clear(svg){while(svg.firstChild)svg.removeChild(svg.firstChild)}
+function showTip(e,h){tip.innerHTML=h;tip.style.display='block';const w=tip.offsetWidth;let x=e.clientX+14;if(x+w>innerWidth-8)x=e.clientX-w-14;tip.style.left=x+'px';tip.style.top=Math.min(e.clientY+14,innerHeight-tip.offsetHeight-8)+'px'}
+function hover(e,h){e.addEventListener('mousemove',ev=>showTip(ev,h));e.addEventListener('mouseleave',()=>tip.style.display='none')}
+function seg(id,opts,def,fn){const d=$(id);d.innerHTML='';opts.forEach(([k,l])=>{const b=document.createElement('button');b.textContent=l;b.type='button';b.setAttribute('aria-pressed',k===def);b.onclick=()=>{[...d.children].forEach(x=>x.setAttribute('aria-pressed','false'));b.setAttribute('aria-pressed','true');fn(k)};d.appendChild(b)});fn(def)}
+
+/* barras horizontais: items {label,stack:[{v,c}],total,text,tip,sub} */
+function hbars(id,items,o={}){
+ const svg=$(id);clear(svg);const W=o.W||620,rh=o.rh||30,L=o.L||110,Rr=o.R||110,Tp=4,max=o.max||Math.max(...items.map(i=>i.total))*1.05;
+ const x=v=>L+(v/max)*(W-L-Rr);let y0=Tp;
+ items.forEach(it=>{const yy=y0;y0+=rh;const g=el(svg,'g',{});
+  el(g,'text',{x:L-10,y:yy+rh/2+4,'text-anchor':'end',style:'fill:var(--ink)'},it.label);
+  let acc=0;it.stack.forEach((s,k)=>{const w=x(acc+s.v)-x(acc);if(w>0.5)el(g,'rect',{x:x(acc)+(k&&acc>0?1.5:0),y:yy+5,width:Math.max(.5,w-(k&&acc>0?1.5:0)),height:rh-10,fill:css(s.c),rx:2});acc+=s.v});
+  el(g,'text',{x:x(it.total)+7,y:yy+rh/2+4,style:'fill:var(--ink);font-weight:600;paint-order:stroke;stroke:var(--surface);stroke-width:4px'},it.text);
+  if(it.sub)el(g,'text',{x:W,y:yy+rh/2+4,'text-anchor':'end',style:'font-size:11px'},it.sub);
+  const h=el(g,'rect',{x:0,y:yy,width:W,height:rh,fill:'transparent'});if(it.tip)hover(h,it.tip)});
+ if(o.ref){const rx=x(o.ref.v);el(svg,'line',{x1:rx,x2:rx,y1:Tp,y2:y0,stroke:'var(--ink2)','stroke-dasharray':'4 3'});el(svg,'text',{x:rx+4,y:y0+13},o.ref.label);y0+=16}
+ svg.setAttribute('viewBox',`0 0 ${W} ${y0+4}`)}
+
+/* ---------- KPIs ---------- */
+const K=D.kpi, PD=D.periodo, ER=D.enps_rodadas, eN=ER[ER.length-1], eP=ER[ER.length-2]||eN, eF=ER[0];
+const mesAno=m=>MES[+m.slice(5,7)-1]+'/'+m.slice(0,4), dataBR=d=>d.slice(8,10)+'/'+d.slice(5,7)+'/'+d.slice(0,4);
+const sgn=x=>{const r=Math.round(x);return (r>0?'+':r<0?'−':'')+num(Math.abs(r),0)};
+$('sub-h').textContent=`Vantel Serviços · Recursos Humanos · ${mesAno(PD.ini)} a ${mesAno(PD.fim)}`;
+$('asof').textContent=`Posição em ${dataBR(PD.ref)} · base sintética`;
+const mrot=d=>mesAno(d.slice(0,7));
+$('kpis').innerHTML=[
+ ['Headcount atual',num(K.headcount),`${pct(K.headcount/K.hc_inicio-1,0)} sobre ${mesAno(PD.ini)} (${num(K.hc_inicio)})`],
+ ['Turnover do período',pct(K.taxa),`ao ano · ${K.saidas} saídas em ${PD.n} meses`],
+ ['Turnover voluntário',pct(K.taxa_vol),`ao ano · ${K.vol} pedidos de demissão (${pct(K.vol/K.saidas,0)})`],
+ ['Custo estimado das saídas',brl(K.custo),`3× o salário por reposição · ${brl(K.custo/(PD.n/12))} por ano`],
+ ['eNPS geral',sgn(eN.enps),`pesquisa ${mrot(eN.data)} · ${sgn(eN.enps-eP.enps)} pts vs ${mrot(eP.data)} · ${sgn(eN.enps-eF.enps)} vs ${mrot(eF.data)}`]
+].map(([l,v,d])=>`<div class="kpi"><div class="l">${l}</div><div class="v">${v}</div><div class="d">${d}</div></div>`).join('');
+
+/* ---------- Evolução mensal ---------- */
+(function(){
+ const S=D.serie.map(s=>({...s,tot:s.vol+s.inv,r:(s.vol+s.inv)/s.hc_med,rv:s.vol/s.hc_med,ri:s.inv/s.hc_med}));
+ const a=K.anos;
+ const TD=K.tend,TR=TD?(Math.abs(TD.ult12-TD.ant12)<0.015?'sem tendência clara de piora ou melhora':TD.ult12>TD.ant12?'em alta':'em queda'):'';
+ $('h-mensal').textContent=TD?`Nos últimos 12 meses a taxa foi ${pct(TD.ult12)}, contra ${pct(TD.ant12)} nos 12 anteriores: ${TR}`:`A taxa anual do período foi ${pct(K.taxa)}`;
+ $('lg-mensal').innerHTML='<span><i style="background:var(--blue)"></i>Voluntária</span><span><i style="background:var(--orange)"></i>Involuntária</span><span id="lg-ma"><i style="background:var(--ink);height:2px;margin-top:5px"></i>Média móvel 3 meses</span>';
+ function draw(mode){
+  const svg=$('mensal');clear(svg);const W=1180,H=300,L=44,Rr=8,Tp=10,B=48,rate=mode==='taxa';
+  $('lg-ma').style.display=rate?'':'none';
+  const maxv=rate?0.028:Math.max(...S.map(s=>s.tot))+2, tick=rate?0.007:5, pw=W-L-Rr, step=pw/S.length, bw=step-3, y=v=>H-B-(v/maxv)*(H-B-Tp);
+  for(let g=0;g<=maxv+1e-9;g+=tick){el(svg,'line',{x1:L,x2:W-Rr,y1:y(g),y2:y(g),stroke:'var(--grid)'});el(svg,'text',{x:L-8,y:y(g)+4,'text-anchor':'end'},rate?num(g*100,1)+'%':num(g))}
+  S.forEach((s,i)=>{const x=L+i*step+1.5,g=el(svg,'g',{}),v=rate?s.rv:s.vol,iv=rate?s.ri:s.inv;
+   el(g,'rect',{x,y:y(v),width:bw,height:y(0)-y(v),fill:'var(--blue)',rx:2});
+   if(s.inv)el(g,'rect',{x,y:y(v)-(y(0)-y(iv))-2,width:bw,height:y(0)-y(iv),fill:'var(--orange)',rx:2});
+   const hit=el(g,'rect',{x:x-1.5,y:Tp,width:step,height:H-B-Tp,fill:'transparent'}),[yy,mm]=s.mes.split('-');
+   hover(hit,`<b>${MES[+mm-1]}/${yy}</b><br>Saídas: ${s.tot} (${s.vol} vol. · ${s.inv} invol.)<br>Taxa do mês: ${pct(s.r,2)}<br>Headcount médio: ${num(s.hc_med)}`);
+   if(['01','04','07','10'].includes(mm))el(svg,'text',{x:x+bw/2,y:H-B+16,'text-anchor':'middle'},MES[+mm-1])});
+  if(rate){const pts=[];S.forEach((s,i)=>{if(i<2)return;pts.push([L+i*step+1.5+bw/2,y((S[i].r+S[i-1].r+S[i-2].r)/3)])});el(svg,'polyline',{points:pts.map(p=>p.join(',')).join(' '),fill:'none',stroke:'var(--ink)','stroke-width':2,'stroke-linejoin':'round'})}
+  let i0=0;PD.anos.forEach((yr,k)=>{const n=S.filter(s=>s.mes.startsWith(yr)).length,cx=L+(i0+n/2)*step;
+   if(k>0)el(svg,'line',{x1:L+i0*step,x2:L+i0*step,y1:Tp,y2:H-B+30,stroke:'var(--line)','stroke-dasharray':'3 3'});
+   el(svg,'text',{x:cx,y:H-6,'text-anchor':'middle',style:'fill:var(--ink);font-weight:600;font-size:12.5px'},`${yr}${n<12?' ('+n+' meses)':''} · ${pct(a[yr].taxa)} a.a. · ${a[yr].tot} saídas`);i0+=n})}
+ seg('sg-mensal',[['taxa','Taxa mensal'],['n','Nº de saídas']],'taxa',draw)})();
+
+/* ---------- Área ---------- */
+(function(){
+ const at=D.area[0],tot=K.saidas,hcT=D.area.reduce((s,a)=>s+a.periodo.hc,0);
+ $('h-area').textContent=`${nome(at.nome)} tem ${pct(at.periodo.hc/hcT,0)} do headcount e ${pct(at.periodo.tot/tot,0)} das saídas, com taxa de ${pct(at.periodo.taxa,0)} ao ano`;
+ function draw(k){hbars('area',D.area.map(a=>{const p=a[k];return{label:nome(a.nome),stack:[{v:p.av,c:'blue'},{v:p.ai,c:'orange'}],total:p.taxa,text:pct(p.taxa),sub:`${p.tot} saídas`,tip:`<b>${nome(a.nome)}</b> · ${k==='periodo'?'período':k}<br>Taxa anual: ${pct(p.taxa)}<br>Voluntária: ${p.vol} (${pct(p.av)})<br>Involuntária: ${p.inv} (${pct(p.ai)})<br>Headcount médio: ${num(p.hc)}`}}),{W:470,L:100,R:92,max:0.42,rh:32})}
+ seg('sg-area',[['periodo','Período'],...PD.anos.map(y=>[String(y),String(y)])],'periodo',draw)})();
+
+/* ---------- Modalidade ---------- */
+(function(){
+ const TOP=D.top_area,M=D.modal['Todas as áreas'],pr=M.find(m=>m.nome==='Presencial'),rm=M.find(m=>m.nome==='Remoto'),R2=D.modal['Demais áreas'],
+  d1=pr.taxa-rm.taxa,d2=R2.find(m=>m.nome==='Presencial').taxa-R2.find(m=>m.nome==='Remoto').taxa;
+ const verbo=d1>0.01?`Presencial sai mais que remoto (${pct(pr.taxa,0)} contra ${pct(rm.taxa,0)})`:`Presencial e remoto têm turnover parecido (${pct(pr.taxa,0)} e ${pct(rm.taxa,0)})`;
+ const cauda=d1>0.01?(d2<d1*0.4?`, mas fora de ${nome(TOP)} a diferença praticamente desaparece`:d2<d1*0.75?`, e fora de ${nome(TOP)} a diferença diminui`:`, e a diferença persiste fora de ${nome(TOP)}`):'';
+ $('h-modal').textContent=verbo+cauda;
+ function draw(g){const rs=D.modal[g];
+  hbars('modal',rs.map(m=>({label:nome(m.nome),stack:[{v:m.av,c:'blue'},{v:m.ai,c:'orange'}],total:m.taxa,text:pct(m.taxa)+(m.hc<15?'*':''),sub:`${num(m.hc)} pessoas`,tip:`<b>${nome(m.nome)}</b> · ${nome(g)}<br>Taxa anual: ${pct(m.taxa)}<br>Saídas: ${m.tot} (${m.vol} vol. · ${m.inv} invol.)<br>Headcount médio: ${num(m.hc)}${m.hc<15?'<br>Base pequena, leia com cautela':''}`})),{W:470,L:92,R:92,max:Math.max(0.45,...rs.map(m=>m.taxa*1.15)),rh:44});
+  const at=D.modal[TOP],atP=at.find(m=>m.nome==='Presencial').hc,atT=at.reduce((s,m)=>s+m.hc,0);
+  $('n-modal').innerHTML=g==='Todas as áreas'?`${nome(TOP)} é a área com maior turnover e tem ${num(atP)} de ${num(atT)} pessoas no presencial${atP/atT>0.5?', o que puxa o presencial para cima':''}. Use os filtros acima para separar.`:`Pessoas = headcount médio no período.${rs.some(m=>m.hc<15)?' *Base muito pequena, leia com cautela.':''}`}
+ seg('sg-modal',[['Todas as áreas','Todas as áreas'],[TOP,'Só '+nome(TOP)],['Demais áreas','Sem '+nome(TOP)]],'Todas as áreas',draw)})();
+
+/* ---------- Gestores ---------- */
+(function(){
+ const G=D.gestores.map(g=>({...g,n:g.vol+g.inv,taxa:(g.vol+g.inv)/g.py,tv:g.vol/g.py,ti:g.inv/g.py})),
+  med=(a=>{const s=a.map(x=>x.taxa).sort((x,y)=>x-y);return s[Math.floor(s.length/2)]})(G),top=[...G].sort((a,b)=>b.taxa-a.taxa);
+ $('h-gest').textContent=`${top[0].nome} (${pct(top[0].taxa,0)} ao ano) e ${top[1].nome} (${pct(top[1].taxa,0)}) lideram o ranking, contra ${pct(med,0)} da mediana dos gestores`;
+ function draw(k){const rs=[...G].sort((a,b)=>k==='taxa'?b.taxa-a.taxa:b.n-a.n).slice(0,10);
+  hbars('gest',rs.map(g=>({label:g.nome,stack:k==='taxa'?[{v:g.tv,c:'blue'},{v:g.ti,c:'orange'}]:[{v:g.vol,c:'blue'},{v:g.inv,c:'orange'}],total:k==='taxa'?g.taxa:g.n,text:k==='taxa'?pct(g.taxa,0):num(g.n),sub:`${nome(g.area)} · ${g.ativos} ${g.ativos===1?'ativo':'ativos'} hoje`,
+   tip:`<b>${g.nome}</b> · ${nome(g.area)}<br>Saídas no período: ${g.n} (${g.vol} vol. · ${g.inv} invol.)<br>Taxa anual: ${pct(g.taxa)}<br>Ativos hoje: ${g.ativos}`})),
+  k==='taxa'?{W:1100,L:140,R:260,max:1.05,ref:{v:med,label:'mediana '+pct(med,0)}}:{W:1100,L:140,R:260,max:Math.max(...rs.map(g=>g.n))*1.08})}
+ seg('sg-gest',[['taxa','Taxa anual de saída'],['n','Nº de saídas']],'taxa',draw)})();
+
+/* ---------- Salários x faixas ---------- */
+(function(){
+ const F=D.faixas;let nb=0,tot=0;
+ F.forEach(f=>f.pessoas.forEach(p=>{tot++;if(p.s<f.mn)nb++}));
+ const novos=[],vets=[];F.forEach(f=>f.pessoas.forEach(p=>{const r=p.s/f.md;if(p.a<1.5)novos.push(r);else if(p.a>4)vets.push(r)}));
+ const mdn=a=>{const s=[...a].sort((x,y)=>x-y);return s[Math.floor(s.length/2)]};
+ const mN=mdn(novos),mV=mdn(vets);$('h-sal').textContent=`${nb} pessoas ativas (${pct(nb/tot)}) estão abaixo do piso da faixa`+(mN>mV*1.03?`, e quem entrou há menos de 1,5 ano ganha mais que quem tem mais de 4 anos no mesmo cargo`:mN<mV*0.97?`, e quem tem mais de 4 anos ganha mais que quem entrou há menos de 1,5 ano`:`, sem diferença relevante entre novos e veteranos`);
+ const LG={abaixo:['crit','Abaixo do piso'],novos:['blue','Menos de 1,5 ano de casa'],vets:['purple','Mais de 4 anos de casa']};
+ function draw(mode){
+  const svg=$('sal');clear(svg);const W=1180,rh=60,L=150,Rr=330,Tp=22,lo=-0.55,hi=1.45,x=v=>L+(v-lo)/(hi-lo)*(W-L-Rr);
+  $('lg-sal').innerHTML=`<span><i style="background:${css(LG[mode][0])}"></i>${LG[mode][1]}</span><span><i style="background:var(--dot);opacity:.6"></i>Demais</span>`;
+  el(svg,'text',{x:x(0),y:Tp-8,'text-anchor':'middle'},'piso');el(svg,'text',{x:x(1),y:Tp-8,'text-anchor':'middle'},'teto');
+  [['n','Ativos'],['b','Abaixo do piso'],['m','Novos · veteranos*']].forEach(([k,l],i)=>el(svg,'text',{x:[W-Rr+16,W-Rr+76,W-Rr+176][i],y:Tp-8,style:'font-size:10.5px;fill:var(--muted)'},l));
+  F.forEach((f,i)=>{const yy=Tp+i*rh,cy=yy+rh/2,g=el(svg,'g',{}),pos=s=>(s-f.mn)/(f.mx-f.mn);
+   el(g,'text',{x:L-12,y:cy+4,'text-anchor':'end',style:'fill:var(--ink);font-weight:600'},f.cargo+(f.nivel==='Unico'?'':' '+f.nivel.replace('Junior','Júnior').replace('Senior','Sênior')));
+   el(g,'rect',{x:x(0),y:cy-17,width:x(1)-x(0),height:34,fill:'var(--grid)',rx:3});
+   const pm=pos(f.md);el(g,'line',{x1:x(pm),x2:x(pm),y1:cy-19,y2:cy+19,stroke:'var(--ink2)','stroke-width':2});
+   const ord=f.pessoas.map((p,k)=>({p,k,m:(mode==='abaixo'?p.s<f.mn:mode==='novos'?p.a<1.5:p.a>4)})).sort((a,b)=>a.m-b.m);
+   ord.forEach(({p,k,m})=>{const jy=((k*7919)%100)/100*26-13,c=el(g,'circle',{cx:x(Math.max(lo,Math.min(hi,pos(p.s)))),cy:cy+jy,r:m?3.6:3,fill:m?css(LG[mode][0]):'var(--dot)',opacity:m?.95:.45});
+    hover(c,`<b>${num(p.s,0).replace(/^/,'R$ ')}</b><br>${num(p.s/f.md*100,0)}% da faixa média<br>${num(p.a,1)} anos de casa${p.s<f.mn?'<br>Abaixo do piso':''}`)});
+   const nbk=f.pessoas.filter(p=>p.s<f.mn).length,nv=f.pessoas.filter(p=>p.a<1.5).map(p=>p.s/f.md),vv=f.pessoas.filter(p=>p.a>4).map(p=>p.s/f.md);
+   const tx=(xx,t,b)=>el(g,'text',{x:xx,y:cy+4,style:(b?'fill:var(--crit);font-weight:600':'fill:var(--ink)')},t);
+   tx(W-Rr+16,num(f.pessoas.length));tx(W-Rr+76,nbk?`${nbk} (${pct(nbk/f.pessoas.length,0)})`:'0',nbk>0);
+   tx(W-Rr+176,(nv.length>=5?pct(mdn(nv),0):'–')+'  ·  '+(vv.length>=5?pct(mdn(vv),0):'–'));
+   if(i<F.length-1)el(g,'line',{x1:0,x2:W,y1:yy+rh,y2:yy+rh,stroke:'var(--grid)'})});
+  svg.setAttribute('viewBox',`0 0 ${W} ${Tp+F.length*rh+4}`)}
+ seg('sg-sal',[['abaixo','Destacar abaixo do piso'],['novos','Destacar novos'],['vets','Destacar veteranos']],'abaixo',draw);
+ window.__sal={nb,tot,nm:mdn(novos),vm:mdn(vets)}})();
+
+/* ---------- eNPS e desligamento ---------- */
+(function(){
+ const S=D.enps_seg,d=S[0],p=S[2],rt=x=>x.saiu/x.n;
+ const rz=rt(d)/rt(p);$('h-enps').textContent=rz>1.2?`Detratores saem ${num(rz,1)} vezes mais que promotores: ${pct(rt(d))} contra ${pct(rt(p))} deixam a empresa em até 6 meses`:`A taxa de saída em 6 meses é parecida entre detratores (${pct(rt(d))}) e promotores (${pct(rt(p))})`;
+ const J=D.enps_janela;$('n-enps').textContent=`Detrator: nota 0 a 6. Neutro: 7 e 8. Promotor: 9 e 10. O acompanhamento de 6 meses usa as rodadas de ${J.ini?mrot(J.ini):'—'} a ${J.fim?mrot(J.fim):'—'}; as rodadas mais recentes ainda não completaram 6 meses. A mesma pessoa pode aparecer em mais de uma rodada.`;
+ hbars('enps-seg',S.map(s=>({label:s.nome==='Detrator'?'Detrator (0 a 6)':s.nome==='Neutro'?'Neutro (7 e 8)':'Promotor (9 e 10)',stack:[{v:s.vol/s.n,c:'blue'},{v:(s.saiu-s.vol)/s.n,c:'orange'}],total:rt(s),text:pct(rt(s)),sub:`${num(s.n)} respostas`,
+  tip:`<b>${s.nome}</b><br>${s.saiu} de ${num(s.n)} saíram em 6 meses (${pct(rt(s))})<br>Voluntárias: ${s.vol} · Involuntárias: ${s.saiu-s.vol}`})),{W:560,L:120,R:100,max:0.2,rh:46});
+ /* eNPS por rodada */
+ const svg=$('enps-rod'),W=560,H=250,L=44,Rr=20,Tp=18,B=34,mn=-20,mx=20,y=v=>H-B-(v-mn)/(mx-mn)*(H-B-Tp),x=i=>L+(i+.5)*(W-L-Rr)/ER.length;
+ [-20,-10,0,10,20].forEach(t=>{el(svg,'line',{x1:L,x2:W-Rr,y1:y(t),y2:y(t),stroke:t===0?'var(--ink2)':'var(--grid)','stroke-dasharray':t===0?'4 3':''});el(svg,'text',{x:L-8,y:y(t)+4,'text-anchor':'end'},(t>0?'+':t<0?'−':'')+Math.abs(t))});
+ el(svg,'polyline',{points:ER.map((r,i)=>x(i)+','+y(r.enps)).join(' '),fill:'none',stroke:'var(--blue)','stroke-width':2.5,'stroke-linejoin':'round'});
+ ER.forEach((r,i)=>{const[yy,mm]=r.data.split('-'),g=el(svg,'g',{});
+  el(g,'circle',{cx:x(i),cy:y(r.enps),r:5,fill:'var(--blue)',stroke:'var(--surface)','stroke-width':2});
+  el(g,'text',{x:x(i),y:y(r.enps)-12,'text-anchor':'middle',style:'fill:var(--ink);font-weight:600'},sgn(r.enps));
+  el(g,'text',{x:x(i),y:H-12,'text-anchor':'middle'},`${MES[+mm-1]}/${yy.slice(2)}`);
+  const h=el(g,'rect',{x:x(i)-30,y:Tp,width:60,height:H-B-Tp,fill:'transparent'});
+  hover(h,`<b>${MES[+mm-1]}/${yy}</b><br>eNPS: ${sgn(r.enps)}<br>Promotores: ${pct(r.pro/r.n,0)} · Detratores: ${pct(r.det/r.n,0)}<br>${r.n} respostas`)});
+ svg.setAttribute('viewBox',`0 0 ${W} ${H}`)})();
+</script>
+</body>
+</html>
